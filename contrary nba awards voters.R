@@ -87,6 +87,8 @@ all_rook<-read_csv("all-rook.csv") %>%
 all_voting=mvp %>% add_row(roy) %>% add_row(dpoy) %>% add_row(mip) %>% 
   add_row(smoy) %>% add_row(coy) %>% add_row(all_nba) %>% add_row(all_def) %>% add_row(all_rook)
 
+rm(mvp,roy,dpoy,mip,smoy,coy,all_nba,all_def,all_rook)
+
 all_voting=all_voting %>% mutate(player=gsub("\\(.*","",player)) %>% 
        mutate(player=gsub("--.*","",player)) %>% mutate(player=str_trim(player)) %>% 
        separate(player,into=c("last","first"),sep=", ",convert = TRUE) %>%
@@ -126,6 +128,7 @@ ballot_num=all_voting %>% group_by(year,award) %>% tally() %>% mutate(num_ballot
   award %in% c("All-Defense","All-Rook")~n/10,
   award=="All-NBA"~n/15)) %>% select(-n)
 
+
 all_voting=left_join(all_voting,ballot_num) %>% group_by(year,award,player) %>% 
   mutate(tot_pts=sum(points_given),
          avg_pts=(tot_pts-points_given)/(num_ballots-1),
@@ -134,12 +137,29 @@ all_voting=left_join(all_voting,ballot_num) %>% group_by(year,award,player) %>%
   group_by(year,award,voter_name) %>% mutate(avg_consensus_dev=sqrt(mean(sq_pt_diff)),
                                              contrary_score=sum(avg_consensus_dev))
 
-View(all_voting %>% group_by(year,award,voter_name) %>% slice_max(sq_pt_diff,with_ties=FALSE))
+#View(all_voting %>% group_by(award) %>% slice_max(sq_pt_diff))
 
-View(all_voting %>% group_by(year,award,voter_name) %>% slice_max(sq_pt_diff,with_ties=FALSE) %>%
-       group_by(year,voter_name) %>% mutate(yr_contrary=sum(contrary_score),num_awards_voted=n()) %>% 
-       slice_max(sq_pt_diff) %>% group_by(voter_name) %>% 
-       mutate(career_contrary=sum(yr_contrary),num_yrs_voting=n(),
-              avg_contrary_yr=mean(yr_contrary),num_awards_voted_tot=sum(num_awards_voted)))
+write_csv(all_voting,"All NBA Voting Ballots.csv")
 
-     
+most_contrary_vote=all_voting %>% group_by(year,award,voter_name) %>% 
+  slice_max(sq_pt_diff,with_ties=FALSE) %>% select(voter_name:sq_pt_diff)
+
+write_csv(most_contrary_vote,"Most Contrary Vote on Each Voter's Ballot.csv")
+
+yearly_contrary=all_voting %>% group_by(year,award,voter_name) %>% slice_max(sq_pt_diff,with_ties=FALSE) %>%
+  group_by(year,voter_name) %>% arrange(desc(contrary_score)) %>%
+  mutate(yr_contrary=sum(contrary_score),num_awards_voted=n()) %>% slice(1) %>%
+  select(voter_name:award,avg_consensus_dev:num_awards_voted)
+
+write_csv(yearly_contrary,"Yearly Contrary Scores.csv")
+
+career_contrary=all_voting %>% group_by(voter_name) %>% 
+  mutate(num_picks_made=n(),first_vote=min(year),last_vote=max(year)) %>%
+  group_by(year,award,voter_name) %>% slice_max(sq_pt_diff,with_ties=FALSE) %>%
+  group_by(voter_name) %>% mutate(career_contrary_sc=sum(contrary_score),num_awards_voted=n(),
+                                  contrary_per_ballot=career_contrary_sc/num_awards_voted,
+                                  contrary_per_pick=career_contrary_sc/num_picks_made) %>%
+  slice(1) %>% 
+  select(voter_name,first_vote:last_vote,career_contrary_sc:contrary_per_pick,num_picks_made)
+
+write_csv(career_contrary,"Career Contrary Scores.csv")
