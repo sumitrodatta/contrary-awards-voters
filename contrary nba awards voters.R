@@ -149,7 +149,7 @@ write_csv(most_contrary_vote,"Most Contrary Vote on Each Voter's Ballot.csv")
 yearly_contrary=all_voting %>% group_by(year,award,voter_name) %>% slice_max(sq_pt_diff,with_ties=FALSE) %>%
   group_by(year,voter_name) %>% arrange(desc(contrary_score)) %>%
   mutate(yr_contrary=sum(contrary_score),num_awards_voted=n()) %>% slice(1) %>%
-  select(voter_name:award,avg_consensus_dev:num_awards_voted)
+  select(voter_name:year,yr_contrary:num_awards_voted)
 
 write_csv(yearly_contrary,"Yearly Contrary Scores.csv")
 
