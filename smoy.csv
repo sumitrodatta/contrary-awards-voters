@@ -1,665 +1,765 @@
 voter_name,affiliation,first_place_five_pts,second_place_three_pts,third_place_one_pt,year,award
-Jason Kosmicki,Altitude Radio Network,"Barton, Will -- DEN","Anderson, Ryan -- NOP","Kanter, Enes -- OKC",2016,SMOY
-David Wesley,Fox Sports New Orleans,"Barton, Will -- DEN","Anderson, Ryan -- NOP","Lin, Jeremy -- CHA",2016,SMOY
-Eddie Sefko,Dallas Morning News,"Crawford, Jamal -- LAC","Anderson, Ryan -- NOP","Iguodala, Andre -- GS",2016,SMOY
-Brian Sieman,The Beast 980,"Crawford, Jamal -- LAC","Anderson, Ryan -- NOP","Kanter, Enes -- OKC",2016,SMOY
-Jason Lieser,Palm Beach Post,"Iguodala, Andre -- GS","Anderson, Ryan -- NOP","Barton, Will -- DEN",2016,SMOY
-Jeff Zillgitt,USA Today,"Iguodala, Andre -- GS","Anderson, Ryan -- NOP","Crawford, Jamal -- LAC",2016,SMOY
-Mike Crispino,MSG Network,"Turner, Evan -- BOS","Barea, Jose Juan -- DAL","Schroder, Dennis -- ATL",2016,SMOY
-Jason Quick,Comcast SportsNet NW,"Anderson, Ryan -- NOP","Barton, Will -- DEN","Kanter, Enes -- OKC",2016,SMOY
-Jody Genessy,Deseret News,"Crawford, Jamal -- LAC","Barton, Will -- DEN","Iguodala, Andre -- GS",2016,SMOY
-Rod Beard,Detroit News,"Crawford, Jamal -- LAC","Barton, Will -- DEN","Turner, Evan -- BOS",2016,SMOY
-Dennis Neumann,ESPN 580 AM,"Crawford, Jamal -- LAC","Barton, Will -- DEN","Anderson, Ryan -- NOP",2016,SMOY
-Kevin Calabro,ESPN Radio,"Crawford, Jamal -- LAC","Barton, Will -- DEN","Livingston, Shaun -- GS",2016,SMOY
-Jim Petersen,Fox Sports North,"Crawford, Jamal -- LAC","Barton, Will -- DEN","Iguodala, Andre -- GS",2016,SMOY
-Andre Aldridge,Fox Sports South,"Crawford, Jamal -- LAC","Barton, Will -- DEN","Kanter, Enes -- OKC",2016,SMOY
-Walt Frazier,MSG Network,"Crawford, Jamal -- LAC","Barton, Will -- DEN","Lin, Jeremy -- CHA",2016,SMOY
-Chris Haynes,Northeast Ohio Media Group/Cleveland.com,"Crawford, Jamal -- LAC","Barton, Will -- DEN","LaVine, Zach -- MIN",2016,SMOY
-Frank Isola,Sirius Radio/New York Daily News,"Crawford, Jamal -- LAC","Barton, Will -- DEN","Turner, Evan -- BOS",2016,SMOY
-Bill Simmons,Bill Simmons Podcast/HBO,"Iguodala, Andre -- GS","Barton, Will -- DEN","Livingston, Shaun -- GS",2016,SMOY
-Doris Burke,ESPN,"Iguodala, Andre -- GS","Barton, Will -- DEN","Crawford, Jamal -- LAC",2016,SMOY
-Zach Lowe,ESPN.com,"Iguodala, Andre -- GS","Barton, Will -- DEN","Davis, Ed -- POR",2016,SMOY
-Bill Land,Fox Sports Southwest,"Iguodala, Andre -- GS","Barton, Will -- DEN","Turner, Evan -- BOS",2016,SMOY
-Jim Paschke,Fox Sports Wisconsin,"Iguodala, Andre -- GS","Barton, Will -- DEN","Kanter, Enes -- OKC",2016,SMOY
-Jonathan Feigen,Houston Chronicle,"Iguodala, Andre -- GS","Barton, Will -- DEN","Crawford, Jamal -- LAC",2016,SMOY
-Bill Oram,Orange County Register,"Iguodala, Andre -- GS","Barton, Will -- DEN","Crawford, Jamal -- LAC",2016,SMOY
-John Denton,OrlandoMagic.com,"Iguodala, Andre -- GS","Barton, Will -- DEN","Crabbe, Allen -- POR",2016,SMOY
-Glenn Consor,106.7 The Fan,"Kanter, Enes -- OKC","Barton, Will -- DEN","Crawford, Jamal -- LAC",2016,SMOY
-Bill Schoening,WOAI Radio,"Kanter, Enes -- OKC","Barton, Will -- DEN","Turner, Evan -- BOS",2016,SMOY
-Sean Deveney,The Sporting News,"Schroder, Dennis -- ATL","Barton, Will -- DEN","Kanter, Enes -- OKC",2016,SMOY
-Michelle Beadle,ABC/ESPN,"Williams, Lou (LAC)","Barton, Will (DEN)","Gordon, Eric (HOU)",2018,SMOY
-Joe Cowley,Chicago Sun‐Times,"Williams, Lou (LAC)","Barton, Will (DEN)","Gordon, Eric (HOU)",2018,SMOY
-Gina Mizell,Denver Post,"Williams, Lou (LAC)","Barton, Will (DEN)","Gordon, Eric (HOU)",2018,SMOY
-Rod Beard,Detroit News,"Williams, Lou (LAC)","Barton, Will (DEN)","Gordon, Eric (HOU)",2018,SMOY
-Chris Haynes,ESPN.com,"Williams, Lou (LAC)","Barton, Will (DEN)","Gordon, Eric (HOU)",2018,SMOY
-Thales Soares,Globoesporte.com,"Williams, Lou (LAC)","Barton, Will (DEN)","Rozier, Terry (BOS)",2018,SMOY
-Manny Navarro,Miami Herald,"Williams, Lou (LAC)","Barton, Will (DEN)","Olynyk, Kelly (MIA)",2018,SMOY
-Paul Flannery,SB Nation,"Williams, Lou (LAC)","Barton, Will (DEN)","Gordon, Eric (HOU)",2018,SMOY
-Elliott Teaford,Southern California News Group,"Williams, Lou (LAC)","Barton, Will (DEN)","Gordon, Eric (HOU)",2018,SMOY
-Rob Mahoney,Sports Illustrated,"Williams, Lou (LAC)","Barton, Will (DEN)","Mbah a Moute, Luc (HOU)",2018,SMOY
-Stacey King,Comcast SportsNet Chicago,"Thomas, Isaiah -- BOS","Brewer, Corey -- HOU","Thompson, Tristan -- CLE",2015,SMOY
-Richard Walker,Gaston Gazette,"Williams, Lou (LAC)","Clarkson, Jordan (CLE)","Gordon, Eric (HOU)",2018,SMOY
-Chris Marlowe,Altitude Sports & Entertainment,"Barton, Will -- DEN","Collison, Darren -- SAC","Crawford, Jamal -- LAC",2016,SMOY
-Eric Hasseltine,92.9 FM ESPN/680 AM ESPN,"Anderson, Ryan -- NOP","Crawford, Jamal -- LAC","Lin, Jeremy -- CHA",2016,SMOY
-Dwain Price,Ft. Worth Star Telegam,"Anderson, Ryan -- NOP","Crawford, Jamal -- LAC","Kanter, Enes -- OKC",2016,SMOY
-Ken Berger,CBSSports.com,"Barton, Will -- DEN","Crawford, Jamal -- LAC","Kanter, Enes -- OKC",2016,SMOY
-Steve Buckhantz,Comcast SportsNet Mid-Atlantic,"Barton, Will -- DEN","Crawford, Jamal -- LAC","Kanter, Enes -- OKC",2016,SMOY
-Jon Barry,ESPN Radio,"Barton, Will -- DEN","Crawford, Jamal -- LAC","Iguodala, Andre -- GS",2016,SMOY
-Antonio Harvey,Fox Sports Radio/620AM,"Barton, Will -- DEN","Crawford, Jamal -- LAC","Anderson, Ryan -- NOP",2016,SMOY
-Mike Breen,ABC Sports,"Iguodala, Andre -- GS","Crawford, Jamal -- LAC","Kanter, Enes -- OKC",2016,SMOY
-John Krawczynski,Associated Press,"Iguodala, Andre -- GS","Crawford, Jamal -- LAC","Thompson, Tristan -- CLE",2016,SMOY
-Diamond Leung,Bay Area News Group,"Iguodala, Andre -- GS","Crawford, Jamal -- LAC","Barton, Will -- DEN",2016,SMOY
-Dave McMenamin,ESPN.com,"Iguodala, Andre -- GS","Crawford, Jamal -- LAC","Thompson, Tristan -- CLE",2016,SMOY
-Ron Tillery,Memphis Commercial Appeal,"Iguodala, Andre -- GS","Crawford, Jamal -- LAC","Barton, Will -- DEN",2016,SMOY
-Fran Blinebury,NBA.com,"Iguodala, Andre -- GS","Crawford, Jamal -- LAC","Williams, Lou -- TOR",2015,SMOY
-Rusty Simmons,San Francisco Chronicle,"Iguodala, Andre -- GS","Crawford, Jamal -- LAC","Anderson, Ryan -- NOP",2016,SMOY
-Alan Horton,WCCO 830-AM,"Iguodala, Andre -- GS","Crawford, Jamal -- LAC","Turner, Evan -- BOS",2016,SMOY
-Chris Carrino,WFAN (660),"Iguodala, Andre -- GS","Crawford, Jamal -- LAC","Lin, Jeremy -- CHA",2016,SMOY
-Tim Capstraw,WFAN (660),"Iguodala, Andre -- GS","Crawford, Jamal -- LAC","Barea, Jose Juan -- DAL",2016,SMOY
-Gary Gerould,Comcast SportsNet-CA,"Kanter, Enes -- OKC","Crawford, Jamal -- LAC","Iguodala, Andre -- GS",2016,SMOY
-Chris Dempsey,Denver Post,"Kanter, Enes -- OKC","Crawford, Jamal -- LAC","Barton, Will -- DEN",2016,SMOY
-Vince Ellis,Detroit Free Press,"Kanter, Enes -- OKC","Crawford, Jamal -- LAC","Barton, Will -- DEN",2016,SMOY
-Brian Davis,Fox Sports Oklahoma,"Kanter, Enes -- OKC","Crawford, Jamal -- LAC","Iguodala, Andre -- GS",2016,SMOY
-Michael Cage,Fox Sports Oklahoma,"Kanter, Enes -- OKC","Crawford, Jamal -- LAC","Iguodala, Andre -- GS",2016,SMOY
-Jason Jones,Sacramento Bee,"Kanter, Enes -- OKC","Crawford, Jamal -- LAC","Iguodala, Andre -- GS",2016,SMOY
-Chris Sheridan,Sheridanhoops.com,"Kanter, Enes -- OKC","Crawford, Jamal -- LAC","Barton, Will -- DEN",2016,SMOY
-Ernie Johnson,TNT,"Kanter, Enes -- OKC","Crawford, Jamal -- LAC","Barton, Will -- DEN",2016,SMOY
-Ramona Shelburne,ESPN.com,"Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC","Williams, Lou -- TOR",2015,SMOY
-Stephanie Ready,Fox Sports Carolinas/SportSouth,"Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC","Williams, Lou -- TOR",2015,SMOY
-Chris Haynes,Northeast Ohio Media Group/Cleveland.com,"Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC","Williams, Lou -- TOR",2015,SMOY
-Ron Boone,ROOT Sports,"Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC","Iguodala, Andre -- GS",2015,SMOY
-Bill Schoening,WOAI Radio,"Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC","Williams, Lou -- TOR",2015,SMOY
-Glenn Consor,106.7 The Fan,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Kaman, Chris -- POR",2015,SMOY
-Sam Smith,Bulls.com,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Iguodala, Andre -- GS",2015,SMOY
-Jabari Young,Comcast SportsNet NW,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Thomas, Isaiah -- BOS",2015,SMOY
-Eddie Sefko,Dallas Morning News,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Thompson, Tristan -- CLE",2015,SMOY
-Chris Denari,Fox Sports Indiana,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Thomas, Isaiah -- BOS",2015,SMOY
-Joel Meyers,Fox Sports New Orleans,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Morrow, Anthony -- OKC",2015,SMOY
-Bob Rathbun,Fox Sports South,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Iguodala, Andre -- GS",2015,SMOY
-Candace Buckner,Indianapolis Star,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Thomas, Isaiah -- BOS",2015,SMOY
-Al Iannazzone,Newsday,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Thomas, Isaiah -- BOS",2015,SMOY
-Ira Winderman,South Florida Sun Sentinel,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Speights, Marreese -- GS",2015,SMOY
-David Aldridge,TNT,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Thomas, Isaiah -- BOS",2015,SMOY
-Eric Smith,TSN 1050/Sportsnet 590 The Fan,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Thomas, Isaiah -- BOS",2015,SMOY
-Jalen Rose,ABC/ESPN,"Gordon, Eric (Hou.)","Crawford, Jamal (LA-C)","Williams, Lou (Hou.)",2017,SMOY
-Eddie Sefko,Dallas Morning News,"Gordon, Eric (Hou.)","Crawford, Jamal (LA-C)","Williams, Lou (Hou.)",2017,SMOY
-Steve Smith,Turner,"Gordon, Eric (Hou.)","Crawford, Jamal (LA-C)","Williams, Lou (Hou.)",2017,SMOY
-Neil Funk,Comcast SportsNet Chicago,"Barton, Will -- DEN","Davis, Ed -- POR","Crawford, Jamal -- LAC",2016,SMOY
-Andy Vasquez,Bergen Record,"Iguodala, Andre -- GS","Davis, Ed -- POR","Kanter, Enes -- OKC",2016,SMOY
-Jim Barnett,Comcast SportsNet Bay Area,"Iguodala, Andre -- GS","Davis, Ed -- POR","Barton, Will -- DEN",2016,SMOY
-Kevin Arnovitz,ESPN.com,"Iguodala, Andre -- GS","Davis, Ed -- POR","Thompson, Tristan -- CLE",2016,SMOY
-Eric Collins,Hornets Radio,"Thompson, Tristan -- CLE","Davis, Ed -- POR","Kanter, Enes -- OKC",2016,SMOY
-Brian Scalabrine,Comcast SportsNet New England,"Crawford, Jamal -- LAC","Diaw, Boris -- SA","Livingston, Shaun -- GS",2016,SMOY
-Eric Woodyard,Deseret News,"Williams, Lou (LAC)","Dinwiddie, Spencer (BKN)","Morris, Monte (DEN)",2019,SMOY
-Anthony Slater,The Athletic,"Williams, Lou (LAC)","Dinwiddie, Spencer (BKN)","Harrell, Montrezl (LAC)",2019,SMOY
-Casey Stern,Turner Sports,"Williams, Lou (LAC)","Dinwiddie, Spencer (BKN)","Harrell, Montrezl (LAC)",2019,SMOY
-Rod Beard,Detroit News,"Williams, Lou (LAC)","Dinwiddie, Spencer (BKN)","Sabonis, Domantas (IND)",2019,SMOY
-Amin Elhassan,ESPN,"Williams, Lou (LAC)","Dinwiddie, Spencer (BKN)","Sabonis, Domantas (IND)",2019,SMOY
-Keith Pompey,Philadelphia Inqurier and Daily News,"Williams, Lou (LAC)","Dinwiddie, Spencer (BKN)","Sabonis, Domantas (IND)",2019,SMOY
-Michael Grange,Rogers Sportsnet,"Williams, Lou (LAC)","Dinwiddie, Spencer (BKN)","Sabonis, Domantas (IND)",2019,SMOY
-Frank Isola,Sirius Radio/The Athletic,"Williams, Lou (LAC)","Dinwiddie, Spencer (BKN)","Sabonis, Domantas (IND)",2019,SMOY
-Tim Reynolds,Associated Press,"Williams, Lou (LAC)","Ellington, Wayne (MIA)","Belinelli, Marco (PHI)",2018,SMOY
-Ron Tillery,Memphis Commercial Appeal,"Crawford, Jamal -- LAC","Ginobili, Manu -- SA","Thomas, Isaiah -- BOS",2015,SMOY
-Mike Rice,Comcast SportsNet NW,"Iguodala, Andre -- GS","Ginobili, Manu -- SA","Gibson, Taj -- CHI",2015,SMOY
-Tim Bontemps,New York Post,"Iguodala, Andre -- GS","Ginobili, Manu -- SA","Williams, Lou -- TOR",2015,SMOY
-TJ Manotoc,ABC-CBN,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Johnson, James (Mia.)",2017,SMOY
-Michael Wilbon,ABC/ESPN,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Randolph, Zach (Mem.)",2017,SMOY
-Rachel Nichols,ABC/ESPN,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Johnson, James (Mia.)",2017,SMOY
-Doug Haller,Arizona Republic,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Crawford, Jamal (LA-C)",2017,SMOY
-Anthony Slater,Bay Area News Group,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Mills, Patty (S.A.)",2017,SMOY
-KC Johnson,Chicago Tribune,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Johnson, James (Mia.)",2017,SMOY
-Rod Beard,Detroit News,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Monroe, Greg (Mil.)",2017,SMOY
-Jon Barry,ESPN Radio,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Williams, Lou (Hou.)",2017,SMOY
-Jackie MacMullan,ESPN.com,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Williams, Lou (Hou.)",2017,SMOY
-Justin Verrier,ESPN.com,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Monroe, Greg (Mil.)",2017,SMOY
-Zach Lowe,ESPN.com,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Johnson, James (Mia.)",2017,SMOY
-Nira Khurana,Excelsior,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Randolph, Zach (Mem.)",2017,SMOY
-Jerry Zgoda,Minneapolis Star-Tribune,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Kanter, Enes (OKC.)",2017,SMOY
-Antoni Daimiel,Moviestar+,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Johnson, James (Mia.)",2017,SMOY
-Lang Whitaker,NBA.com,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Crawford, Jamal (LA-C)",2017,SMOY
-Steve Aschburner,NBA.com,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Randolph, Zach (Mem.)",2017,SMOY
-Kurt Helin,NBCSports.com,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Williams, Lou (Hou.)",2017,SMOY
-Brian Lewis,New York Post,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Monroe, Greg (Mil.)",2017,SMOY
-Marcelo Nogueira,Ole,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Mills, Patty (S.A.)",2017,SMOY
-Michael Grange,Rogers Sportsnet,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Randolph, Zach (Mem.)",2017,SMOY
-Ailene Voisin,Sacramento Bee,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Mills, Patty (S.A.)",2017,SMOY
-Jason Jones,Sacramento Bee,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Mills, Patty (S.A.)",2017,SMOY
-Tony Jones,Salt Lake Tribune,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Crawford, Jamal (LA-C)",2017,SMOY
-Jeff McDonald,San Antonio Express-News,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Williams, Lou (Hou.)",2017,SMOY
-Yoko Miyaji,Sports Graphic Number,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Johnson, James (Mia.)",2017,SMOY
-Andrew Sharp,Sports Illustrated,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Williams, Lou (Hou.)",2017,SMOY
-Lisa Shen Yang,Tencent,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Monroe, Greg (Mil.)",2017,SMOY
-Joe Freeman,The Oregonian,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Johnson, James (Mia.)",2017,SMOY
-Kevin O'Connor,The Ringer,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Monroe, Greg (Mil.)",2017,SMOY
-Ryan Wolstat,Toronto Sun,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Johnson, James (Mia.)",2017,SMOY
-David Aldridge,Turner,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Williams, Lou (Hou.)",2017,SMOY
-Kevin Harlan,Turner,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Monroe, Greg (Mil.)",2017,SMOY
-Kristen Ledlow,Turner,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Johnson, James (Mia.)",2017,SMOY
-Jeff Zillgitt,USA Today,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Monroe, Greg (Mil.)",2017,SMOY
-Matt Winer,Turner,"Kanter, Enes (OKC.)","Gordon, Eric (Hou.)","Randolph, Zach (Mem.)",2017,SMOY
-Gary Washburn,Boston Globe,"Williams, Lou (Hou.)","Gordon, Eric (Hou.)","Johnson, James (Mia.)",2017,SMOY
-Richard Walker,Gaston Gazette,"Williams, Lou (Hou.)","Gordon, Eric (Hou.)","Mills, Patty (S.A.)",2017,SMOY
-Chris Webber,Turner,"Williams, Lou (Hou.)","Gordon, Eric (Hou.)","Randolph, Zach (Mem.)",2017,SMOY
-Ernie Johnson,Turner,"Williams, Lou (Hou.)","Gordon, Eric (Hou.)","Kanter, Enes (OKC.)",2017,SMOY
-Reggie Miller,Turner,"Williams, Lou (Hou.)","Gordon, Eric (Hou.)","Kanter, Enes (OKC.)",2017,SMOY
-Doris Burke,ABC/ESPN,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Mark Jackson,ABC/ESPN,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Rozier, Terry (BOS)",2018,SMOY
-Michael Wilbon,ABC/ESPN,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Ellington, Wayne (MIA)",2018,SMOY
-Mike Breen,ABC/ESPN,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-TJ Manotoc,ABS‐CBN,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Ellington, Wayne (MIA)",2018,SMOY
-Brian Mahoney,Associated Press,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Howard Beck,Bleacher Report,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Ric Bucher,Bleacher Report,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Weiping Zhang,CCTV,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Hood, Rodney (CLE)",2018,SMOY
-KC Johnson,Chicago Tribune,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Eddie Sefko,Dallas Morning News,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barea, J.J. (DAL)",2018,SMOY
-Cassidy Hubbarth,ESPN,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Jon Barry,ESPN Radio,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Mirotic, Nikola (NOP)",2018,SMOY
-Marc Kestecher,ESPN Radio,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Amin Elhassan,ESPN.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Brian Windhorst,ESPN.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Dave McMenamin,ESPN.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Jackie MacMullan,ESPN.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Kevin Arnovitz,ESPN.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Ramona Shelburne,ESPN.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Royce Young,ESPN.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Zach Lowe,ESPN.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Nira Khurana,Excelsior,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Chris Broussard,Fox Sports,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Clifton Brown,Indianapolis Star,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Davide Chinellato,La Gazzetta dello Sport,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Ron Tillery,Memphis Commercial Appeal,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Matt Velazquez,Milwaukee Journal Sentinel,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Jerry Zgoda,Minneapolis Star Tribune,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-John Schuhmann,NBA.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Sekou Smith,NBA.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Steve Aschburner,NBA.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Vincent Goodwill,NBC Sports Chicago,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Satoransky, Tomas (WAS)",2018,SMOY
-Jason Quick,NBC Sports Northwest,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Clarkson, Jordan (CLE)",2018,SMOY
-Kurt Helin,NBCSports.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Chase Hughes,NBCSportsWashington.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Kuzma, Kyle (IND)",2018,SMOY
-Stefan Bondy,New York Daily News,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Marc Berman,New York Post,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Greg Logan,Newsday,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Bill Oram,Orange County Register,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Keith Pompey,Philadelphia Inquirer,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Michael Grange,Rogers Sportsnet,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Ailene Voisin,Sacramento Bee,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Jason Jones,Sacramento Bee,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Jeff McDonald,San Antonio Express‐News,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Connor Letourneau,San Francisco Chronicle,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Justin Termine,Sirius Radio,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Flavio Tranquillo,Sky Italia,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Poeltl, Jakob (TOR)",2018,SMOY
-Andrew Sharp,Sports Illustrated,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Lee Jenkins,Sports Illustrated,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Lisa Shen Yang,Tencent,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Jason Lloyd,The Athletic,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Brett Dawson,The Oklahoman,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Bill Simmons,The Ringer,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Kevin O'Connor,The Ringer,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Mike Ganter,Toronto Sun,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Chris Webber,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Kuzma, Kyle (IND)",2018,SMOY
-David Aldridge,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Mirotic, Nikola (NOP)",2018,SMOY
-Dennis Scott,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Ernie Johnson,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Greg Anthony,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Jared Greenberg,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Rozier, Terry (BOS)",2018,SMOY
-Kristen Ledlow,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Ellington, Wayne (MIA)",2018,SMOY
-Marv Albert,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Matt Winer,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Ellington, Wayne (MIA)",2018,SMOY
-Reggie Miller,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Rosalyn Gold‐Onwude,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Steve Smith,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
-Jeff Zillgitt,USA Today,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Ellington, Wayne (MIA)",2018,SMOY
-Sam Amick,USA Today,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Ellington, Wayne (MIA)",2018,SMOY
-Chris Mannix,Yahoo!,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Ric Bucher,Bleacher Report,"Gordon, Eric (Hou.)","Hardaway Jr., Tim (Atl.)","Iguodala, Andre (G.S.)",2017,SMOY
-Brian Mahoney,Associated Press,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Dragic, Goran (MIA)",2020,SMOY
-Tim Reynolds,Associated Press,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Dragic, Goran (MIA)",2020,SMOY
-Gary Washburn,Boston Globe,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
+Marv Albert,Turner,"Clarkson, Jordan (UTA)","Boucher, Chris (TOR)","Brunson, Jalen (DAL)",2021,SMOY
+Sam Amick,The Athletic,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Rose, Derrick (NYK)",2021,SMOY
+Greg Anthony,Turner,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Portis, Bobby (MIL)",2021,SMOY
+Kevin Arnovitz,ESPN,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Harrell, Montrezl (LAL)",2021,SMOY
+Steve Aschburner,NBA.com,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Rose, Derrick (NYK)",2021,SMOY
+Evan Barnes,Memphis Commercial Appeal,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Hardaway Jr., Tim (DAL)",2021,SMOY
+Jon Barry,ESPN,"Clarkson, Jordan (UTA)","Harrell, Montrezl (LAL)","Boucher, Chris (TOR)",2021,SMOY
+Howard Beck,Sports Illustrated,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Hardaway Jr., Tim (DAL)",2021,SMOY
+Stefan Bondy,New York Daily News,"Clarkson, Jordan (UTA)","Brunson, Jalen (DAL)","Boucher, Chris (TOR)",2021,SMOY
+Tim Bontemps,ESPN,"Ingles, Joe (UTA)","Hardaway Jr., Tim (DAL)","Rose, Derrick (NYK)",2021,SMOY
+Chris Broussard,Fox Sports,"Clarkson, Jordan (UTA)","Hardaway Jr., Tim (DAL)","Ingles, Joe (UTA)",2021,SMOY
+Ric Bucher,Sirius Radio,"Clarkson, Jordan (UTA)","Rose, Derrick (NYK)","Brunson, Jalen (DAL)",2021,SMOY
+Doris Burke,ESPN,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Brunson, Jalen (DAL)",2021,SMOY
+Shams Charania,The Athletic/Stadium,"Clarkson, Jordan (UTA)","Rose, Derrick (NYK)","Brunson, Jalen (DAL)",2021,SMOY
+Anthony Chiang,Miami Herald,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Rose, Derrick (NYK)",2021,SMOY
+Davide Chinellato,La Gazzetta Dello Sport,"Clarkson, Jordan (UTA)","Rose, Derrick (NYK)","Anthony, Carmelo (POR)",2021,SMOY
+Mauricio Codocea,Clarin (Argentina),"Clarkson, Jordan (UTA)","Harrell, Montrezl (LAL)","Rose, Derrick (NYK)",2021,SMOY
+Jamal Collier,Chicago Tribune,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Rose, Derrick (NYK)",2021,SMOY
+Antoni Daimiel,Movistar+,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Rose, Derrick (NYK)",2021,SMOY
+Dan Devine,The Ringer,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Brunson, Jalen (DAL)",2021,SMOY
+Chris Fedor,Cleveland.com,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Hardaway Jr., Tim (DAL)",2021,SMOY
+Joe Freeman,The Oregonian,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Rose, Derrick (NYK)",2021,SMOY
+Vince Goodwill,Yahoo! Sports,"Clarkson, Jordan (UTA)","Hardaway Jr., Tim (DAL)","Rose, Derrick (NYK)",2021,SMOY
+Kyle Goon,Southern California News Group,"Ingles, Joe (UTA)","Hardaway Jr., Tim (DAL)","Rose, Derrick (NYK)",2021,SMOY
+Michael Grange,Rogers Sportsnet,"Ingles, Joe (UTA)","Brunson, Jalen (DAL)","Kanter, Enes (POR)",2021,SMOY
+Jared Greenberg,Turner,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Anthony, Carmelo (POR)",2021,SMOY
+Kevin Harlan,Turner,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Brunson, Jalen (DAL)",2021,SMOY
+Zach Harper,The Athletic,"Ingles, Joe (UTA)","Brunson, Jalen (DAL)","Clarkson, Jordan (UTA)",2021,SMOY
+Max Haupt,DPA,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Brunson, Jalen (DAL)",2021,SMOY
+Chris Haynes,Yahoo! Sports,"Clarkson, Jordan (UTA)","Kanter, Enes (POR)","Boucher, Chris (TOR)",2021,SMOY
+Kurt Helin,NBCSports.com,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Brunson, Jalen (DAL)",2021,SMOY
+Adam Himmelsbach,Boston Globe,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Rose, Derrick (NYK)",2021,SMOY
+Lisa Hsu,Tencent,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Rose, Derrick (NYK)",2021,SMOY
+Cassidy Hubbarth,ESPN,"Clarkson, Jordan (UTA)","Brunson, Jalen (DAL)","Rose, Derrick (NYK)",2021,SMOY
+Kelly Iko,The Athletic,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Hardaway Jr., Tim (DAL)",2021,SMOY
+Frank Isola,Sirius Radio,"Clarkson, Jordan (UTA)","Milton, Shake (PHI)","Brunson, Jalen (DAL)",2021,SMOY
+Mark Jackson,ESPN,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Rose, Derrick (NYK)",2021,SMOY
+Ernie Johnson,Turner,"Clarkson, Jordan (UTA)","Rose, Derrick (NYK)","Portis, Bobby (MIL)",2021,SMOY
+Jason Jones,The Athletic,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Brunson, Jalen (DAL)",2021,SMOY
+Tony Jones,The Athletic,"Clarkson, Jordan (UTA)","Brunson, Jalen (DAL)","Ingles, Joe (UTA)",2021,SMOY
+Fred Katz,The Athletic,"Ingles, Joe (UTA)","Brunson, Jalen (DAL)","Clarkson, Jordan (UTA)",2021,SMOY
+Marc Kestecher,ESPN,"Clarkson, Jordan (UTA)","Brunson, Jalen (DAL)","Rose, Derrick (NYK)",2021,SMOY
+Chris Kirschner,The Athletic,"Ingles, Joe (UTA)","Brunson, Jalen (DAL)","Clarkson, Jordan (UTA)",2021,SMOY
+Scott Kushner,New Orleans Times Picayune,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Harrell, Montrezl (LAL)",2021,SMOY
+Brian Lewis,New York Post,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Rose, Derrick (NYK)",2021,SMOY
+Zach Lowe,ESPN,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Hardaway Jr., Tim (DAL)",2021,SMOY
+Jackie MacMullan,ESPN,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Harrell, Montrezl (LAL)",2021,SMOY
+Brian Mahoney,Associated Press,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Portis, Bobby (MIL)",2021,SMOY
+Rob Mahoney,The Ringer,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Young, Thaddeus (CHI)",2021,SMOY
+Chris Mannix,Sports Illustrated,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Harrell, Montrezl (LAL)",2021,SMOY
+Diego Martinez,Reforma,"Clarkson, Jordan (UTA)","Harrell, Montrezl (LAL)","Ingles, Joe (UTA)",2021,SMOY
+Jeff McDonald,San Antonio Express-News,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Brunson, Jalen (DAL)",2021,SMOY
+Dave McMenamin,ESPN,"Clarkson, Jordan (UTA)","Rose, Derrick (NYK)","Brunson, Jalen (DAL)",2021,SMOY
+Mark Medina,USA Today,"Clarkson, Jordan (UTA)","Brunson, Jalen (DAL)","Rose, Derrick (NYK)",2021,SMOY
+Yoko Miyaji,Sports Graphic Number,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Rose, Derrick (NYK)",2021,SMOY
+Joe Mussatto,The Oklahoman,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Rose, Derrick (NYK)",2021,SMOY
+Rachel Nichols,ESPN,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Rose, Derrick (NYK)",2021,SMOY
+Kevin O'Connor,The Ringer,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Brunson, Jalen (DAL)",2021,SMOY
+James Owczarski,Milwaukee Journal Sentinel,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Brunson, Jalen (DAL)",2021,SMOY
+Candace Parker,Turner,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Hardaway Jr., Tim (DAL)",2021,SMOY
+Roy Parry,Orlando Sentinel,"Clarkson, Jordan (UTA)","McConnell, T.J. (IND)","Portis, Bobby (MIL)",2021,SMOY
+Dave Pasch,ESPN,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Rose, Derrick (NYK)",2021,SMOY
+Kevin Pelton,ESPN,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Boucher, Chris (TOR)",2021,SMOY
+Keith Pompey,Philadelphia Inquirer and Daily News,"Clarkson, Jordan (UTA)","Rose, Derrick (NYK)","Anthony, Carmelo (POR)",2021,SMOY
+Shaun Powell,NBA.com,"Clarkson, Jordan (UTA)","Bridges, Miles (CHA)","Young, Thaddeus (CHI)",2021,SMOY
+Duane Rankin,Arizona Republic,"Clarkson, Jordan (UTA)","Rose, Derrick (NYK)","Portis, Bobby (MIL)",2021,SMOY
+Bill Reiter,CBSSports.com,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Brunson, Jalen (DAL)",2021,SMOY
+Tim Reynolds,Associated Press,"Clarkson, Jordan (UTA)","Brunson, Jalen (DAL)","Ingles, Joe (UTA)",2021,SMOY
+Melissa Rohlin,Fox Sports,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Brunson, Jalen (DAL)",2021,SMOY
+Taylor Rooks,Bleacher Report,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Brunson, Jalen (DAL)",2021,SMOY
+Jalen Rose,ESPN,"Clarkson, Jordan (UTA)","Rose, Derrick (NYK)","Portis, Bobby (MIL)",2021,SMOY
+Simone Sandri,Gazzetta.it,"Clarkson, Jordan (UTA)","Rose, Derrick (NYK)","Brunson, Jalen (DAL)",2021,SMOY
+Omari Sankofa II,Detroit Free Press,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Brunson, Jalen (DAL)",2021,SMOY
+John Schuhmann,NBA.com,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Kanter, Enes (POR)",2021,SMOY
+Guillermo Schutz,Televisa (TUDN),"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Rose, Derrick (NYK)",2021,SMOY
+Dennis Scott,Turner,"Clarkson, Jordan (UTA)","Rose, Derrick (NYK)","Hardaway Jr., Tim (DAL)",2021,SMOY
+Ramona Shelburne,ESPN,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Hardaway Jr., Tim (DAL)",2021,SMOY
+Bill Simmons,The Ringer,"Clarkson, Jordan (UTA)","Rose, Derrick (NYK)","Ingles, Joe (UTA)",2021,SMOY
+Mike Singer,Denver Post,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Rose, Derrick (NYK)",2021,SMOY
+Anthony Slater,The Athletic,"Ingles, Joe (UTA)","Brunson, Jalen (DAL)","Clarkson, Jordan (UTA)",2021,SMOY
+Doug Smith,The Toronto Star,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Rose, Derrick (NYK)",2021,SMOY
+Stephen A. Smith,ESPN,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Brunson, Jalen (DAL)",2021,SMOY
+Steve Smith,Turner,"Clarkson, Jordan (UTA)","Brunson, Jalen (DAL)","Ingles, Joe (UTA)",2021,SMOY
+Seerat Sohi,The Ringer,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Brunson, Jalen (DAL)",2021,SMOY
+Daisuke Sugiura,Nihon Keizai Shimbun,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Rose, Derrick (NYK)",2021,SMOY
+Mirjam Swanson,Southern California News Group,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Anthony, Carmelo (POR)",2021,SMOY
+Maria Taylor,ESPN,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Anthony, Carmelo (POR)",2021,SMOY
+Justin Termine,Sirius Radio,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Brunson, Jalen (DAL)",2021,SMOY
+Brad Townsend,Dallas Morning News,"Ingles, Joe (UTA)","Brunson, Jalen (DAL)","Hardaway Jr., Tim (DAL)",2021,SMOY
+Christos Tsaltas,SDNA.gr,"Clarkson, Jordan (UTA)","Anthony, Carmelo (POR)","Campazzo, Facundo (DEN)",2021,SMOY
+Olgun Uluc,ESPN Australia,"Ingles, Joe (UTA)","Clarkson, Jordan (UTA)","Brunson, Jalen (DAL)",2021,SMOY
+Joe Vardon,The Athletic,"Clarkson, Jordan (UTA)","Brunson, Jalen (DAL)","Rose, Derrick (NYK)",2021,SMOY
+Gary Washburn,Boston Globe,"Clarkson, Jordan (UTA)","Rose, Derrick (NYK)","Ingles, Joe (UTA)",2021,SMOY
+Michael Wilbon,ESPN,"Clarkson, Jordan (UTA)","Rose, Derrick (NYK)","Harrell, Montrezl (LAL)",2021,SMOY
+Brian Windhorst,ESPN,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Rose, Derrick (NYK)",2021,SMOY
+Matt Winer,Turner,"Clarkson, Jordan (UTA)","Rose, Derrick (NYK)","Ingles, Joe (UTA)",2021,SMOY
+Ryan Wolstat,The Toronto Sun,"Rose, Derrick (NYK)","Ingles, Joe (UTA)","McConnell, T.J. (IND)",2021,SMOY
+Michael C. Wright,NBA.com,"Clarkson, Jordan (UTA)","Ingles, Joe (UTA)","Brunson, Jalen (DAL)",2021,SMOY
+Royce Young,ESPN,"Clarkson, Jordan (UTA)","Hardaway Jr., Tim (DAL)","Ingles, Joe (UTA)",2021,SMOY
+Jeff Zillgitt,USA Today,"Clarkson, Jordan (UTA)","Rose, Derrick (NYK)","Brunson, Jalen (DAL)",2021,SMOY
+Adam Himmelsbach,Boston Globe,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
+Amin Elhassan,ESPN,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
+Andy Larsen,Salt Lake Tribune,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Hill, George (MIL)",2020,SMOY
+Anthony Chiang,Miami Herald,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
 Antoine Bancharel,Canal+ Afrique,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Hill, George (MIL)",2020,SMOY
-Chris Fedor,Cleveland.com,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Wood, Christian (DET)",2020,SMOY
-Rod Beard,Detroit News,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Wood, Christian (DET)",2020,SMOY
+Antoni Daimiel,Movistar+,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
+Bill Simmons,The Ringer,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Wood, Christian (DET)",2020,SMOY
+Brad Townsend,Dallas Morning News,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
+Brian Mahoney,Associated Press,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Dragic, Goran (MIA)",2020,SMOY
+Brian Windhorst,ESPN,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Wood, Christian (DET)",2020,SMOY
+Candace Parker,Turner,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Schroder, Dennis (OKC)",2020,SMOY
+Casey Stern,Turner,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Schroder, Dennis (OKC)",2020,SMOY
 Cassidy Hubbarth,ESPN,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
-Rachel Nichols,ESPN,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
-Royce Young,ESPN,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Dragic, Goran (MIA)",2020,SMOY
-Coral Lu,ESPN-Tencent,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
 Chris Broussard,Fox Sports,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
-Maxime Malet,L'Equipe,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Hill, George (MIL)",2020,SMOY
-Simone Sandri,La Gazzetta Dello Sport,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
-Evan Barnes,Memphis Commercial Appeal,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
-Marc Berman,New York Post,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Howard, Dwight (LAL)",2020,SMOY
-Jason Anderson,Sacramento Bee,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
-Yoko Miyaji,Sports Graphic Number,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
+Chris Fedor,Cleveland.com,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Wood, Christian (DET)",2020,SMOY
+Chris Haynes,Yahoo! Sports,"Schroder, Dennis (OKC)","Williams, Lou (LAC)","Harrell, Montrezl (LAC)",2020,SMOY
+Chris Hine,Minneapolis Star Tribune,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
+Chris Kirschner,The Athletic,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
 Chris Mannix,Sports Illustrated,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
-Lisa Hsu,Tencent,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Wood, Christian (DET)",2020,SMOY
-Sam Amick,The Athletic,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
-Erik Horne,The Athletic,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
-Kelly Iko,The Athletic,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
-Fred Katz,The Athletic,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Hill, George (MIL)",2020,SMOY
+Chris Sasaki,Rakuten,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
+Connor Letourneau,San Francisco Chronicle,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Hill, George (MIL)",2020,SMOY
+Coral Lu,ESPN-Tencent,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
+Dan Devine,The Ringer,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Hill, George (MIL)",2020,SMOY
+Dave McMenamin,ESPN,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
+Dave Pasch,ESPN,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Hill, George (MIL)",2020,SMOY
+Davide Chinellato,La Gazzetta dello Sport,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Schroder, Dennis (OKC)",2020,SMOY
+Dennis Scott,Turner,"Williams, Lou (LAC)","Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)",2020,SMOY
+Diego Martinez,Reforma,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
+Doris Burke,ESPN,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
 Doug Smith,The Toronto Star,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
-Marv Albert,Turner,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
-Jared Greenberg,Turner,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Dragic, Goran (MIA)",2020,SMOY
-Kevin Harlan,Turner,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
-Matt Winer,Turner,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
-Mark Medina,USA Today,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
-Seerat Sohi,Yahoo! Sports,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Wood, Christian (DET)",2020,SMOY
-Kennegh Lau,BesTV,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Crowder, Jae (UTA)",2019,SMOY
-Brian Windhorst,ESPN,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Wade, Dwyane (MIA)",2019,SMOY
-Kevin Pelton,ESPN,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Iguodala, Andre (GSW)",2019,SMOY
-Diego Martinez,Reforma,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Rose, Derrick (MIN)",2019,SMOY
-Josh Robbins,The Athletic,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Ross, Terrence (ORL)",2019,SMOY
-Joe Vardon,The Athletic,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Hill, George (MIL)",2020,SMOY
-Zach Harper,The Athletic,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Ross, Terrence (ORL)",2019,SMOY
-Vince Goodwill,Yahoo! Sports,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Wade, Dwyane (MIA)",2019,SMOY
-Michelle Beadle,ESPN,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Dinwiddie, Spencer (BKN)",2019,SMOY
-Brian Lewis,New York Post,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Dinwiddie, Spencer (BKN)",2019,SMOY
-Chris Haynes,Yahoo! Sports,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Dinwiddie, Spencer (BKN)",2019,SMOY
-Brian Mahoney,Associated Press,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
-Ric Bucher,Bleacher Report,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
-Andre Voigt,DAZN,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
-Mike Singer,Denver Post,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
-Dave Pasch,ESPN,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
-Kevin Arnovitz,ESPN,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
-Ramona Shelburne,ESPN,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
-Tim MacMahon,ESPN,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
-Justin Termine,Sirius Radio,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
-Mirjam Swanson,Southern California News Group,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
-Andrew Sharp,Sports Illustrated,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
-Rob Mahoney,Sports Illustrated,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
-Kelly Iko,The Athletic,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
-Sam Amick,The Athletic,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
-Will Guillory,The Athletic,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
-Erik Horne,The Oklahoman,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
-Joe Freeman,The Oregonian,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
-Kristen Ledlow,Turner Sports,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
-Reggie Miller,Turner Sports,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
-Jeff Zillgitt,USA Today,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
-Jalen Rose,ESPN,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)",2020,SMOY
+Duane Rankin,Arizona Republic,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
+Erik Horne,The Athletic,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
+Ernie Johnson,Turner,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
+Evan Barnes,Memphis Commercial Appeal,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
+Frank Isola,Sirius Radio,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
+Fred Katz,The Athletic,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Hill, George (MIL)",2020,SMOY
+Gary Washburn,Boston Globe,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
+Greg Anthony,Turner,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
 Greg Logan,Newsday,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)",2020,SMOY
-Shams Charania,The Athletic/Stadium,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)",2020,SMOY
-Tim Bontemps,ESPN,"Harrell, Montrezl (LAC)","Hill, George (MIL)","Schroder, Dennis (OKC)",2020,SMOY
+Howard Beck,Bleacher Report,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
+Jackie MacMullan,ESPN,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
+Jalen Rose,ESPN,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)",2020,SMOY
+Jared Greenberg,Turner,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Dragic, Goran (MIA)",2020,SMOY
+Jason Anderson,Sacramento Bee,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
+Jason Quick,The Athletic,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Wood, Christian (DET)",2020,SMOY
+Jeff McDonald,San Antonio Express-News,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
 Jeff Zillgitt,USA Today,"Harrell, Montrezl (LAC)","Hill, George (MIL)","Schroder, Dennis (OKC)",2020,SMOY
-Bill Worrell,Root Sports Southwest,"Anderson, Ryan -- NOP","Iguodala, Andre -- GS","Crawford, Jamal -- LAC",2016,SMOY
-Mark Boyle,107.5/1070 The Fan,"Barton, Will -- DEN","Iguodala, Andre -- GS","Kanter, Enes -- OKC",2016,SMOY
-Bill Reiter,CBSSports.com,"Barton, Will -- DEN","Iguodala, Andre -- GS","Kanter, Enes -- OKC",2016,SMOY
-Steve Holman,Hawks Radio Network,"Barton, Will -- DEN","Iguodala, Andre -- GS","Schroder, Dennis -- ATL",2016,SMOY
-Nate Taylor,Indianapolis Star,"Barton, Will -- DEN","Iguodala, Andre -- GS","Livingston, Shaun -- GS",2016,SMOY
-Ted Davis,WTMJ Radio,"Barton, Will -- DEN","Iguodala, Andre -- GS","Anderson, Ryan -- NOP",2016,SMOY
-Dave Johnson,106.7 The Fan,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Lin, Jeremy -- CHA",2016,SMOY
-Brian Mahoney,Associated Press,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Lin, Jeremy -- CHA",2016,SMOY
-John Michael,Cavaliers Radio,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Barton, Will -- DEN",2016,SMOY
-Joe Cowley,Chicago Sun-Times,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Kanter, Enes -- OKC",2016,SMOY
-Mike Gorman,Comcast SportsNet New England,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Turner, Evan -- BOS",2016,SMOY
-Hubie Brown,ESPN,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Thompson, Tristan -- CLE",2016,SMOY
-Michael Wilbon,ESPN,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Kanter, Enes -- OKC",2016,SMOY
-JA Adande,ESPN.com,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Kanter, Enes -- OKC",2016,SMOY
-Marc Stein,ESPN.com,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Kanter, Enes -- OKC",2016,SMOY
-Ramona Shelburne,ESPN.com,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Patterson, Patrick -- TOR",2016,SMOY
-Calvin Watkins,ESPN.com Houston,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Kanter, Enes -- OKC",2016,SMOY
-Chris Denari,Fox Sports Indiana,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Barton, Will -- DEN",2016,SMOY
-Pete Pranica,Fox Sports Southeast,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Barton, Will -- DEN",2016,SMOY
-Fran Blinebury,NBA.com,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Kanter, Enes -- OKC",2016,SMOY
-Lang Whitaker,NBA.com,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Kanter, Enes -- OKC",2016,SMOY
-Marc Berman,New York Post,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Anderson, Ryan -- NOP",2016,SMOY
-Michael Smith,Prime Ticket,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Barton, Will -- DEN",2016,SMOY
-Marc Spears,The Undefeated,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Kanter, Enes -- OKC",2016,SMOY
-Sean Kelley,WRNO 99.5 FM,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Kanter, Enes -- OKC",2016,SMOY
-Tim Kempton,KTAR Radio,"Davis, Ed -- POR","Iguodala, Andre -- GS","Teletovic, Mirza -- PHX",2016,SMOY
-Adam Himmelsbach,Boston Globe,"Kanter, Enes -- OKC","Iguodala, Andre -- GS","Turner, Evan -- BOS",2016,SMOY
-Grant Napear,Comcast SportsNet-CA,"Kanter, Enes -- OKC","Iguodala, Andre -- GS","Barton, Will -- DEN",2016,SMOY
-Mike Tirico,ESPN,"Kanter, Enes -- OKC","Iguodala, Andre -- GS","Crawford, Jamal -- LAC",2016,SMOY
-Royce Young,ESPN.com,"Kanter, Enes -- OKC","Iguodala, Andre -- GS","Schroder, Dennis -- ATL",2016,SMOY
-Jeff Turner,Fox Sports Florida,"Kanter, Enes -- OKC","Iguodala, Andre -- GS","Barton, Will -- DEN",2016,SMOY
-Matt Winer,NBA TV,"Kanter, Enes -- OKC","Iguodala, Andre -- GS","Turner, Evan -- BOS",2016,SMOY
-David Aldridge,TNT,"Kanter, Enes -- OKC","Iguodala, Andre -- GS","Crawford, Jamal -- LAC",2016,SMOY
-Michael Wilbon,ESPN,"Thomas, Isaiah -- BOS","Iguodala, Andre -- GS","Williams, Lou -- TOR",2015,SMOY
-Bill Land,Fox Sports Southwest,"Thomas, Isaiah -- BOS","Iguodala, Andre -- GS","Williams, Lou -- TOR",2015,SMOY
-Eddie Johnson,Fox Sports Arizona,"Thompson, Tristan -- CLE","Iguodala, Andre -- GS","Crawford, Jamal -- LAC",2016,SMOY
-Ric Bucher,Bleacher Report,"Turner, Evan -- BOS","Iguodala, Andre -- GS","Diaw, Boris -- SA",2016,SMOY
-Mike Breen,ABC Sports,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Thompson, Tristan -- CLE",2015,SMOY
-Paul Coro,Arizona Republic,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Thomas, Isaiah -- BOS",2015,SMOY
-Howard Beck,Bleacher Report,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Mirotic, Nikola -- CHI",2015,SMOY
-KC Johnson,Chicago Tribune,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Thomas, Isaiah -- BOS",2015,SMOY
-Chris Dempsey,Denver Post,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Crawford, Jamal -- LAC",2015,SMOY
-Kevin Calabro,ESPN Radio,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Thompson, Tristan -- CLE",2015,SMOY
-Kevin Arnovitz,ESPN.com,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Thompson, Tristan -- CLE",2015,SMOY
-Brian Davis,Fox Sports Oklahoma,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Thompson, Tristan -- CLE",2015,SMOY
-Andre Aldridge,Fox Sports South,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Crawford, Jamal -- LAC",2015,SMOY
-Charles Gardner,Milwaukee Journal Sentinel,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Mirotic, Nikola -- CHI",2015,SMOY
-Lang Whitaker,NBA.com,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Thomas, Isaiah -- BOS",2015,SMOY
-Aaron Falk,Salt Lake Tribune,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Thomas, Isaiah -- BOS",2015,SMOY
-Alan Horton,WCCO 830-AM,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Thomas, Isaiah -- BOS",2015,SMOY
-Ted Davis,WTMJ Radio,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Thomas, Isaiah -- BOS",2015,SMOY
-Doris Burke,ABC/ESPN,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Johnson, James (Mia.)",2017,SMOY
-Hubie Brown,ABC/ESPN,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Mills, Patty (S.A.)",2017,SMOY
-Mike Breen,ABC/ESPN,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Mills, Patty (S.A.)",2017,SMOY
-Brian Mahoney,Associated Press,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Williams, Lou (Hou.)",2017,SMOY
-Jon Krawczynski,Associated Press,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Monroe, Greg (Mil.)",2017,SMOY
-Steve Kyler,Basketball Insiders,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)",2017,SMOY
-Vince Goodwill,CSN Chicago,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)",2017,SMOY
-Royce Young,ESPN,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Kanter, Enes (OKC.)",2017,SMOY
-Brian Windhorst,ESPN.com,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Monroe, Greg (Mil.)",2017,SMOY
-Kevin Arnovitz,ESPN.com,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Monroe, Greg (Mil.)",2017,SMOY
-Ramona Shelburne,ESPN.com,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Williams, Lou (Hou.)",2017,SMOY
-Nate Taylor,Indianapolis Star,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Williams, Lou (Hou.)",2017,SMOY
-Davide Chinellato,LaGazetta Dello Sport,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Williams, Lou (Hou.)",2017,SMOY
-Charles Gardner,Milwaukee Journal-Sentinel,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Monroe, Greg (Mil.)",2017,SMOY
-Bill Oram,Orange County Register,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Monroe, Greg (Mil.)",2017,SMOY
-Paul Flannery,SB Nation,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Monroe, Greg (Mil.)",2017,SMOY
-Flavio Tranquillo,Sky Italia,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Mills, Patty (S.A.)",2017,SMOY
-Erik Horne,The Oklahoman,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Williams, Lou (Hou.)",2017,SMOY
-Sean Deveney,The Sporting News,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)",2017,SMOY
-Brent Barry,Turner,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Mills, Patty (S.A.)",2017,SMOY
-Jared Greenberg,Turner,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Mills, Patty (S.A.)",2017,SMOY
-Sam Amick,USA Today,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)",2017,SMOY
-J Michael Falgoust,CSN Washington,"Johnson, James (Mia.)","Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)",2017,SMOY
-John Schuhmann,NBA.com,"Monroe, Greg (Mil.)","Iguodala, Andre (G.S.)","Mills, Patty (S.A.)",2017,SMOY
-Doug Collins,ABC/ESPN,"Randolph, Zach (Mem.)","Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)",2017,SMOY
-Ron Tillery,Memphis Commercial-Appeal,"Randolph, Zach (Mem.)","Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)",2017,SMOY
-JA Adande,ESPN.com,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Brogdon, Malcolm (Mil.)",2017,SMOY
-Howard Beck,Bleacher Report,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)",2017,SMOY
-Marc Kestecher,ESPN Radio,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)",2017,SMOY
-Calvin Watkins,ESPN.com,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)",2017,SMOY
-Marc Stein,ESPN.com,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)",2017,SMOY
-Fran Blinebury,NBA.com,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)",2017,SMOY
-Justin Termine,Sirius XM,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)",2017,SMOY
-Doug Smith,The Toronto Star,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)",2017,SMOY
-Sherrod Blakely,CSN New England,"Gordon, Eric (Hou.)","Johnson, James (Mia.)","Iguodala, Andre (G.S.)",2017,SMOY
-Kevin Ding,Bleacher Report,"Iguodala, Andre (G.S.)","Johnson, James (Mia.)","Gordon, Eric (Hou.)",2017,SMOY
-Bill Simmons,The Ringer,"Iguodala, Andre (G.S.)","Johnson, James (Mia.)","Gordon, Eric (Hou.)",2017,SMOY
-Charles Gardner,Milwaukee Journal Sentinel,"Barton, Will -- DEN","Kanter, Enes -- OKC","Iguodala, Andre -- GS",2016,SMOY
-Mark Followill,TXA-21/Fox Sports Net,"Barton, Will -- DEN","Kanter, Enes -- OKC","Crawford, Jamal -- LAC",2016,SMOY
-Sage Steele,ABC Sports,"Crawford, Jamal -- LAC","Kanter, Enes -- OKC","Iguodala, Andre -- GS",2016,SMOY
-Tim Reynolds,Associated Press,"Crawford, Jamal -- LAC","Kanter, Enes -- OKC","Iguodala, Andre -- GS",2016,SMOY
-Chris Broussard,ESPN,"Crawford, Jamal -- LAC","Kanter, Enes -- OKC","Holiday, Jrue -- NOP",2016,SMOY
-Jason Jackson,Fox Sports Sun,"Crawford, Jamal -- LAC","Kanter, Enes -- OKC","Lin, Jeremy -- CHA",2016,SMOY
-Jerry Zgoda,Minneapolis Star Tribune,"Crawford, Jamal -- LAC","Kanter, Enes -- OKC","Turner, Evan -- BOS",2016,SMOY
-Ron Boone,ROOT Sports,"Crawford, Jamal -- LAC","Kanter, Enes -- OKC","Iguodala, Andre -- GS",2016,SMOY
-Marv Albert,TNT,"Crawford, Jamal -- LAC","Kanter, Enes -- OKC","Iguodala, Andre -- GS",2016,SMOY
-Sam Amick,USA Today,"Crawford, Jamal -- LAC","Kanter, Enes -- OKC","Iguodala, Andre -- GS",2016,SMOY
-Jose Paneda,WAQI Radio,"Crawford, Jamal -- LAC","Kanter, Enes -- OKC","Iguodala, Andre -- GS",2016,SMOY
-Howard Beck,Bleacher Report,"Iguodala, Andre -- GS","Kanter, Enes -- OKC","Crawford, Jamal -- LAC",2016,SMOY
-Jessica Camerato,Comcast SportsNet,"Iguodala, Andre -- GS","Kanter, Enes -- OKC","Thompson, Tristan -- CLE",2016,SMOY
-Brian Windhorst,ESPN.com,"Iguodala, Andre -- GS","Kanter, Enes -- OKC","Crawford, Jamal -- LAC",2016,SMOY
-Nick Friedell,ESPNChicago.com,"Iguodala, Andre -- GS","Kanter, Enes -- OKC","Thompson, Tristan -- CLE",2016,SMOY
-Dell Curry,Fox Sports Carolinas/SportSouth,"Iguodala, Andre -- GS","Kanter, Enes -- OKC","Crawford, Jamal -- LAC",2016,SMOY
-Aaron Falk,Salt Lake Tribune,"Iguodala, Andre -- GS","Kanter, Enes -- OKC","Barton, Will -- DEN",2016,SMOY
-Jeff McDonald,San Antonio Express-News,"Iguodala, Andre -- GS","Kanter, Enes -- OKC","Crawford, Jamal -- LAC",2016,SMOY
-Joe Freeman,The Oregonian,"Iguodala, Andre -- GS","Kanter, Enes -- OKC","Barton, Will -- DEN",2016,SMOY
-Sherman Hamilton,NBA TV Canada,"Lin, Jeremy -- CHA","Kanter, Enes -- OKC","Barton, Will -- DEN",2016,SMOY
-Lee Jenkins,Sports Illustrated,"Gordon, Eric (Hou.)","Kanter, Enes (OKC.)","Iguodala, Andre (G.S.)",2017,SMOY
-Mark Medina,LA Daily News,"Crawford, Jamal -- LAC","LaVine, Zach -- MIN","Barton, Will -- DEN",2016,SMOY
-Sam Smith,Bulls.com,"Crawford, Jamal -- LAC","Lin, Jeremy -- CHA","Barton, Will -- DEN",2016,SMOY
-Rick Bonnell,Charlotte Observer,"Crawford, Jamal -- LAC","Lin, Jeremy -- CHA","Schroder, Dennis -- ATL",2016,SMOY
-Joel Meyers,Fox Sports New Orleans,"Crawford, Jamal -- LAC","Lin, Jeremy -- CHA","Iguodala, Andre -- GS",2016,SMOY
-Keith Pompey,Philadelphia Inquirer,"Crawford, Jamal -- LAC","Lin, Jeremy -- CHA","Turner, Evan -- BOS",2016,SMOY
-Paul Jones,TSN 1050/Sportsnet 590 The Fan,"Crawford, Jamal -- LAC","Lin, Jeremy -- CHA","Kanter, Enes -- OKC",2016,SMOY
-Steve Aschburner,NBA.com,"Kanter, Enes -- OKC","Lin, Jeremy -- CHA","Crawford, Jamal -- LAC",2016,SMOY
-Ralph Lawler,Prime Ticket,"Crawford, Jamal -- LAC","Livingston, Shaun -- GS","Kanter, Enes -- OKC",2016,SMOY
-Joe Vardon,Cleveland.com,"Gordon, Eric (Hou.)","Mills, Patty (S.A.)","Randolph, Zach (Mem.)",2017,SMOY
-Doris Burke,ESPN,"Williams, Lou -- TOR","Mirotic, Nikola -- CHI","Iguodala, Andre -- GS",2015,SMOY
-John Denton,OrlandoMagic.com,"Williams, Lou -- TOR","Mirotic, Nikola -- CHI","Brewer, Corey -- HOU",2015,SMOY
-Sean Deveney,The Sporting News,"Williams, Lou -- TOR","Mirotic, Nikola -- CHI","Thomas, Isaiah -- BOS",2015,SMOY
-Doug Smith,The Toronto Star,"Williams, Lou -- TOR","Mirotic, Nikola -- CHI","Thomas, Isaiah -- BOS",2015,SMOY
-Brent Barry,Turner,"Williams, Lou (LAC)","Mirotic, Nikola (NOP)","Gordon, Eric (HOU)",2018,SMOY
-Matt Moore,CBSSports.com,"Iguodala, Andre (G.S.)","Monroe, Greg (Mil.)","Carter, Vince (Mem.)",2017,SMOY
-Gary Washburn,Boston Globe,"Williams, Lou (LAC)","Olynyk, Kelly (MIA)","Kuzma, Kyle (IND)",2018,SMOY
-Kevin Pelton,ESPN.com,"Williams, Lou (LAC)","Olynyk, Kelly (MIA)","VanVleet, Fred (TOR)",2018,SMOY
-Jacques Monclar,BEIN Sport,"Gordon, Eric (Hou.)","Randolph, Zach (Mem.)","Williams, Lou (Hou.)",2017,SMOY
-Weiping Zhang,CCTV,"Gordon, Eric (Hou.)","Randolph, Zach (Mem.)","Kanter, Enes (OKC.)",2017,SMOY
-Chris Broussard,Fox Sports,"Gordon, Eric (Hou.)","Randolph, Zach (Mem.)","Iguodala, Andre (G.S.)",2017,SMOY
-Marc Berman,New York Post,"Gordon, Eric (Hou.)","Randolph, Zach (Mem.)","Iguodala, Andre (G.S.)",2017,SMOY
-Marc Spears,The Undefeated,"Gordon, Eric (Hou.)","Randolph, Zach (Mem.)","Iguodala, Andre (G.S.)",2017,SMOY
-Keith Pompey,Philadelphia Inquirer,"Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)","Crawford, Jamal (LA-C)",2017,SMOY
-Duane Rankin,Arizona Republic,"Williams, Lou (LAC)","Rose, Derrick (MIN)","Sabonis, Domantas (IND)",2019,SMOY
-Jalen Rose,ESPN,"Williams, Lou (LAC)","Rose, Derrick (MIN)","Harrell, Montrezl (LAC)",2019,SMOY
-Joe Vardon,The Athletic,"Williams, Lou (LAC)","Rose, Derrick (MIN)","Wade, Dwyane (MIA)",2019,SMOY
-Gary Washburn,Boston Globe,"Williams, Lou (LAC)","Ross, Terrence (ORL)","Harrell, Montrezl (LAC)",2019,SMOY
+Joe Cowley,Chicago Sun-Times,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Schroder, Dennis (OKC)",2020,SMOY
+Joe Vardon,The Athletic,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Hill, George (MIL)",2020,SMOY
+John Schuhmann,NBA.com,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Wood, Christian (DET)",2020,SMOY
+Jon Barry,ESPN,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Schroder, Dennis (OKC)",2020,SMOY
+Josh Robbins,The Athletic,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
+Justin Termine,Sirius Radio,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
+Keith Pompey,Philadelphia Inquirer and Daily News,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Rose, Derrick (DET)",2020,SMOY
+Kelly Iko,The Athletic,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
+Kevin Arnovitz,ESPN,"Harrell, Montrezl (LAC)","Wood, Christian (DET)","Schroder, Dennis (OKC)",2020,SMOY
+Kevin Harlan,Turner,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
+Kevin O'Connor,The Ringer,"Schroder, Dennis (OKC)","Wood, Christian (DET)","Harrell, Montrezl (LAC)",2020,SMOY
+Kevin Pelton,ESPN,"Harrell, Montrezl (LAC)","Wood, Christian (DET)","Bertans, Davis (WAS)",2020,SMOY
+Kristen Ledlow,Turner,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Schroder, Dennis (OKC)",2020,SMOY
+Kurt Helin,NBCSports.com,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Rose, Derrick (DET)",2020,SMOY
+Lisa Hsu,Tencent,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Wood, Christian (DET)",2020,SMOY
+Marc Berman,New York Post,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Howard, Dwight (LAL)",2020,SMOY
+Marc Kestecher,ESPN,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Schroder, Dennis (OKC)",2020,SMOY
+Maria Taylor,ESPN,"Williams, Lou (LAC)","Schroder, Dennis (OKC)","Hill, George (MIL)",2020,SMOY
+Mark Jackson,ESPN,"Schroder, Dennis (OKC)","Williams, Lou (LAC)","Harrell, Montrezl (LAC)",2020,SMOY
+Mark Jones,ESPN,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Dragic, Goran (MIA)",2020,SMOY
+Mark Medina,USA Today,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
+Marv Albert,Turner,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
+Matt Velazquez,Milwaukee Journal Sentinel,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Hill, George (MIL)",2020,SMOY
+Matt Winer,Turner,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
+Maxime Malet,L'Equipe,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Hill, George (MIL)",2020,SMOY
+Michael Wilbon,ESPN,"Williams, Lou (LAC)","Schroder, Dennis (OKC)","Rose, Derrick (DET)",2020,SMOY
+Mike Breen,ESPN,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
+Mike Ganter,The Toronto Sun,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Hill, George (MIL)",2020,SMOY
+Mirjam Swanson,Southern California News Group,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Schroder, Dennis (OKC)",2020,SMOY
+Nick Kosmider,The Athletic,"Schroder, Dennis (OKC)","Williams, Lou (LAC)","Harrell, Montrezl (LAC)",2020,SMOY
+Rachel Nichols,ESPN,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
+Ramona Shelburne,ESPN,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
+Remi Reverchon,BeIN Sport (France),"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Schroder, Dennis (OKC)",2020,SMOY
+Renjun Bao,Tencent,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
+Ric Bucher,Bleacher Report,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Rose, Derrick (DET)",2020,SMOY
+Rod Beard,Detroit News,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Wood, Christian (DET)",2020,SMOY
+Royce Young,ESPN,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Dragic, Goran (MIA)",2020,SMOY
+Sam Amick,The Athletic,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
+Seerat Sohi,Yahoo! Sports,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Wood, Christian (DET)",2020,SMOY
+Sekou Smith,NBA.com,"Schroder, Dennis (OKC)","Williams, Lou (LAC)","Bertans, Davis (WAS)",2020,SMOY
+Shams Charania,The Athletic/Stadium,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)",2020,SMOY
+Shaun Powell,NBA.com,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
+Simone Sandri,La Gazzetta Dello Sport,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
+Stephen A. Smith,ESPN,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
+Steve Aschburner,NBA.com,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Rose, Derrick (DET)",2020,SMOY
+Steve Smith,Turner,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
+Tim Bontemps,ESPN,"Harrell, Montrezl (LAC)","Hill, George (MIL)","Schroder, Dennis (OKC)",2020,SMOY
+Tim Reynolds,Associated Press,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Dragic, Goran (MIA)",2020,SMOY
+Vince Goodwill,Yahoo! Sports,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
+Will Guillory,The Athletic,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
+Yoko Miyaji,Sports Graphic Number,"Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)","Williams, Lou (LAC)",2020,SMOY
+Zach Harper,The Athletic,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Dragic, Goran (MIA)",2020,SMOY
+Zach Lowe,ESPN,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
 A. Sherrod Blakely,NBC Sports Boston,"Williams, Lou (LAC)","Ross, Terrence (ORL)","Sabonis, Domantas (IND)",2019,SMOY
-Dennis Scott,Turner Sports,"Williams, Lou (LAC)","Ross, Terrence (ORL)","Beasley, Malik (DEN)",2019,SMOY
-Richard Walker,Gaston Gazette,"Schroder, Dennis (OKC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Dave Campbell,Associated Press,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Howard Beck,Bleacher Report,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Weiping Zhang,CCTV,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Wade, Dwyane (MIA)",2019,SMOY
-K.C. Johnson,Chicago Tribune,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Dinwiddie, Spencer (BKN)",2019,SMOY
+Amin Elhassan,ESPN,"Williams, Lou (LAC)","Dinwiddie, Spencer (BKN)","Sabonis, Domantas (IND)",2019,SMOY
+Andre Voigt,DAZN,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
+Andrew Sharp,Sports Illustrated,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
+Anthony Chiang,Miami Herald,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Anthony Slater,The Athletic,"Williams, Lou (LAC)","Dinwiddie, Spencer (BKN)","Harrell, Montrezl (LAC)",2019,SMOY
+Bill Oram,The Athletic,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Bill Simmons,The Ringer,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Brian Lewis,New York Post,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Dinwiddie, Spencer (BKN)",2019,SMOY
+Brian Mahoney,Associated Press,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
+Brian Windhorst,ESPN,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Wade, Dwyane (MIA)",2019,SMOY
+Casey Stern,Turner Sports,"Williams, Lou (LAC)","Dinwiddie, Spencer (BKN)","Harrell, Montrezl (LAC)",2019,SMOY
 Cassidy Hubbarth,ESPN,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Chris Broussard,Fox Sports,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Dinwiddie, Spencer (BKN)",2019,SMOY
+Chris Haynes,Yahoo! Sports,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Dinwiddie, Spencer (BKN)",2019,SMOY
+Chris Mannix,Sports Illustrated,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Dave Campbell,Associated Press,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
 Dave McMenamin,ESPN,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Wade, Dwyane (MIA)",2019,SMOY
+Dave Pasch,ESPN,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
+David Cobb,Memphis Commercial Appeal,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Bertans, Davis (SAS)",2019,SMOY
+Dennis Scott,Turner Sports,"Williams, Lou (LAC)","Ross, Terrence (ORL)","Beasley, Malik (DEN)",2019,SMOY
+Diego Martinez,Reforma,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Rose, Derrick (MIN)",2019,SMOY
 Doris Burke,ESPN,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Doug Smith,Toronto Star,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Duane Rankin,Arizona Republic,"Williams, Lou (LAC)","Rose, Derrick (MIN)","Sabonis, Domantas (IND)",2019,SMOY
+Eric Woodyard,Deseret News,"Williams, Lou (LAC)","Dinwiddie, Spencer (BKN)","Morris, Monte (DEN)",2019,SMOY
+Erik Horne,The Oklahoman,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
+Flavio Tranquillo,Sky Italia,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Frank Isola,Sirius Radio/The Athletic,"Williams, Lou (LAC)","Dinwiddie, Spencer (BKN)","Sabonis, Domantas (IND)",2019,SMOY
+Fred Katz,The Athletic,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Gary Washburn,Boston Globe,"Williams, Lou (LAC)","Ross, Terrence (ORL)","Harrell, Montrezl (LAC)",2019,SMOY
+Greg Anthony,Turner Sports,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Guillermo Schutz,Televisa,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Howard Beck,Bleacher Report,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Jackie MacMullan,ESPN,"Sabonis, Domantas (IND)","Williams, Lou (LAC)","Dinwiddie, Spencer (BKN)",2019,SMOY
+Jalen Rose,ESPN,"Williams, Lou (LAC)","Rose, Derrick (MIN)","Harrell, Montrezl (LAC)",2019,SMOY
+Jared Greenberg,Turner Sports,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Jason Anderson,Sacramento Bee,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Jeff McDonald,San Antonio Express‐News,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Jeff Zillgitt,USA Today,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
+Joe Freeman,The Oregonian,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
+Joe Vardon,The Athletic,"Williams, Lou (LAC)","Rose, Derrick (MIN)","Wade, Dwyane (MIA)",2019,SMOY
+John Schuhmann,NBA.com,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
 Jon Barry,ESPN,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Josh Robbins,The Athletic,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Ross, Terrence (ORL)",2019,SMOY
+Justin Termine,Sirius Radio,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
+K.C. Johnson,Chicago Tribune,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Dinwiddie, Spencer (BKN)",2019,SMOY
+Keith Pompey,Philadelphia Inqurier and Daily News,"Williams, Lou (LAC)","Dinwiddie, Spencer (BKN)","Sabonis, Domantas (IND)",2019,SMOY
+Kelly Iko,The Athletic,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
+Kennegh Lau,BesTV,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Crowder, Jae (UTA)",2019,SMOY
+Kevin Arnovitz,ESPN,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
+Kevin Harlan,Turner Sports,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Kevin O'Connor,The Ringer,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Morris, Monte (DEN)",2019,SMOY
+Kevin Pelton,ESPN,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Iguodala, Andre (GSW)",2019,SMOY
+Kristen Ledlow,Turner Sports,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
+Kurt Helin,NBCSports.com,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Lisa Hsu,Tencent,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
 Marc Kestecher,ESPN,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
 Mark Jackson,ESPN,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
 Mark Jones,ESPN,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Dinwiddie, Spencer (BKN)",2019,SMOY
-Michael Wilbon,ESPN,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Mike Breen,ESPN,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Rachel Nichols,ESPN,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Royce Young,ESPN,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Tim Bontemps,ESPN,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Iguodala, Andre (GSW)",2019,SMOY
-Zach Lowe,ESPN,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Chris Broussard,Fox Sports,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Dinwiddie, Spencer (BKN)",2019,SMOY
-Maxime Malet,L'Equipe,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Ross, Terrence (ORL)",2019,SMOY
-Massimo Lopes Pegna,La Gazzetta dello Sport,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Dinwiddie, Spencer (BKN)",2019,SMOY
-David Cobb,Memphis Commercial Appeal,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Bertans, Davis (SAS)",2019,SMOY
-Anthony Chiang,Miami Herald,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Matt Velazquez,Milwaukee Journal Sentinel,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Morris, Monte (DEN)",2019,SMOY
-John Schuhmann,NBA.com,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Sekou Smith,NBA.com,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Steve Aschburner,NBA.com,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Kurt Helin,NBCSports.com,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Stefan Bondy,New York Daily News,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Rose, Derrick (MIN)",2019,SMOY
-Nira Khurana,Perform,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Jason Anderson,Sacramento Bee,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Jeff McDonald,San Antonio Express‐News,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Paul Flannery,SB Nation,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Flavio Tranquillo,Sky Italia,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Chris Mannix,Sports Illustrated,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Guillermo Schutz,Televisa,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Lisa Hsu,Tencent,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Bill Oram,The Athletic,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Fred Katz,The Athletic,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Scott Agness,The Athletic,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Bill Simmons,The Ringer,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Kevin O'Connor,The Ringer,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Morris, Monte (DEN)",2019,SMOY
-Sean Deveney,The Sporting News,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Dinwiddie, Spencer (BKN)",2019,SMOY
-Doug Smith,Toronto Star,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Ryan Wolstat,Toronto Sun,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Davis, Ed (BKN)",2019,SMOY
-Rosalyn Gold‐Onwude,Turner,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Greg Anthony,Turner Sports,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Jared Greenberg,Turner Sports,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-Kevin Harlan,Turner Sports,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
 Marv Albert,Turner Sports,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Massimo Lopes Pegna,La Gazzetta dello Sport,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Dinwiddie, Spencer (BKN)",2019,SMOY
+Matt Velazquez,Milwaukee Journal Sentinel,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Morris, Monte (DEN)",2019,SMOY
 Matt Winer,Turner Sports,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Maxime Malet,L'Equipe,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Ross, Terrence (ORL)",2019,SMOY
+Michael Grange,Rogers Sportsnet,"Williams, Lou (LAC)","Dinwiddie, Spencer (BKN)","Sabonis, Domantas (IND)",2019,SMOY
+Michael Wilbon,ESPN,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Michelle Beadle,ESPN,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Dinwiddie, Spencer (BKN)",2019,SMOY
+Mike Breen,ESPN,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Mike Singer,Denver Post,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
+Mirjam Swanson,Southern California News Group,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
+Nira Khurana,Perform,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Olgun Uluc,Fox Sports Australia,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Sabonis, Domantas (IND)",2019,SMOY
+Paul Flannery,SB Nation,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Rachel Nichols,ESPN,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Ramona Shelburne,ESPN,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
+Reggie Miller,Turner Sports,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
+Reid Forgrave,CBSSports.com,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Dinwiddie, Spencer (BKN)",2019,SMOY
+Ric Bucher,Bleacher Report,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
+Richard Walker,Gaston Gazette,"Schroder, Dennis (OKC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Rob Mahoney,Sports Illustrated,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
+Rod Beard,Detroit News,"Williams, Lou (LAC)","Dinwiddie, Spencer (BKN)","Sabonis, Domantas (IND)",2019,SMOY
+Rosalyn Gold‐Onwude,Turner,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Royce Young,ESPN,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Ryan Wolstat,Toronto Sun,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Davis, Ed (BKN)",2019,SMOY
+Sam Amick,The Athletic,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
+Scott Agness,The Athletic,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Sean Deveney,The Sporting News,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Dinwiddie, Spencer (BKN)",2019,SMOY
+Sekou Smith,NBA.com,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Stefan Bondy,New York Daily News,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Rose, Derrick (MIN)",2019,SMOY
+Steve Aschburner,NBA.com,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
 Steve Smith,Turner Sports,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
-George Blaha,WMGC / Fox Sports Detroit,"Crawford, Jamal -- LAC","Schroder, Dennis -- ATL","Barea, Jose Juan -- DAL",2016,SMOY
-Gary Washburn,Boston Globe,"Turner, Evan -- BOS","Schroder, Dennis -- ATL","Iguodala, Andre -- GS",2016,SMOY
-Duane Rankin,Arizona Republic,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Howard Beck,Bleacher Report,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Ric Bucher,Bleacher Report,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Rose, Derrick (DET)",2020,SMOY
-Adam Himmelsbach,Boston Globe,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Brad Townsend,Dallas Morning News,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Mike Breen,ESPN,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Doris Burke,ESPN,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Amin Elhassan,ESPN,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Mark Jones,ESPN,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Dragic, Goran (MIA)",2020,SMOY
-Zach Lowe,ESPN,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Jackie MacMullan,ESPN,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Dave McMenamin,ESPN,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Ramona Shelburne,ESPN,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Stephen A. Smith,ESPN,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Brian Windhorst,ESPN,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Wood, Christian (DET)",2020,SMOY
-Anthony Chiang,Miami Herald,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Matt Velazquez,Milwaukee Journal Sentinel,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Hill, George (MIL)",2020,SMOY
-Chris Hine,Minneapolis Star Tribune,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Antoni Daimiel,Movistar+,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Steve Aschburner,NBA.com,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Rose, Derrick (DET)",2020,SMOY
-Shaun Powell,NBA.com,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-John Schuhmann,NBA.com,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Wood, Christian (DET)",2020,SMOY
-Kurt Helin,NBCSports.com,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Rose, Derrick (DET)",2020,SMOY
-Keith Pompey,Philadelphia Inquirer and Daily News,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Rose, Derrick (DET)",2020,SMOY
-Chris Sasaki,Rakuten,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Diego Martinez,Reforma,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Andy Larsen,Salt Lake Tribune,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Hill, George (MIL)",2020,SMOY
-Jeff McDonald,San Antonio Express-News,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Connor Letourneau,San Francisco Chronicle,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Hill, George (MIL)",2020,SMOY
-Frank Isola,Sirius Radio,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Justin Termine,Sirius Radio,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Renjun Bao,Tencent,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Will Guillory,The Athletic,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Zach Harper,The Athletic,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Dragic, Goran (MIA)",2020,SMOY
-Chris Kirschner,The Athletic,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Jason Quick,The Athletic,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Wood, Christian (DET)",2020,SMOY
-Josh Robbins,The Athletic,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Dan Devine,The Ringer,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Hill, George (MIL)",2020,SMOY
-Bill Simmons,The Ringer,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Wood, Christian (DET)",2020,SMOY
-Greg Anthony,Turner,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Ernie Johnson,Turner,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Steve Smith,Turner,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Vince Goodwill,Yahoo! Sports,"Harrell, Montrezl (LAC)","Schroder, Dennis (OKC)","Williams, Lou (LAC)",2020,SMOY
-Maria Taylor,ESPN,"Williams, Lou (LAC)","Schroder, Dennis (OKC)","Hill, George (MIL)",2020,SMOY
-Michael Wilbon,ESPN,"Williams, Lou (LAC)","Schroder, Dennis (OKC)","Rose, Derrick (DET)",2020,SMOY
-Dennis Scott,Turner,"Williams, Lou (LAC)","Schroder, Dennis (OKC)","Harrell, Montrezl (LAC)",2020,SMOY
-Scott Hastings,Altitude Sports & Entertainment,"Crawford, Jamal -- LAC","Speights, Marreese -- GS","Thomas, Isaiah -- BOS",2015,SMOY
-Jeff McDonald,San Antonio Express-News,"Thomas, Isaiah -- BOS","Speights, Marreese -- GS","Williams, Lou -- TOR",2015,SMOY
-Brian Sieman,The Beast 980 AM FM,"Crawford, Jamal -- LAC","Thomas, Isaiah -- BOS","Williams, Lou -- TOR",2015,SMOY
-Jeff Zillgitt,USA Today,"Iguodala, Andre -- GS","Thomas, Isaiah -- BOS","Thompson, Tristan -- CLE",2015,SMOY
-Mark Boyle,107.5/1070 The Fan,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
-Sage Steele,ABC Sports,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Thompson, Tristan -- CLE",2015,SMOY
-Ethan Skolnick,Bleacher Report,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Schroder, Dennis -- ATL",2015,SMOY
-Gary Washburn,Boston Globe,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Brewer, Corey -- HOU",2015,SMOY
-Rick Bonnell,Charlotte Observer,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
-Dei Lynam,Comcast SportsNet,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Iguodala, Andre -- GS",2015,SMOY
-Malik Rose,Comcast SportsNet,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Mirotic, Nikola -- CHI",2015,SMOY
-Phil Chenier,Comcast SportsNet Mid-Atlantic,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
-Steve Buckhantz,Comcast SportsNet Mid-Atlantic,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
-Gary Gerould,Comcast SportsNet-CA,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
-Grant Napear,Comcast SportsNet-CA,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Iguodala, Andre -- GS",2015,SMOY
-Jody Genessy,Deseret News,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
-Mike Tirico,ESPN,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
-Jon Barry,ESPN Radio,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
-Brian Windhorst,ESPN.com,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Thompson, Tristan -- CLE",2015,SMOY
-Dave McMenamin,ESPN.com,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
-Israel Guttierez,ESPN.com,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Speights, Marreese -- GS",2015,SMOY
-David Steele,Fox Sports Florida,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Ginobili, Manu -- SA",2015,SMOY
-Jeff Turner,Fox Sports Florida,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Speights, Marreese -- GS",2015,SMOY
-Jim Paschke,Fox Sports Wisconsin,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Iguodala, Andre -- GS",2015,SMOY
-Bill Reiter,Foxsports.com,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
-Bill Simmons,Grantland,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Iguodala, Andre -- GS",2015,SMOY
-Zach Lowe,Grantland,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Iguodala, Andre -- GS",2015,SMOY
-Steve Holman,Hawks Radio Network,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
-Tim Roye,KNBR Radio,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
-Tim Kempton,KTAR Radio,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Speights, Marreese -- GS",2015,SMOY
-Jerry Zgoda,Minneapolis Star Tribune,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Iguodala, Andre -- GS",2015,SMOY
-Brendan Brown,MSG Network,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Thompson, Tristan -- CLE",2015,SMOY
-Matt Winer,NBA TV,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Thompson, Tristan -- CLE",2015,SMOY
-Sherman Hamilton,NBA TV Canada,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
-Peter Botte,New York Daily News,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
-Darnell Mayberry,Oklahoman,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Mirotic, Nikola -- CHI",2015,SMOY
-Keith Pompey,Philadelphia Inquirer,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Gibson, Taj -- CHI",2015,SMOY
-Rusty Simmons,San Francisco Chronicle,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Iguodala, Andre -- GS",2015,SMOY
-Chris Sheridan,Sheridanhoops.com,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
-Frank Isola,Sirius Radio/New York Daily News,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Brewer, Corey -- HOU",2015,SMOY
-Chris Mannix,Sports Illustrated,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
-Craig Ackerman,Sportstalk 790 AM,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Brewer, Corey -- HOU",2015,SMOY
-Tony Fiorentino,Sun Sports,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Thompson, Tristan -- CLE",2015,SMOY
-Ernie Johnson,TNT,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
-Marv Albert,TNT,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Thompson, Tristan -- CLE",2015,SMOY
-Mark Followill,TXA-21/Fox Sports Net,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
-Sean Kelley,WWL 105.3 FM,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Iguodala, Andre -- GS",2015,SMOY
-Ian Eagle,YES Network,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
-Ric Bucher,Bleacher Report,"Gibson, Taj -- CHI","Thompson, Tristan -- CLE","Speights, Marreese -- GS",2015,SMOY
-Bob Fitzgerald,Comcast SportsNet Bay Area,"Iguodala, Andre -- GS","Thompson, Tristan -- CLE","Ginobili, Manu -- SA",2015,SMOY
-JA Adande,ESPN.com,"Williams, Lou -- TOR","Thompson, Tristan -- CLE","Crawford, Jamal -- LAC",2015,SMOY
-Jim Petersen,Fox Sports North,"Williams, Lou -- TOR","Thompson, Tristan -- CLE","Crawford, Jamal -- LAC",2015,SMOY
-Steve Aschburner,NBA.com,"Williams, Lou -- TOR","Thompson, Tristan -- CLE","Iguodala, Andre -- GS",2015,SMOY
-Mike Fratello,TNT,"Williams, Lou -- TOR","Thompson, Tristan -- CLE","Thomas, Isaiah -- BOS",2015,SMOY
-Israel Guttierez,ESPN.com,"Crawford, Jamal -- LAC","Turner, Evan -- BOS","Kanter, Enes -- OKC",2016,SMOY
-Mike Monroe,The Rivard Report,"Crawford, Jamal -- LAC","Turner, Evan -- BOS","Iguodala, Andre -- GS",2016,SMOY
-Mike Fratello,TNT,"Crawford, Jamal -- LAC","Turner, Evan -- BOS","Kanter, Enes -- OKC",2016,SMOY
-Bob Rathbun,Fox Sports South,"Iguodala, Andre -- GS","Turner, Evan -- BOS","Schroder, Dennis -- ATL",2016,SMOY
-Tom McGinnis,Sixers Radio,"Iguodala, Andre -- GS","Turner, Evan -- BOS","Diaw, Boris -- SA",2016,SMOY
-Doug Smith,The Toronto Star,"Iguodala, Andre -- GS","Turner, Evan -- BOS","Schroder, Dennis -- ATL",2016,SMOY
-Paul Coro,The Arizona Republic,"Kanter, Enes -- OKC","Turner, Evan -- BOS","Barton, Will -- DEN",2016,SMOY
-Tony Jones,Salt Lake Tribune,"Gordon, Eric (HOU)","VanVleet, Fred (TOR)","Williams, Lou (LAC)",2018,SMOY
-NBA Fan Voting,,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
-Rachel Nichols,ABC/ESPN,"Williams, Lou (LAC)","VanVleet, Fred (TOR)","Gordon, Eric (HOU)",2018,SMOY
-Scott Bordow,Arizona Republic,"Williams, Lou (LAC)","VanVleet, Fred (TOR)","Gordon, Eric (HOU)",2018,SMOY
-Xavier Vaution,BeIn Sport,"Williams, Lou (LAC)","VanVleet, Fred (TOR)","Barton, Will (DEN)",2018,SMOY
-Will Guillory,New Orleans Times‐Picayune,"Williams, Lou (LAC)","VanVleet, Fred (TOR)","Kuzma, Kyle (IND)",2018,SMOY
-Yoko Miyaji,Sports Graphic Number,"Williams, Lou (LAC)","VanVleet, Fred (TOR)","Gordon, Eric (HOU)",2018,SMOY
-Ben Golliver,Sports Illustrated,"Williams, Lou (LAC)","VanVleet, Fred (TOR)","Gordon, Eric (HOU)",2018,SMOY
-Anthony Slater,The Athletic,"Williams, Lou (LAC)","VanVleet, Fred (TOR)","Barton, Will (DEN)",2018,SMOY
-Sean Deveney,The Sporting News,"Williams, Lou (LAC)","VanVleet, Fred (TOR)","Barton, Will (DEN)",2018,SMOY
-Kevin Harlan,Turner,"Williams, Lou (LAC)","VanVleet, Fred (TOR)","Clarkson, Jordan (CLE)",2018,SMOY
+Tim Bontemps,ESPN,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Iguodala, Andre (GSW)",2019,SMOY
+Tim MacMahon,ESPN,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
 Tim Reynolds,Associated Press,"Williams, Lou (LAC)","Wade, Dwyane (MIA)","Sabonis, Domantas (IND)",2019,SMOY
+Vince Goodwill,Yahoo! Sports,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Wade, Dwyane (MIA)",2019,SMOY
+Weiping Zhang,CCTV,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Wade, Dwyane (MIA)",2019,SMOY
+Will Guillory,The Athletic,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Sabonis, Domantas (IND)",2019,SMOY
+Zach Harper,The Athletic,"Williams, Lou (LAC)","Harrell, Montrezl (LAC)","Ross, Terrence (ORL)",2019,SMOY
+Zach Lowe,ESPN,"Williams, Lou (LAC)","Sabonis, Domantas (IND)","Harrell, Montrezl (LAC)",2019,SMOY
+Ailene Voisin,Sacramento Bee,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Amin Elhassan,ESPN.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Andrew Sharp,Sports Illustrated,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Anthony Slater,The Athletic,"Williams, Lou (LAC)","VanVleet, Fred (TOR)","Barton, Will (DEN)",2018,SMOY
+Ben Golliver,Sports Illustrated,"Williams, Lou (LAC)","VanVleet, Fred (TOR)","Gordon, Eric (HOU)",2018,SMOY
+Bill Oram,Orange County Register,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Bill Simmons,The Ringer,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Brent Barry,Turner,"Williams, Lou (LAC)","Mirotic, Nikola (NOP)","Gordon, Eric (HOU)",2018,SMOY
+Brett Dawson,The Oklahoman,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Brian Mahoney,Associated Press,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Brian Windhorst,ESPN.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Cassidy Hubbarth,ESPN,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Chase Hughes,NBCSportsWashington.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Kuzma, Kyle (IND)",2018,SMOY
+Chris Broussard,Fox Sports,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Chris Haynes,ESPN.com,"Williams, Lou (LAC)","Barton, Will (DEN)","Gordon, Eric (HOU)",2018,SMOY
+Chris Mannix,Yahoo!,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Chris Webber,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Kuzma, Kyle (IND)",2018,SMOY
+Clifton Brown,Indianapolis Star,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Connor Letourneau,San Francisco Chronicle,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Dave McMenamin,ESPN.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+David Aldridge,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Mirotic, Nikola (NOP)",2018,SMOY
+Davide Chinellato,La Gazzetta dello Sport,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Dennis Scott,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
 Diego Martínez Cabrera,Periódico Reforma,"Williams, Lou (LAC)","Wade, Dwyane (MIA)","Gordon, Eric (HOU)",2018,SMOY
+Doris Burke,ABC/ESPN,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Eddie Sefko,Dallas Morning News,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barea, J.J. (DAL)",2018,SMOY
+Elliott Teaford,Southern California News Group,"Williams, Lou (LAC)","Barton, Will (DEN)","Gordon, Eric (HOU)",2018,SMOY
+Ernie Johnson,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Flavio Tranquillo,Sky Italia,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Poeltl, Jakob (TOR)",2018,SMOY
+Frank Isola,Sirius Radio/New York Daily News,"VanVleet, Fred (TOR)","Williams, Lou (LAC)","Gordon, Eric (HOU)",2018,SMOY
+Gary Washburn,Boston Globe,"Williams, Lou (LAC)","Olynyk, Kelly (MIA)","Kuzma, Kyle (IND)",2018,SMOY
+Gina Mizell,Denver Post,"Williams, Lou (LAC)","Barton, Will (DEN)","Gordon, Eric (HOU)",2018,SMOY
+Greg Anthony,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Greg Logan,Newsday,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Howard Beck,Bleacher Report,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Jackie MacMullan,ESPN.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Jalen Rose,ABC/ESPN,"Gordon, Eric (HOU)","Williams, Lou (LAC)","Barton, Will (DEN)",2018,SMOY
+Jared Greenberg,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Rozier, Terry (BOS)",2018,SMOY
+Jason Jones,Sacramento Bee,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Jason Lloyd,The Athletic,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Jason Quick,NBC Sports Northwest,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Clarkson, Jordan (CLE)",2018,SMOY
+Jeff McDonald,San Antonio Express‐News,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Jeff Zillgitt,USA Today,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Ellington, Wayne (MIA)",2018,SMOY
+Jerry Zgoda,Minneapolis Star Tribune,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Joe Cowley,Chicago Sun‐Times,"Williams, Lou (LAC)","Barton, Will (DEN)","Gordon, Eric (HOU)",2018,SMOY
+John Schuhmann,NBA.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Jon Barry,ESPN Radio,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Mirotic, Nikola (NOP)",2018,SMOY
+Justin Termine,Sirius Radio,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+KC Johnson,Chicago Tribune,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Keith Pompey,Philadelphia Inquirer,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Kevin Arnovitz,ESPN.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Kevin Harlan,Turner,"Williams, Lou (LAC)","VanVleet, Fred (TOR)","Clarkson, Jordan (CLE)",2018,SMOY
+Kevin O'Connor,The Ringer,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Kevin Pelton,ESPN.com,"Williams, Lou (LAC)","Olynyk, Kelly (MIA)","VanVleet, Fred (TOR)",2018,SMOY
+Kristen Ledlow,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Ellington, Wayne (MIA)",2018,SMOY
+Kurt Helin,NBCSports.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Lee Jenkins,Sports Illustrated,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Lisa Shen Yang,Tencent,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Manny Navarro,Miami Herald,"Williams, Lou (LAC)","Barton, Will (DEN)","Olynyk, Kelly (MIA)",2018,SMOY
+Marc Berman,New York Post,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Marc Kestecher,ESPN Radio,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Mark Jackson,ABC/ESPN,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Rozier, Terry (BOS)",2018,SMOY
+Marv Albert,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Matt Velazquez,Milwaukee Journal Sentinel,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Matt Winer,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Ellington, Wayne (MIA)",2018,SMOY
+Michael Grange,Rogers Sportsnet,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Michael Wilbon,ABC/ESPN,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Ellington, Wayne (MIA)",2018,SMOY
+Michelle Beadle,ABC/ESPN,"Williams, Lou (LAC)","Barton, Will (DEN)","Gordon, Eric (HOU)",2018,SMOY
+Mike Breen,ABC/ESPN,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Mike Ganter,Toronto Sun,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+NBA Fan Voting,NA,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Nira Khurana,Excelsior,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Paul Flannery,SB Nation,"Williams, Lou (LAC)","Barton, Will (DEN)","Gordon, Eric (HOU)",2018,SMOY
+Rachel Nichols,ABC/ESPN,"Williams, Lou (LAC)","VanVleet, Fred (TOR)","Gordon, Eric (HOU)",2018,SMOY
+Ramona Shelburne,ESPN.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Reggie Miller,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Ric Bucher,Bleacher Report,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Richard Walker,Gaston Gazette,"Williams, Lou (LAC)","Clarkson, Jordan (CLE)","Gordon, Eric (HOU)",2018,SMOY
+Rob Mahoney,Sports Illustrated,"Williams, Lou (LAC)","Barton, Will (DEN)","Mbah a Moute, Luc (HOU)",2018,SMOY
+Rod Beard,Detroit News,"Williams, Lou (LAC)","Barton, Will (DEN)","Gordon, Eric (HOU)",2018,SMOY
+Ron Tillery,Memphis Commercial Appeal,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Rosalyn Gold‐Onwude,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Royce Young,ESPN.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","VanVleet, Fred (TOR)",2018,SMOY
+Sam Amick,USA Today,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Ellington, Wayne (MIA)",2018,SMOY
+Scott Bordow,Arizona Republic,"Williams, Lou (LAC)","VanVleet, Fred (TOR)","Gordon, Eric (HOU)",2018,SMOY
+Sean Deveney,The Sporting News,"Williams, Lou (LAC)","VanVleet, Fred (TOR)","Barton, Will (DEN)",2018,SMOY
+Sekou Smith,NBA.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Sherrod Blakely,NBC Sports Boston,"Gordon, Eric (HOU)","Williams, Lou (LAC)","Barton, Will (DEN)",2018,SMOY
+Stefan Bondy,New York Daily News,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Steve Aschburner,NBA.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Steve Smith,Turner,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Thales Soares,Globoesporte.com,"Williams, Lou (LAC)","Barton, Will (DEN)","Rozier, Terry (BOS)",2018,SMOY
+Tim Reynolds,Associated Press,"Williams, Lou (LAC)","Ellington, Wayne (MIA)","Belinelli, Marco (PHI)",2018,SMOY
+TJ Manotoc,ABS‐CBN,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Ellington, Wayne (MIA)",2018,SMOY
+Tony Jones,Salt Lake Tribune,"Gordon, Eric (HOU)","VanVleet, Fred (TOR)","Williams, Lou (LAC)",2018,SMOY
+Vincent Goodwill,NBC Sports Chicago,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Satoransky, Tomas (WAS)",2018,SMOY
+Weiping Zhang,CCTV,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Hood, Rodney (CLE)",2018,SMOY
+Will Guillory,New Orleans Times‐Picayune,"Williams, Lou (LAC)","VanVleet, Fred (TOR)","Kuzma, Kyle (IND)",2018,SMOY
+Xavier Vaution,BeIn Sport,"Williams, Lou (LAC)","VanVleet, Fred (TOR)","Barton, Will (DEN)",2018,SMOY
+Yoko Miyaji,Sports Graphic Number,"Williams, Lou (LAC)","VanVleet, Fred (TOR)","Gordon, Eric (HOU)",2018,SMOY
+Zach Lowe,ESPN.com,"Williams, Lou (LAC)","Gordon, Eric (HOU)","Barton, Will (DEN)",2018,SMOY
+Ailene Voisin,Sacramento Bee,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Mills, Patty (S.A.)",2017,SMOY
+Andrew Sharp,Sports Illustrated,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Williams, Lou (Hou.)",2017,SMOY
+Anthony Slater,Bay Area News Group,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Mills, Patty (S.A.)",2017,SMOY
+Antoni Daimiel,Moviestar+,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Johnson, James (Mia.)",2017,SMOY
+Ben Golliver,Sports Illustrated,"Iguodala, Andre (G.S.)","Williams, Lou (Hou.)","Gordon, Eric (Hou.)",2017,SMOY
+Bill Oram,Orange County Register,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Monroe, Greg (Mil.)",2017,SMOY
+Bill Simmons,The Ringer,"Iguodala, Andre (G.S.)","Johnson, James (Mia.)","Gordon, Eric (Hou.)",2017,SMOY
+Brent Barry,Turner,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Mills, Patty (S.A.)",2017,SMOY
+Brian Lewis,New York Post,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Monroe, Greg (Mil.)",2017,SMOY
+Brian Mahoney,Associated Press,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Williams, Lou (Hou.)",2017,SMOY
+Brian Windhorst,ESPN.com,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Monroe, Greg (Mil.)",2017,SMOY
+Calvin Watkins,ESPN.com,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)",2017,SMOY
+Charles Gardner,Milwaukee Journal-Sentinel,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Monroe, Greg (Mil.)",2017,SMOY
+Chris Broussard,Fox Sports,"Gordon, Eric (Hou.)","Randolph, Zach (Mem.)","Iguodala, Andre (G.S.)",2017,SMOY
+Chris Webber,Turner,"Williams, Lou (Hou.)","Gordon, Eric (Hou.)","Randolph, Zach (Mem.)",2017,SMOY
+David Aldridge,Turner,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Williams, Lou (Hou.)",2017,SMOY
+Davide Chinellato,LaGazetta Dello Sport,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Williams, Lou (Hou.)",2017,SMOY
+Dennis Scott,Turner,"Crawford, Jamal (LA-C)","Williams, Lou (Hou.)","Iguodala, Andre (G.S.)",2017,SMOY
+Doris Burke,ABC/ESPN,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Johnson, James (Mia.)",2017,SMOY
+Doug Collins,ABC/ESPN,"Randolph, Zach (Mem.)","Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)",2017,SMOY
+Doug Haller,Arizona Republic,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Crawford, Jamal (LA-C)",2017,SMOY
+Doug Smith,The Toronto Star,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)",2017,SMOY
+Eddie Sefko,Dallas Morning News,"Gordon, Eric (Hou.)","Crawford, Jamal (LA-C)","Williams, Lou (Hou.)",2017,SMOY
+Erik Horne,The Oklahoman,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Williams, Lou (Hou.)",2017,SMOY
+Ernie Johnson,Turner,"Williams, Lou (Hou.)","Gordon, Eric (Hou.)","Kanter, Enes (OKC.)",2017,SMOY
+Flavio Tranquillo,Sky Italia,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Mills, Patty (S.A.)",2017,SMOY
+Fran Blinebury,NBA.com,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)",2017,SMOY
+Frank Isola,Sirius Radio/New York Daily News,"Gordon, Eric (Hou.)","Williams, Lou (Hou.)","Crawford, Jamal (LA-C)",2017,SMOY
+Gary Washburn,Boston Globe,"Williams, Lou (Hou.)","Gordon, Eric (Hou.)","Johnson, James (Mia.)",2017,SMOY
+Howard Beck,Bleacher Report,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)",2017,SMOY
+Hubie Brown,ABC/ESPN,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Mills, Patty (S.A.)",2017,SMOY
+J Michael Falgoust,CSN Washington,"Johnson, James (Mia.)","Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)",2017,SMOY
+JA Adande,ESPN.com,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Brogdon, Malcolm (Mil.)",2017,SMOY
+Jackie MacMullan,ESPN.com,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Williams, Lou (Hou.)",2017,SMOY
+Jacques Monclar,BEIN Sport,"Gordon, Eric (Hou.)","Randolph, Zach (Mem.)","Williams, Lou (Hou.)",2017,SMOY
+Jalen Rose,ABC/ESPN,"Gordon, Eric (Hou.)","Crawford, Jamal (LA-C)","Williams, Lou (Hou.)",2017,SMOY
+Jared Greenberg,Turner,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Mills, Patty (S.A.)",2017,SMOY
+Jason Jones,Sacramento Bee,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Mills, Patty (S.A.)",2017,SMOY
+Jeff McDonald,San Antonio Express-News,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Williams, Lou (Hou.)",2017,SMOY
+Jeff Zillgitt,USA Today,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Monroe, Greg (Mil.)",2017,SMOY
+Jerry Zgoda,Minneapolis Star-Tribune,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Kanter, Enes (OKC.)",2017,SMOY
+Joe Freeman,The Oregonian,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Johnson, James (Mia.)",2017,SMOY
+Joe Vardon,Cleveland.com,"Gordon, Eric (Hou.)","Mills, Patty (S.A.)","Randolph, Zach (Mem.)",2017,SMOY
+John Schuhmann,NBA.com,"Monroe, Greg (Mil.)","Iguodala, Andre (G.S.)","Mills, Patty (S.A.)",2017,SMOY
+Jon Barry,ESPN Radio,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Williams, Lou (Hou.)",2017,SMOY
+Jon Krawczynski,Associated Press,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Monroe, Greg (Mil.)",2017,SMOY
+Justin Termine,Sirius XM,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)",2017,SMOY
+Justin Verrier,ESPN.com,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Monroe, Greg (Mil.)",2017,SMOY
+KC Johnson,Chicago Tribune,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Johnson, James (Mia.)",2017,SMOY
+Keith Pompey,Philadelphia Inquirer,"Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)","Crawford, Jamal (LA-C)",2017,SMOY
+Kevin Arnovitz,ESPN.com,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Monroe, Greg (Mil.)",2017,SMOY
+Kevin Ding,Bleacher Report,"Iguodala, Andre (G.S.)","Johnson, James (Mia.)","Gordon, Eric (Hou.)",2017,SMOY
+Kevin Harlan,Turner,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Monroe, Greg (Mil.)",2017,SMOY
+Kevin O'Connor,The Ringer,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Monroe, Greg (Mil.)",2017,SMOY
+Kristen Ledlow,Turner,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Johnson, James (Mia.)",2017,SMOY
+Kurt Helin,NBCSports.com,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Williams, Lou (Hou.)",2017,SMOY
+Lang Whitaker,NBA.com,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Crawford, Jamal (LA-C)",2017,SMOY
+Lee Jenkins,Sports Illustrated,"Gordon, Eric (Hou.)","Kanter, Enes (OKC.)","Iguodala, Andre (G.S.)",2017,SMOY
+Lisa Shen Yang,Tencent,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Monroe, Greg (Mil.)",2017,SMOY
+Manny Navaro,Miami Herald,"Iguodala, Andre (G.S.)","Williams, Lou (Hou.)","Johnson, Tyler (Mia.)",2017,SMOY
+Marc Berman,New York Post,"Gordon, Eric (Hou.)","Randolph, Zach (Mem.)","Iguodala, Andre (G.S.)",2017,SMOY
+Marc Kestecher,ESPN Radio,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)",2017,SMOY
+Marc Spears,The Undefeated,"Gordon, Eric (Hou.)","Randolph, Zach (Mem.)","Iguodala, Andre (G.S.)",2017,SMOY
+Marc Stein,ESPN.com,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)",2017,SMOY
+Marcelo Nogueira,Ole,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Mills, Patty (S.A.)",2017,SMOY
+Mark Jackson,ABC/ESPN,"Gordon, Eric (Hou.)","Williams, Lou (Hou.)","Iguodala, Andre (G.S.)",2017,SMOY
+Mark Medina,LA Daily News,"Iguodala, Andre (G.S.)","Williams, Lou (Hou.)","Gordon, Eric (Hou.)",2017,SMOY
+Matt Moore,CBSSports.com,"Iguodala, Andre (G.S.)","Monroe, Greg (Mil.)","Carter, Vince (Mem.)",2017,SMOY
+Matt Winer,Turner,"Kanter, Enes (OKC.)","Gordon, Eric (Hou.)","Randolph, Zach (Mem.)",2017,SMOY
+Michael Grange,Rogers Sportsnet,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Randolph, Zach (Mem.)",2017,SMOY
+Michael Wilbon,ABC/ESPN,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Randolph, Zach (Mem.)",2017,SMOY
+Michelle Beadle,ABC/ESPN,"Gordon, Eric (Hou.)","Williams, Lou (Hou.)","Iguodala, Andre (G.S.)",2017,SMOY
+Mike Breen,ABC/ESPN,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Mills, Patty (S.A.)",2017,SMOY
+Nate Taylor,Indianapolis Star,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Williams, Lou (Hou.)",2017,SMOY
+Nira Khurana,Excelsior,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Randolph, Zach (Mem.)",2017,SMOY
+Paul Flannery,SB Nation,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Monroe, Greg (Mil.)",2017,SMOY
+Rachel Nichols,ABC/ESPN,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Johnson, James (Mia.)",2017,SMOY
+Ramona Shelburne,ESPN.com,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Williams, Lou (Hou.)",2017,SMOY
+Reggie Miller,Turner,"Williams, Lou (Hou.)","Gordon, Eric (Hou.)","Kanter, Enes (OKC.)",2017,SMOY
+Ric Bucher,Bleacher Report,"Gordon, Eric (Hou.)","Hardaway Jr., Tim (Atl.)","Iguodala, Andre (G.S.)",2017,SMOY
+Richard Walker,Gaston Gazette,"Williams, Lou (Hou.)","Gordon, Eric (Hou.)","Mills, Patty (S.A.)",2017,SMOY
+Rod Beard,Detroit News,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Monroe, Greg (Mil.)",2017,SMOY
+Ron Tillery,Memphis Commercial-Appeal,"Randolph, Zach (Mem.)","Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)",2017,SMOY
+Royce Young,ESPN,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Kanter, Enes (OKC.)",2017,SMOY
+Ryan Wolstat,Toronto Sun,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Johnson, James (Mia.)",2017,SMOY
+Sage Steele,ABC/ESPN,"Iguodala, Andre (G.S.)","Williams, Lou (Hou.)","Gordon, Eric (Hou.)",2017,SMOY
+Sam Amick,USA Today,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)",2017,SMOY
+Sean Deveney,The Sporting News,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)",2017,SMOY
+Sekou Smith,NBA.com,"Gordon, Eric (Hou.)","Williams, Lou (Hou.)","Crawford, Jamal (LA-C)",2017,SMOY
+Sherrod Blakely,CSN New England,"Gordon, Eric (Hou.)","Johnson, James (Mia.)","Iguodala, Andre (G.S.)",2017,SMOY
+Steve Aschburner,NBA.com,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Randolph, Zach (Mem.)",2017,SMOY
+Steve Kyler,Basketball Insiders,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)",2017,SMOY
+Steve Smith,Turner,"Gordon, Eric (Hou.)","Crawford, Jamal (LA-C)","Williams, Lou (Hou.)",2017,SMOY
+Tim Reynolds,Associated Press,"Iguodala, Andre (G.S.)","Williams, Lou (Hou.)","Kanter, Enes (OKC.)",2017,SMOY
+TJ Manotoc,ABC-CBN,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Johnson, James (Mia.)",2017,SMOY
+Tony Jones,Salt Lake Tribune,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Crawford, Jamal (LA-C)",2017,SMOY
+Vince Goodwill,CSN Chicago,"Gordon, Eric (Hou.)","Iguodala, Andre (G.S.)","Randolph, Zach (Mem.)",2017,SMOY
+Weiping Zhang,CCTV,"Gordon, Eric (Hou.)","Randolph, Zach (Mem.)","Kanter, Enes (OKC.)",2017,SMOY
+Yoko Miyaji,Sports Graphic Number,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Johnson, James (Mia.)",2017,SMOY
+Zach Lowe,ESPN.com,"Iguodala, Andre (G.S.)","Gordon, Eric (Hou.)","Johnson, James (Mia.)",2017,SMOY
+Aaron Falk,Salt Lake Tribune,"Iguodala, Andre -- GS","Kanter, Enes -- OKC","Barton, Will -- DEN",2016,SMOY
+Adam Himmelsbach,Boston Globe,"Kanter, Enes -- OKC","Iguodala, Andre -- GS","Turner, Evan -- BOS",2016,SMOY
+Alan Horton,WCCO 830-AM,"Iguodala, Andre -- GS","Crawford, Jamal -- LAC","Turner, Evan -- BOS",2016,SMOY
+Andre Aldridge,Fox Sports South,"Crawford, Jamal -- LAC","Barton, Will -- DEN","Kanter, Enes -- OKC",2016,SMOY
+Andy Vasquez,Bergen Record,"Iguodala, Andre -- GS","Davis, Ed -- POR","Kanter, Enes -- OKC",2016,SMOY
+Antonio Harvey,Fox Sports Radio/620AM,"Barton, Will -- DEN","Crawford, Jamal -- LAC","Anderson, Ryan -- NOP",2016,SMOY
+Bill Land,Fox Sports Southwest,"Iguodala, Andre -- GS","Barton, Will -- DEN","Turner, Evan -- BOS",2016,SMOY
+Bill Oram,Orange County Register,"Iguodala, Andre -- GS","Barton, Will -- DEN","Crawford, Jamal -- LAC",2016,SMOY
+Bill Reiter,CBSSports.com,"Barton, Will -- DEN","Iguodala, Andre -- GS","Kanter, Enes -- OKC",2016,SMOY
+Bill Schoening,WOAI Radio,"Kanter, Enes -- OKC","Barton, Will -- DEN","Turner, Evan -- BOS",2016,SMOY
+Bill Simmons,Bill Simmons Podcast/HBO,"Iguodala, Andre -- GS","Barton, Will -- DEN","Livingston, Shaun -- GS",2016,SMOY
+Bill Worrell,Root Sports Southwest,"Anderson, Ryan -- NOP","Iguodala, Andre -- GS","Crawford, Jamal -- LAC",2016,SMOY
+Bob Rathbun,Fox Sports South,"Iguodala, Andre -- GS","Turner, Evan -- BOS","Schroder, Dennis -- ATL",2016,SMOY
+Brian Davis,Fox Sports Oklahoma,"Kanter, Enes -- OKC","Crawford, Jamal -- LAC","Iguodala, Andre -- GS",2016,SMOY
+Brian Mahoney,Associated Press,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Lin, Jeremy -- CHA",2016,SMOY
+Brian Scalabrine,Comcast SportsNet New England,"Crawford, Jamal -- LAC","Diaw, Boris -- SA","Livingston, Shaun -- GS",2016,SMOY
+Brian Sieman,The Beast 980,"Crawford, Jamal -- LAC","Anderson, Ryan -- NOP","Kanter, Enes -- OKC",2016,SMOY
+Brian Windhorst,ESPN.com,"Iguodala, Andre -- GS","Kanter, Enes -- OKC","Crawford, Jamal -- LAC",2016,SMOY
+Calvin Watkins,ESPN.com Houston,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Kanter, Enes -- OKC",2016,SMOY
+Charles Gardner,Milwaukee Journal Sentinel,"Barton, Will -- DEN","Kanter, Enes -- OKC","Iguodala, Andre -- GS",2016,SMOY
+Chris Broussard,ESPN,"Crawford, Jamal -- LAC","Kanter, Enes -- OKC","Holiday, Jrue -- NOP",2016,SMOY
+Chris Carrino,WFAN (660),"Iguodala, Andre -- GS","Crawford, Jamal -- LAC","Lin, Jeremy -- CHA",2016,SMOY
+Chris Dempsey,Denver Post,"Kanter, Enes -- OKC","Crawford, Jamal -- LAC","Barton, Will -- DEN",2016,SMOY
+Chris Denari,Fox Sports Indiana,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Barton, Will -- DEN",2016,SMOY
+Chris Haynes,Northeast Ohio Media Group/Cleveland.com,"Crawford, Jamal -- LAC","Barton, Will -- DEN","LaVine, Zach -- MIN",2016,SMOY
+Chris Marlowe,Altitude Sports & Entertainment,"Barton, Will -- DEN","Collison, Darren -- SAC","Crawford, Jamal -- LAC",2016,SMOY
+Chris Sheridan,Sheridanhoops.com,"Kanter, Enes -- OKC","Crawford, Jamal -- LAC","Barton, Will -- DEN",2016,SMOY
+Dave Johnson,106.7 The Fan,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Lin, Jeremy -- CHA",2016,SMOY
+Dave McMenamin,ESPN.com,"Iguodala, Andre -- GS","Crawford, Jamal -- LAC","Thompson, Tristan -- CLE",2016,SMOY
+David Aldridge,TNT,"Kanter, Enes -- OKC","Iguodala, Andre -- GS","Crawford, Jamal -- LAC",2016,SMOY
+David Wesley,Fox Sports New Orleans,"Barton, Will -- DEN","Anderson, Ryan -- NOP","Lin, Jeremy -- CHA",2016,SMOY
+Dell Curry,Fox Sports Carolinas/SportSouth,"Iguodala, Andre -- GS","Kanter, Enes -- OKC","Crawford, Jamal -- LAC",2016,SMOY
+Dennis Neumann,ESPN 580 AM,"Crawford, Jamal -- LAC","Barton, Will -- DEN","Anderson, Ryan -- NOP",2016,SMOY
+Diamond Leung,Bay Area News Group,"Iguodala, Andre -- GS","Crawford, Jamal -- LAC","Barton, Will -- DEN",2016,SMOY
+Doris Burke,ESPN,"Iguodala, Andre -- GS","Barton, Will -- DEN","Crawford, Jamal -- LAC",2016,SMOY
+Doug Smith,The Toronto Star,"Iguodala, Andre -- GS","Turner, Evan -- BOS","Schroder, Dennis -- ATL",2016,SMOY
+Dwain Price,Ft. Worth Star Telegam,"Anderson, Ryan -- NOP","Crawford, Jamal -- LAC","Kanter, Enes -- OKC",2016,SMOY
+Eddie Johnson,Fox Sports Arizona,"Thompson, Tristan -- CLE","Iguodala, Andre -- GS","Crawford, Jamal -- LAC",2016,SMOY
+Eddie Sefko,Dallas Morning News,"Crawford, Jamal -- LAC","Anderson, Ryan -- NOP","Iguodala, Andre -- GS",2016,SMOY
+Eric Collins,Hornets Radio,"Thompson, Tristan -- CLE","Davis, Ed -- POR","Kanter, Enes -- OKC",2016,SMOY
+Eric Hasseltine,92.9 FM ESPN/680 AM ESPN,"Anderson, Ryan -- NOP","Crawford, Jamal -- LAC","Lin, Jeremy -- CHA",2016,SMOY
+Ernie Johnson,TNT,"Kanter, Enes -- OKC","Crawford, Jamal -- LAC","Barton, Will -- DEN",2016,SMOY
+Fran Blinebury,NBA.com,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Kanter, Enes -- OKC",2016,SMOY
+Frank Isola,Sirius Radio/New York Daily News,"Crawford, Jamal -- LAC","Barton, Will -- DEN","Turner, Evan -- BOS",2016,SMOY
+Gary Gerould,Comcast SportsNet-CA,"Kanter, Enes -- OKC","Crawford, Jamal -- LAC","Iguodala, Andre -- GS",2016,SMOY
+Gary Washburn,Boston Globe,"Turner, Evan -- BOS","Schroder, Dennis -- ATL","Iguodala, Andre -- GS",2016,SMOY
+George Blaha,WMGC / Fox Sports Detroit,"Crawford, Jamal -- LAC","Schroder, Dennis -- ATL","Barea, Jose Juan -- DAL",2016,SMOY
+Glenn Consor,106.7 The Fan,"Kanter, Enes -- OKC","Barton, Will -- DEN","Crawford, Jamal -- LAC",2016,SMOY
+Grant Napear,Comcast SportsNet-CA,"Kanter, Enes -- OKC","Iguodala, Andre -- GS","Barton, Will -- DEN",2016,SMOY
+Howard Beck,Bleacher Report,"Iguodala, Andre -- GS","Kanter, Enes -- OKC","Crawford, Jamal -- LAC",2016,SMOY
+Hubie Brown,ESPN,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Thompson, Tristan -- CLE",2016,SMOY
+Israel Guttierez,ESPN.com,"Crawford, Jamal -- LAC","Turner, Evan -- BOS","Kanter, Enes -- OKC",2016,SMOY
+JA Adande,ESPN.com,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Kanter, Enes -- OKC",2016,SMOY
+Jason Jackson,Fox Sports Sun,"Crawford, Jamal -- LAC","Kanter, Enes -- OKC","Lin, Jeremy -- CHA",2016,SMOY
+Jason Jones,Sacramento Bee,"Kanter, Enes -- OKC","Crawford, Jamal -- LAC","Iguodala, Andre -- GS",2016,SMOY
+Jason Kosmicki,Altitude Radio Network,"Barton, Will -- DEN","Anderson, Ryan -- NOP","Kanter, Enes -- OKC",2016,SMOY
+Jason Lieser,Palm Beach Post,"Iguodala, Andre -- GS","Anderson, Ryan -- NOP","Barton, Will -- DEN",2016,SMOY
+Jason Quick,Comcast SportsNet NW,"Anderson, Ryan -- NOP","Barton, Will -- DEN","Kanter, Enes -- OKC",2016,SMOY
+Jeff McDonald,San Antonio Express-News,"Iguodala, Andre -- GS","Kanter, Enes -- OKC","Crawford, Jamal -- LAC",2016,SMOY
+Jeff Turner,Fox Sports Florida,"Kanter, Enes -- OKC","Iguodala, Andre -- GS","Barton, Will -- DEN",2016,SMOY
+Jeff Zillgitt,USA Today,"Iguodala, Andre -- GS","Anderson, Ryan -- NOP","Crawford, Jamal -- LAC",2016,SMOY
+Jerry Zgoda,Minneapolis Star Tribune,"Crawford, Jamal -- LAC","Kanter, Enes -- OKC","Turner, Evan -- BOS",2016,SMOY
+Jessica Camerato,Comcast SportsNet,"Iguodala, Andre -- GS","Kanter, Enes -- OKC","Thompson, Tristan -- CLE",2016,SMOY
+Jim Barnett,Comcast SportsNet Bay Area,"Iguodala, Andre -- GS","Davis, Ed -- POR","Barton, Will -- DEN",2016,SMOY
+Jim Paschke,Fox Sports Wisconsin,"Iguodala, Andre -- GS","Barton, Will -- DEN","Kanter, Enes -- OKC",2016,SMOY
+Jim Petersen,Fox Sports North,"Crawford, Jamal -- LAC","Barton, Will -- DEN","Iguodala, Andre -- GS",2016,SMOY
+Jody Genessy,Deseret News,"Crawford, Jamal -- LAC","Barton, Will -- DEN","Iguodala, Andre -- GS",2016,SMOY
+Joe Cowley,Chicago Sun-Times,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Kanter, Enes -- OKC",2016,SMOY
+Joe Freeman,The Oregonian,"Iguodala, Andre -- GS","Kanter, Enes -- OKC","Barton, Will -- DEN",2016,SMOY
+Joel Meyers,Fox Sports New Orleans,"Crawford, Jamal -- LAC","Lin, Jeremy -- CHA","Iguodala, Andre -- GS",2016,SMOY
+John Denton,OrlandoMagic.com,"Iguodala, Andre -- GS","Barton, Will -- DEN","Crabbe, Allen -- POR",2016,SMOY
+John Krawczynski,Associated Press,"Iguodala, Andre -- GS","Crawford, Jamal -- LAC","Thompson, Tristan -- CLE",2016,SMOY
+John Michael,Cavaliers Radio,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Barton, Will -- DEN",2016,SMOY
+Jon Barry,ESPN Radio,"Barton, Will -- DEN","Crawford, Jamal -- LAC","Iguodala, Andre -- GS",2016,SMOY
+Jonathan Feigen,Houston Chronicle,"Iguodala, Andre -- GS","Barton, Will -- DEN","Crawford, Jamal -- LAC",2016,SMOY
+Jose Paneda,WAQI Radio,"Crawford, Jamal -- LAC","Kanter, Enes -- OKC","Iguodala, Andre -- GS",2016,SMOY
+Keith Pompey,Philadelphia Inquirer,"Crawford, Jamal -- LAC","Lin, Jeremy -- CHA","Turner, Evan -- BOS",2016,SMOY
+Ken Berger,CBSSports.com,"Barton, Will -- DEN","Crawford, Jamal -- LAC","Kanter, Enes -- OKC",2016,SMOY
+Kevin Arnovitz,ESPN.com,"Iguodala, Andre -- GS","Davis, Ed -- POR","Thompson, Tristan -- CLE",2016,SMOY
+Kevin Calabro,ESPN Radio,"Crawford, Jamal -- LAC","Barton, Will -- DEN","Livingston, Shaun -- GS",2016,SMOY
+Lang Whitaker,NBA.com,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Kanter, Enes -- OKC",2016,SMOY
+Marc Berman,New York Post,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Anderson, Ryan -- NOP",2016,SMOY
+Marc Spears,The Undefeated,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Kanter, Enes -- OKC",2016,SMOY
+Marc Stein,ESPN.com,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Kanter, Enes -- OKC",2016,SMOY
+Mark Boyle,107.5/1070 The Fan,"Barton, Will -- DEN","Iguodala, Andre -- GS","Kanter, Enes -- OKC",2016,SMOY
+Mark Followill,TXA-21/Fox Sports Net,"Barton, Will -- DEN","Kanter, Enes -- OKC","Crawford, Jamal -- LAC",2016,SMOY
+Mark Medina,LA Daily News,"Crawford, Jamal -- LAC","LaVine, Zach -- MIN","Barton, Will -- DEN",2016,SMOY
+Marv Albert,TNT,"Crawford, Jamal -- LAC","Kanter, Enes -- OKC","Iguodala, Andre -- GS",2016,SMOY
+Matt Winer,NBA TV,"Kanter, Enes -- OKC","Iguodala, Andre -- GS","Turner, Evan -- BOS",2016,SMOY
+Michael Cage,Fox Sports Oklahoma,"Kanter, Enes -- OKC","Crawford, Jamal -- LAC","Iguodala, Andre -- GS",2016,SMOY
+Michael Smith,Prime Ticket,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Barton, Will -- DEN",2016,SMOY
+Michael Wilbon,ESPN,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Kanter, Enes -- OKC",2016,SMOY
+Mike Breen,ABC Sports,"Iguodala, Andre -- GS","Crawford, Jamal -- LAC","Kanter, Enes -- OKC",2016,SMOY
+Mike Crispino,MSG Network,"Turner, Evan -- BOS","Barea, Jose Juan -- DAL","Schroder, Dennis -- ATL",2016,SMOY
+Mike Fratello,TNT,"Crawford, Jamal -- LAC","Turner, Evan -- BOS","Kanter, Enes -- OKC",2016,SMOY
+Mike Gorman,Comcast SportsNet New England,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Turner, Evan -- BOS",2016,SMOY
+Mike Monroe,The Rivard Report,"Crawford, Jamal -- LAC","Turner, Evan -- BOS","Iguodala, Andre -- GS",2016,SMOY
+Mike Tirico,ESPN,"Kanter, Enes -- OKC","Iguodala, Andre -- GS","Crawford, Jamal -- LAC",2016,SMOY
+Nate Taylor,Indianapolis Star,"Barton, Will -- DEN","Iguodala, Andre -- GS","Livingston, Shaun -- GS",2016,SMOY
+Neil Funk,Comcast SportsNet Chicago,"Barton, Will -- DEN","Davis, Ed -- POR","Crawford, Jamal -- LAC",2016,SMOY
+Nick Friedell,ESPNChicago.com,"Iguodala, Andre -- GS","Kanter, Enes -- OKC","Thompson, Tristan -- CLE",2016,SMOY
+Paul Coro,The Arizona Republic,"Kanter, Enes -- OKC","Turner, Evan -- BOS","Barton, Will -- DEN",2016,SMOY
+Paul Jones,TSN 1050/Sportsnet 590 The Fan,"Crawford, Jamal -- LAC","Lin, Jeremy -- CHA","Kanter, Enes -- OKC",2016,SMOY
+Pete Pranica,Fox Sports Southeast,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Barton, Will -- DEN",2016,SMOY
+Ralph Lawler,Prime Ticket,"Crawford, Jamal -- LAC","Livingston, Shaun -- GS","Kanter, Enes -- OKC",2016,SMOY
+Ramona Shelburne,ESPN.com,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Patterson, Patrick -- TOR",2016,SMOY
+Ric Bucher,Bleacher Report,"Turner, Evan -- BOS","Iguodala, Andre -- GS","Diaw, Boris -- SA",2016,SMOY
+Rick Bonnell,Charlotte Observer,"Crawford, Jamal -- LAC","Lin, Jeremy -- CHA","Schroder, Dennis -- ATL",2016,SMOY
+Rod Beard,Detroit News,"Crawford, Jamal -- LAC","Barton, Will -- DEN","Turner, Evan -- BOS",2016,SMOY
+Ron Boone,ROOT Sports,"Crawford, Jamal -- LAC","Kanter, Enes -- OKC","Iguodala, Andre -- GS",2016,SMOY
+Ron Tillery,Memphis Commercial Appeal,"Iguodala, Andre -- GS","Crawford, Jamal -- LAC","Barton, Will -- DEN",2016,SMOY
+Royce Young,ESPN.com,"Kanter, Enes -- OKC","Iguodala, Andre -- GS","Schroder, Dennis -- ATL",2016,SMOY
+Rusty Simmons,San Francisco Chronicle,"Iguodala, Andre -- GS","Crawford, Jamal -- LAC","Anderson, Ryan -- NOP",2016,SMOY
+Sage Steele,ABC Sports,"Crawford, Jamal -- LAC","Kanter, Enes -- OKC","Iguodala, Andre -- GS",2016,SMOY
+Sam Amick,USA Today,"Crawford, Jamal -- LAC","Kanter, Enes -- OKC","Iguodala, Andre -- GS",2016,SMOY
+Sam Smith,Bulls.com,"Crawford, Jamal -- LAC","Lin, Jeremy -- CHA","Barton, Will -- DEN",2016,SMOY
+Sean Deveney,The Sporting News,"Schroder, Dennis -- ATL","Barton, Will -- DEN","Kanter, Enes -- OKC",2016,SMOY
+Sean Kelley,WRNO 99.5 FM,"Crawford, Jamal -- LAC","Iguodala, Andre -- GS","Kanter, Enes -- OKC",2016,SMOY
+Sherman Hamilton,NBA TV Canada,"Lin, Jeremy -- CHA","Kanter, Enes -- OKC","Barton, Will -- DEN",2016,SMOY
+Steve Aschburner,NBA.com,"Kanter, Enes -- OKC","Lin, Jeremy -- CHA","Crawford, Jamal -- LAC",2016,SMOY
+Steve Buckhantz,Comcast SportsNet Mid-Atlantic,"Barton, Will -- DEN","Crawford, Jamal -- LAC","Kanter, Enes -- OKC",2016,SMOY
+Steve Holman,Hawks Radio Network,"Barton, Will -- DEN","Iguodala, Andre -- GS","Schroder, Dennis -- ATL",2016,SMOY
+Ted Davis,WTMJ Radio,"Barton, Will -- DEN","Iguodala, Andre -- GS","Anderson, Ryan -- NOP",2016,SMOY
+Tim Capstraw,WFAN (660),"Iguodala, Andre -- GS","Crawford, Jamal -- LAC","Barea, Jose Juan -- DAL",2016,SMOY
+Tim Kempton,KTAR Radio,"Davis, Ed -- POR","Iguodala, Andre -- GS","Teletovic, Mirza -- PHX",2016,SMOY
+Tim Reynolds,Associated Press,"Crawford, Jamal -- LAC","Kanter, Enes -- OKC","Iguodala, Andre -- GS",2016,SMOY
+Tom McGinnis,Sixers Radio,"Iguodala, Andre -- GS","Turner, Evan -- BOS","Diaw, Boris -- SA",2016,SMOY
+Vince Ellis,Detroit Free Press,"Kanter, Enes -- OKC","Crawford, Jamal -- LAC","Barton, Will -- DEN",2016,SMOY
+Walt Frazier,MSG Network,"Crawford, Jamal -- LAC","Barton, Will -- DEN","Lin, Jeremy -- CHA",2016,SMOY
+Zach Lowe,ESPN.com,"Iguodala, Andre -- GS","Barton, Will -- DEN","Davis, Ed -- POR",2016,SMOY
+Aaron Falk,Salt Lake Tribune,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Thomas, Isaiah -- BOS",2015,SMOY
+Al Iannazzone,Newsday,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Thomas, Isaiah -- BOS",2015,SMOY
+Alan Horton,WCCO 830-AM,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Thomas, Isaiah -- BOS",2015,SMOY
+Andre Aldridge,Fox Sports South,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Crawford, Jamal -- LAC",2015,SMOY
+Anthony Slater,Oklahoman,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
+Bill Land,Fox Sports Southwest,"Thomas, Isaiah -- BOS","Iguodala, Andre -- GS","Williams, Lou -- TOR",2015,SMOY
+Bill Oram,Orange County Register,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
+Bill Reiter,Foxsports.com,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
+Bill Schoening,WOAI Radio,"Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC","Williams, Lou -- TOR",2015,SMOY
+Bill Simmons,Grantland,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Iguodala, Andre -- GS",2015,SMOY
+Bill Wennington,WMVP AM 1000,"Speights, Marreese -- GS","Williams, Lou -- TOR","Thomas, Isaiah -- BOS",2015,SMOY
+Bill Worrell,Root Sports Southwest,"Crawford, Jamal -- LAC","Williams, Lou -- TOR","Mirotic, Nikola -- CHI",2015,SMOY
+Bob Fitzgerald,Comcast SportsNet Bay Area,"Iguodala, Andre -- GS","Thompson, Tristan -- CLE","Ginobili, Manu -- SA",2015,SMOY
+Bob Rathbun,Fox Sports South,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Iguodala, Andre -- GS",2015,SMOY
+Brendan Brown,MSG Network,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Thompson, Tristan -- CLE",2015,SMOY
+Brian Davis,Fox Sports Oklahoma,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Thompson, Tristan -- CLE",2015,SMOY
+Brian Sieman,The Beast 980 AM FM,"Crawford, Jamal -- LAC","Thomas, Isaiah -- BOS","Williams, Lou -- TOR",2015,SMOY
+Brian Windhorst,ESPN.com,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Thompson, Tristan -- CLE",2015,SMOY
+Candace Buckner,Indianapolis Star,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Thomas, Isaiah -- BOS",2015,SMOY
+Cedric Maxwell,WEEI Radio,"Crawford, Jamal -- LAC","Williams, Lou -- TOR","Brooks, Aaron -- CHI",2015,SMOY
+Charles Gardner,Milwaukee Journal Sentinel,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Mirotic, Nikola -- CHI",2015,SMOY
+Chris Broussard,ESPN The Magazine,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
+Chris Carrino,WFAN (660),"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
+Chris Dempsey,Denver Post,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Crawford, Jamal -- LAC",2015,SMOY
+Chris Denari,Fox Sports Indiana,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Thomas, Isaiah -- BOS",2015,SMOY
+Chris Haynes,Northeast Ohio Media Group/Cleveland.com,"Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC","Williams, Lou -- TOR",2015,SMOY
+Chris Mannix,Sports Illustrated,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
+Chris Sheridan,Sheridanhoops.com,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
+Chuck Cooperstein,ESPN 103.3,"Iguodala, Andre -- GS","Williams, Lou -- TOR","Speights, Marreese -- GS",2015,SMOY
+Craig Ackerman,Sportstalk 790 AM,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Brewer, Corey -- HOU",2015,SMOY
+Dan Woike,Orange County Register,"Crawford, Jamal -- LAC","Williams, Lou -- TOR","Thomas, Isaiah -- BOS",2015,SMOY
+Darnell Mayberry,Oklahoman,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Mirotic, Nikola -- CHI",2015,SMOY
+Dave McMenamin,ESPN.com,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
+David Aldridge,TNT,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Thomas, Isaiah -- BOS",2015,SMOY
+David Mayo,Mlive Media Group,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Mirotic, Nikola -- CHI",2015,SMOY
+David Steele,Fox Sports Florida,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Ginobili, Manu -- SA",2015,SMOY
+Dei Lynam,Comcast SportsNet,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Iguodala, Andre -- GS",2015,SMOY
+Dell Curry,Fox Sports Carolinas/SportSouth,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
+Doris Burke,ESPN,"Williams, Lou -- TOR","Mirotic, Nikola -- CHI","Iguodala, Andre -- GS",2015,SMOY
+Doug Smith,The Toronto Star,"Williams, Lou -- TOR","Mirotic, Nikola -- CHI","Thomas, Isaiah -- BOS",2015,SMOY
+Eddie Sefko,Dallas Morning News,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Thompson, Tristan -- CLE",2015,SMOY
+Eric Hasseltine,92.9 FM ESPN/680 AM,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
+Eric Smith,TSN 1050/Sportsnet 590 The Fan,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Thomas, Isaiah -- BOS",2015,SMOY
+Ernie Johnson,TNT,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
+Ethan Skolnick,Bleacher Report,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Schroder, Dennis -- ATL",2015,SMOY
+Fran Blinebury,NBA.com,"Iguodala, Andre -- GS","Crawford, Jamal -- LAC","Williams, Lou -- TOR",2015,SMOY
+Frank Isola,Sirius Radio/New York Daily News,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Brewer, Corey -- HOU",2015,SMOY
+Gary Gerould,Comcast SportsNet-CA,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
+Gary Washburn,Boston Globe,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Brewer, Corey -- HOU",2015,SMOY
+George Blaha,WMGC / Fox Sports Detroit,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Gibson, Taj -- CHI",2015,SMOY
+Glenn Consor,106.7 The Fan,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Kaman, Chris -- POR",2015,SMOY
+Grant Napear,Comcast SportsNet-CA,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Iguodala, Andre -- GS",2015,SMOY
+Howard Beck,Bleacher Report,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Mirotic, Nikola -- CHI",2015,SMOY
+Hubie Brown,ESPN,"Mirotic, Nikola -- CHI","Williams, Lou -- TOR","Thomas, Isaiah -- BOS",2015,SMOY
+Ian Eagle,YES Network,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
+Ira Winderman,South Florida Sun Sentinel,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Speights, Marreese -- GS",2015,SMOY
+Israel Guttierez,ESPN.com,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Speights, Marreese -- GS",2015,SMOY
+JA Adande,ESPN.com,"Williams, Lou -- TOR","Thompson, Tristan -- CLE","Crawford, Jamal -- LAC",2015,SMOY
+Jabari Young,Comcast SportsNet NW,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Thomas, Isaiah -- BOS",2015,SMOY
+Jason Jones,Sacramento Bee,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
 Jason Kosmicki,Altitude Radio Network,"Brewer, Corey -- HOU","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
 Jason Lloyd,Akron Beacon Journal,"Crawford, Jamal -- LAC","Williams, Lou -- TOR","Thompson, Tristan -- CLE",2015,SMOY
-Dan Woike,Orange County Register,"Crawford, Jamal -- LAC","Williams, Lou -- TOR","Thomas, Isaiah -- BOS",2015,SMOY
-Ralph Lawler,Prime Ticket,"Crawford, Jamal -- LAC","Williams, Lou -- TOR","Speights, Marreese -- GS",2015,SMOY
-Bill Worrell,Root Sports Southwest,"Crawford, Jamal -- LAC","Williams, Lou -- TOR","Mirotic, Nikola -- CHI",2015,SMOY
-Cedric Maxwell,WEEI Radio,"Crawford, Jamal -- LAC","Williams, Lou -- TOR","Brooks, Aaron -- CHI",2015,SMOY
-Kevin Ding,Bleacher Report,"Iguodala, Andre -- GS","Williams, Lou -- TOR","Thomas, Isaiah -- BOS",2015,SMOY
-Chuck Cooperstein,ESPN 103.3,"Iguodala, Andre -- GS","Williams, Lou -- TOR","Speights, Marreese -- GS",2015,SMOY
-Hubie Brown,ESPN,"Mirotic, Nikola -- CHI","Williams, Lou -- TOR","Thomas, Isaiah -- BOS",2015,SMOY
-Bill Wennington,WMVP AM 1000,"Speights, Marreese -- GS","Williams, Lou -- TOR","Thomas, Isaiah -- BOS",2015,SMOY
-Eric Hasseltine,92.9 FM ESPN/680 AM,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
-Ken Berger,CBSSports.com,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
-Sherrod Blakely,Comcast SportsNet,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
-Tom Heinsohn,Comcast SportsNet,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Iguodala, Andre -- GS",2015,SMOY
-Vince Ellis,Detroit Free Press,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
-Chris Broussard,ESPN The Magazine,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
-Marc Stein,ESPN.com,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Thompson, Tristan -- CLE",2015,SMOY
-Steve Albert,Fox Sports Arizona,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Speights, Marreese -- GS",2015,SMOY
-Dell Curry,Fox Sports Carolinas/SportSouth,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
-Pete Pranica,Fox Sports Tennessee,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Ginobili, Manu -- SA",2015,SMOY
-Jonathan Feigen,Houston Chronicle,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Iguodala, Andre -- GS",2015,SMOY
-Mark Medina,LA Daily News,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
-David Mayo,Mlive Media Group,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Mirotic, Nikola -- CHI",2015,SMOY
-John Reid,New Orleans Times Picayune,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
-Anthony Slater,Oklahoman,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
-Bill Oram,Orange County Register,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
-Jason Jones,Sacramento Bee,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
-Mike Monroe,San Antonio Express-News,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
+Jeff McDonald,San Antonio Express-News,"Thomas, Isaiah -- BOS","Speights, Marreese -- GS","Williams, Lou -- TOR",2015,SMOY
+Jeff Turner,Fox Sports Florida,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Speights, Marreese -- GS",2015,SMOY
+Jeff Zillgitt,USA Today,"Iguodala, Andre -- GS","Thomas, Isaiah -- BOS","Thompson, Tristan -- CLE",2015,SMOY
+Jerry Zgoda,Minneapolis Star Tribune,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Iguodala, Andre -- GS",2015,SMOY
+Jim Paschke,Fox Sports Wisconsin,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Iguodala, Andre -- GS",2015,SMOY
+Jim Petersen,Fox Sports North,"Williams, Lou -- TOR","Thompson, Tristan -- CLE","Crawford, Jamal -- LAC",2015,SMOY
+Jody Genessy,Deseret News,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
 Joe Freeman,The Oregonian,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Mirotic, Nikola -- CHI",2015,SMOY
-Sam Amick,USA Today,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Iguodala, Andre -- GS",2015,SMOY
-Mike Inglis,WAXY Radio,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Speights, Marreese -- GS",2015,SMOY
-Chris Carrino,WFAN (660),"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
-George Blaha,WMGC / Fox Sports Detroit,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Gibson, Taj -- CHI",2015,SMOY
+Joel Meyers,Fox Sports New Orleans,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Morrow, Anthony -- OKC",2015,SMOY
+John Denton,OrlandoMagic.com,"Williams, Lou -- TOR","Mirotic, Nikola -- CHI","Brewer, Corey -- HOU",2015,SMOY
+John Reid,New Orleans Times Picayune,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
+Jon Barry,ESPN Radio,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
+Jonathan Feigen,Houston Chronicle,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Iguodala, Andre -- GS",2015,SMOY
+KC Johnson,Chicago Tribune,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Thomas, Isaiah -- BOS",2015,SMOY
+Keith Pompey,Philadelphia Inquirer,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Gibson, Taj -- CHI",2015,SMOY
+Ken Berger,CBSSports.com,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
+Kevin Arnovitz,ESPN.com,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Thompson, Tristan -- CLE",2015,SMOY
+Kevin Calabro,ESPN Radio,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Thompson, Tristan -- CLE",2015,SMOY
+Kevin Ding,Bleacher Report,"Iguodala, Andre -- GS","Williams, Lou -- TOR","Thomas, Isaiah -- BOS",2015,SMOY
+Lang Whitaker,NBA.com,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Thomas, Isaiah -- BOS",2015,SMOY
+Malik Rose,Comcast SportsNet,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Mirotic, Nikola -- CHI",2015,SMOY
 Marc Spears,Yahoo! Sports,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Iguodala, Andre -- GS",2015,SMOY
-Dennis Scott,Turner,"Crawford, Jamal (LA-C)","Williams, Lou (Hou.)","Iguodala, Andre (G.S.)",2017,SMOY
-Mark Jackson,ABC/ESPN,"Gordon, Eric (Hou.)","Williams, Lou (Hou.)","Iguodala, Andre (G.S.)",2017,SMOY
-Michelle Beadle,ABC/ESPN,"Gordon, Eric (Hou.)","Williams, Lou (Hou.)","Iguodala, Andre (G.S.)",2017,SMOY
-Sekou Smith,NBA.com,"Gordon, Eric (Hou.)","Williams, Lou (Hou.)","Crawford, Jamal (LA-C)",2017,SMOY
-Frank Isola,Sirius Radio/New York Daily News,"Gordon, Eric (Hou.)","Williams, Lou (Hou.)","Crawford, Jamal (LA-C)",2017,SMOY
-Sage Steele,ABC/ESPN,"Iguodala, Andre (G.S.)","Williams, Lou (Hou.)","Gordon, Eric (Hou.)",2017,SMOY
-Tim Reynolds,Associated Press,"Iguodala, Andre (G.S.)","Williams, Lou (Hou.)","Kanter, Enes (OKC.)",2017,SMOY
-Mark Medina,LA Daily News,"Iguodala, Andre (G.S.)","Williams, Lou (Hou.)","Gordon, Eric (Hou.)",2017,SMOY
-Manny Navaro,Miami Herald,"Iguodala, Andre (G.S.)","Williams, Lou (Hou.)","Johnson, Tyler (Mia.)",2017,SMOY
-Ben Golliver,Sports Illustrated,"Iguodala, Andre (G.S.)","Williams, Lou (Hou.)","Gordon, Eric (Hou.)",2017,SMOY
-Jalen Rose,ABC/ESPN,"Gordon, Eric (HOU)","Williams, Lou (LAC)","Barton, Will (DEN)",2018,SMOY
-Sherrod Blakely,NBC Sports Boston,"Gordon, Eric (HOU)","Williams, Lou (LAC)","Barton, Will (DEN)",2018,SMOY
-Remi Reverchon,BeIN Sport (France),"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Schroder, Dennis (OKC)",2020,SMOY
-Reid Forgrave,CBSSports.com,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Dinwiddie, Spencer (BKN)",2019,SMOY
-Joe Cowley,Chicago Sun-Times,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Schroder, Dennis (OKC)",2020,SMOY
-Jon Barry,ESPN,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Schroder, Dennis (OKC)",2020,SMOY
-Marc Kestecher,ESPN,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Schroder, Dennis (OKC)",2020,SMOY
-Dave Pasch,ESPN,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Hill, George (MIL)",2020,SMOY
-Olgun Uluc,Fox Sports Australia,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Sabonis, Domantas (IND)",2019,SMOY
-Davide Chinellato,La Gazzetta dello Sport,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Schroder, Dennis (OKC)",2020,SMOY
-Mirjam Swanson,Southern California News Group,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Schroder, Dennis (OKC)",2020,SMOY
-Mike Ganter,The Toronto Sun,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Hill, George (MIL)",2020,SMOY
-Kristen Ledlow,Turner,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Schroder, Dennis (OKC)",2020,SMOY
-Candace Parker,Turner,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Schroder, Dennis (OKC)",2020,SMOY
-Casey Stern,Turner,"Harrell, Montrezl (LAC)","Williams, Lou (LAC)","Schroder, Dennis (OKC)",2020,SMOY
-Jackie MacMullan,ESPN,"Sabonis, Domantas (IND)","Williams, Lou (LAC)","Dinwiddie, Spencer (BKN)",2019,SMOY
-Mark Jackson,ESPN,"Schroder, Dennis (OKC)","Williams, Lou (LAC)","Harrell, Montrezl (LAC)",2020,SMOY
-Sekou Smith,NBA.com,"Schroder, Dennis (OKC)","Williams, Lou (LAC)","Bertans, Davis (WAS)",2020,SMOY
-Nick Kosmider,The Athletic,"Schroder, Dennis (OKC)","Williams, Lou (LAC)","Harrell, Montrezl (LAC)",2020,SMOY
-Chris Haynes,Yahoo! Sports,"Schroder, Dennis (OKC)","Williams, Lou (LAC)","Harrell, Montrezl (LAC)",2020,SMOY
-Frank Isola,Sirius Radio/New York Daily News,"VanVleet, Fred (TOR)","Williams, Lou (LAC)","Gordon, Eric (HOU)",2018,SMOY
-Kevin Arnovitz,ESPN,"Harrell, Montrezl (LAC)","Wood, Christian (DET)","Schroder, Dennis (OKC)",2020,SMOY
-Kevin Pelton,ESPN,"Harrell, Montrezl (LAC)","Wood, Christian (DET)","Bertans, Davis (WAS)",2020,SMOY
-Kevin O'Connor,The Ringer,"Schroder, Dennis (OKC)","Wood, Christian (DET)","Harrell, Montrezl (LAC)",2020,SMOY
+Marc Stein,ESPN.com,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Thompson, Tristan -- CLE",2015,SMOY
+Mark Boyle,107.5/1070 The Fan,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
+Mark Followill,TXA-21/Fox Sports Net,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
+Mark Medina,LA Daily News,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
+Marv Albert,TNT,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Thompson, Tristan -- CLE",2015,SMOY
+Matt Winer,NBA TV,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Thompson, Tristan -- CLE",2015,SMOY
+Michael Wilbon,ESPN,"Thomas, Isaiah -- BOS","Iguodala, Andre -- GS","Williams, Lou -- TOR",2015,SMOY
+Mike Breen,ABC Sports,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Thompson, Tristan -- CLE",2015,SMOY
+Mike Fratello,TNT,"Williams, Lou -- TOR","Thompson, Tristan -- CLE","Thomas, Isaiah -- BOS",2015,SMOY
+Mike Inglis,WAXY Radio,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Speights, Marreese -- GS",2015,SMOY
+Mike Monroe,San Antonio Express-News,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
+Mike Rice,Comcast SportsNet NW,"Iguodala, Andre -- GS","Ginobili, Manu -- SA","Gibson, Taj -- CHI",2015,SMOY
+Mike Tirico,ESPN,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
+Paul Coro,Arizona Republic,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Thomas, Isaiah -- BOS",2015,SMOY
+Pete Pranica,Fox Sports Tennessee,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Ginobili, Manu -- SA",2015,SMOY
+Peter Botte,New York Daily News,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
+Phil Chenier,Comcast SportsNet Mid-Atlantic,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
+Ralph Lawler,Prime Ticket,"Crawford, Jamal -- LAC","Williams, Lou -- TOR","Speights, Marreese -- GS",2015,SMOY
+Ramona Shelburne,ESPN.com,"Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC","Williams, Lou -- TOR",2015,SMOY
+Ric Bucher,Bleacher Report,"Gibson, Taj -- CHI","Thompson, Tristan -- CLE","Speights, Marreese -- GS",2015,SMOY
+Rick Bonnell,Charlotte Observer,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
+Ron Boone,ROOT Sports,"Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC","Iguodala, Andre -- GS",2015,SMOY
+Ron Tillery,Memphis Commercial Appeal,"Crawford, Jamal -- LAC","Ginobili, Manu -- SA","Thomas, Isaiah -- BOS",2015,SMOY
+Rusty Simmons,San Francisco Chronicle,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Iguodala, Andre -- GS",2015,SMOY
+Sage Steele,ABC Sports,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Thompson, Tristan -- CLE",2015,SMOY
+Sam Amick,USA Today,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Iguodala, Andre -- GS",2015,SMOY
+Sam Smith,Bulls.com,"Williams, Lou -- TOR","Crawford, Jamal -- LAC","Iguodala, Andre -- GS",2015,SMOY
+Scott Hastings,Altitude Sports & Entertainment,"Crawford, Jamal -- LAC","Speights, Marreese -- GS","Thomas, Isaiah -- BOS",2015,SMOY
+Sean Deveney,The Sporting News,"Williams, Lou -- TOR","Mirotic, Nikola -- CHI","Thomas, Isaiah -- BOS",2015,SMOY
+Sean Kelley,WWL 105.3 FM,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Iguodala, Andre -- GS",2015,SMOY
+Sherman Hamilton,NBA TV Canada,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
+Sherrod Blakely,Comcast SportsNet,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
+Stacey King,Comcast SportsNet Chicago,"Thomas, Isaiah -- BOS","Brewer, Corey -- HOU","Thompson, Tristan -- CLE",2015,SMOY
+Stephanie Ready,Fox Sports Carolinas/SportSouth,"Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC","Williams, Lou -- TOR",2015,SMOY
+Steve Albert,Fox Sports Arizona,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Speights, Marreese -- GS",2015,SMOY
+Steve Aschburner,NBA.com,"Williams, Lou -- TOR","Thompson, Tristan -- CLE","Iguodala, Andre -- GS",2015,SMOY
+Steve Buckhantz,Comcast SportsNet Mid-Atlantic,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
+Steve Holman,Hawks Radio Network,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
+Ted Davis,WTMJ Radio,"Williams, Lou -- TOR","Iguodala, Andre -- GS","Thomas, Isaiah -- BOS",2015,SMOY
+Tim Bontemps,New York Post,"Iguodala, Andre -- GS","Ginobili, Manu -- SA","Williams, Lou -- TOR",2015,SMOY
+Tim Kempton,KTAR Radio,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Speights, Marreese -- GS",2015,SMOY
+Tim Roye,KNBR Radio,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Crawford, Jamal -- LAC",2015,SMOY
+Tom Heinsohn,Comcast SportsNet,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Iguodala, Andre -- GS",2015,SMOY
+Tony Fiorentino,Sun Sports,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Thompson, Tristan -- CLE",2015,SMOY
+Vince Ellis,Detroit Free Press,"Thomas, Isaiah -- BOS","Williams, Lou -- TOR","Crawford, Jamal -- LAC",2015,SMOY
+Zach Lowe,Grantland,"Williams, Lou -- TOR","Thomas, Isaiah -- BOS","Iguodala, Andre -- GS",2015,SMOY
 Aaron Falk,Salt Lake Tribune,"Crawford, Jamal -- LAC","Gibson, Taj -- CHI","Ginobili, Manu -- SA",2014,SMOY
 Adrian Chavarria,KEYH 850 AM,"Crawford, Jamal -- LAC","Jackson, Reggie -- OKC","Ginobili, Manu -- SA",2014,SMOY
 Al McCoy,KTAR Radio,"Morris, Markieff -- PHO","Crawford, Jamal -- LAC","Jackson, Reggie -- OKC",2014,SMOY
