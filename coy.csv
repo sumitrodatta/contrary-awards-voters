@@ -1,104 +1,204 @@
 voter_name,affiliation,first_place_five_pts,second_place_three_pts,third_place_one_pt,year,award
-Marv Albert,Turner,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Sam Amick,The Athletic,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Greg Anthony,Turner,"Williams, Monty (PHX)","Snyder, Quin (UTA)","Rivers, Doc (PHI)",2021,COY
-Kevin Arnovitz,ESPN,"Williams, Monty (PHX)","Snyder, Quin (UTA)","McMillan, Nate (ATL)",2021,COY
-Steve Aschburner,NBA.com,"Snyder, Quin (UTA)","Williams, Monty (PHX)","Thibodeau, Tom (NYK)",2021,COY
-Evan Barnes,Memphis Commercial Appeal,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","McMillan, Nate (ATL)",2021,COY
-Jon Barry,ESPN,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Howard Beck,Sports Illustrated,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Stefan Bondy,New York Daily News,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
-Tim Bontemps,ESPN,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
-Chris Broussard,Fox Sports,"Williams, Monty (PHX)","Snyder, Quin (UTA)","Thibodeau, Tom (NYK)",2021,COY
-Ric Bucher,Sirius Radio,"Snyder, Quin (UTA)","Thibodeau, Tom (NYK)","Williams, Monty (PHX)",2021,COY
-Doris Burke,ESPN,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Shams Charania,The Athletic/Stadium,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Anthony Chiang,Miami Herald,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
-Davide Chinellato,La Gazzetta Dello Sport,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Rivers, Doc (PHI)",2021,COY
-Mauricio Codocea,Clarin (Argentina),"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Jamal Collier,Chicago Tribune,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
-Antoni Daimiel,Movistar+,"Rivers, Doc (PHI)","Williams, Monty (PHX)","Thibodeau, Tom (NYK)",2021,COY
-Dan Devine,The Ringer,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","McMillan, Nate (ATL)",2021,COY
-Chris Fedor,Cleveland.com,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
-Joe Freeman,The Oregonian,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Vince Goodwill,Yahoo! Sports,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","McMillan, Nate (ATL)",2021,COY
-Kyle Goon,Southern California News Group,"Williams, Monty (PHX)","Snyder, Quin (UTA)","Thibodeau, Tom (NYK)",2021,COY
-Michael Grange,Rogers Sportsnet,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Nash, Steve (BKN)",2021,COY
-Jared Greenberg,Turner,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
-Kevin Harlan,Turner,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Malone, Michael (DEN)",2021,COY
-Zach Harper,The Athletic,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
-Max Haupt,DPA,"Snyder, Quin (UTA)","Rivers, Doc (PHI)","Williams, Monty (PHX)",2021,COY
-Chris Haynes,Yahoo! Sports,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Kurt Helin,NBCSports.com,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
+Adam Himmelsbach,Boston Globe,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Udoka, Ime (BOS)",2022,COY
+Anthony Chiang,Miami Herald,"Williams, Monty (PHX)","Spoelstra, Erik (MIA)","Jenkins, Taylor (MEM)",2022,COY
+Anthony Slater,The Athletic,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Lue, Tyronn (LAC)",2022,COY
+Antoine Bancharel,L'Equipe / Canal+,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Udoka, Ime (BOS)",2022,COY
+Antoni Daimiel,Movistar+,"Jenkins, Taylor (MEM)","Williams, Monty (PHX)","Lue, Tyronn (LAC)",2022,COY
+Bill Oram,The Athletic,"Jenkins, Taylor (MEM)","Williams, Monty (PHX)","Lue, Tyronn (LAC)",2022,COY
+Bill Reiter,CBSSports.com,"Jenkins, Taylor (MEM)","Williams, Monty (PHX)","Spoelstra, Erik (MIA)",2022,COY
+Bill Simmons,The Ringer,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Udoka, Ime (BOS)",2022,COY
+Brian Mahoney,Associated Press,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Bickerstaff, J.B. (CLE)",2022,COY
+Brian Windhorst,ESPN,"Williams, Monty (PHX)","Spoelstra, Erik (MIA)","Jenkins, Taylor (MEM)",2022,COY
+Callie Caplan,Dallas Morning News,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Kidd, Jason (DAL)",2022,COY
+Cassidy Hubbarth,ESPN,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Spoelstra, Erik (MIA)",2022,COY
+Chris Broussard,Fox Sports,"Jenkins, Taylor (MEM)","Williams, Monty (PHX)","Udoka, Ime (BOS)",2022,COY
+Chris Fedor,Clevleand.com,"Jenkins, Taylor (MEM)","Williams, Monty (PHX)","Bickerstaff, J.B. (CLE)",2022,COY
+Chris Herring,Sports Illustrated,"Jenkins, Taylor (MEM)","Williams, Monty (PHX)","Udoka, Ime (BOS)",2022,COY
+Chris Kirschner,The Athletic,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Bickerstaff, J.B. (CLE)",2022,COY
+Chris Mannix,Sports Illustrated,"Williams, Monty (PHX)","Udoka, Ime (BOS)","Jenkins, Taylor (MEM)",2022,COY
+Christos Tsaltas,SDNA.gr,"Williams, Monty (PHX)","Udoka, Ime (BOS)","Jenkins, Taylor (MEM)",2022,COY
+Daisuke Sugiura,Nihon Keizai Shimbun,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Bickerstaff, J.B. (CLE)",2022,COY
+Dan Devine,The Ringer,"Williams, Monty (PHX)","Bickerstaff, J.B. (CLE)","Jenkins, Taylor (MEM)",2022,COY
+Dave McMenamin,ESPN,"Williams, Monty (PHX)","Lue, Tyronn (LAC)","Jenkins, Taylor (MEM)",2022,COY
+Dave Pasch,ESPN,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Spoelstra, Erik (MIA)",2022,COY
+David Aldridge,The Athletic,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Kidd, Jason (DAL)",2022,COY
+Davide Chinellato,La Gazzetta dello Sport,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Udoka, Ime (BOS)",2022,COY
+Dennis Scott,Turner,"Williams, Monty (PHX)","Kidd, Jason (DAL)","Jenkins, Taylor (MEM)",2022,COY
+Diego Martinez,Reforma,"Williams, Monty (PHX)","Spoelstra, Erik (MIA)","Jenkins, Taylor (MEM)",2022,COY
+Doris Burke,ESPN,"Jenkins, Taylor (MEM)","Williams, Monty (PHX)","Udoka, Ime (BOS)",2022,COY
+Doug Smith,The Toronto Star,"Jenkins, Taylor (MEM)","Williams, Monty (PHX)","Bickerstaff, J.B. (CLE)",2022,COY
+Drew Hill,Daily Memphian,"Jenkins, Taylor (MEM)","Williams, Monty (PHX)","Bickerstaff, J.B. (CLE)",2022,COY
+Duane Rankin,Arizona Republic,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Udoka, Ime (BOS)",2022,COY
+Eric Koreen,The Athletic,"Williams, Monty (PHX)","Spoelstra, Erik (MIA)","Udoka, Ime (BOS)",2022,COY
+Eric Nehm,The Athletic,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Spoelstra, Erik (MIA)",2022,COY
+Eric Walden,Salt Lake Tribune,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Bickerstaff, J.B. (CLE)",2022,COY
+Ernie Johnson,Turner,"Williams, Monty (PHX)","Spoelstra, Erik (MIA)","Udoka, Ime (BOS)",2022,COY
+Frank Isola,Sirius Radio,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Kidd, Jason (DAL)",2022,COY
+Gary Washburn,Boston Globe,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Udoka, Ime (BOS)",2022,COY
+Greg Anthony,Turner,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Kidd, Jason (DAL)",2022,COY
+Guillermo Schutz,Televisa (TUDN),"Williams, Monty (PHX)","Bickerstaff, J.B. (CLE)","Jenkins, Taylor (MEM)",2022,COY
+Harris Stavrou,Sport24,"Williams, Monty (PHX)","Bickerstaff, J.B. (CLE)","Finch, Chris (MIN)",2022,COY
+Howard Beck,Sports Illustrated,"Jenkins, Taylor (MEM)","Williams, Monty (PHX)","Lue, Tyronn (LAC)",2022,COY
+Jalen Rose,ESPN,"Jenkins, Taylor (MEM)","Williams, Monty (PHX)","Udoka, Ime (BOS)",2022,COY
+James Edwards III,The Athletic,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Udoka, Ime (BOS)",2022,COY
+Jared Greenberg,Turner,"Jenkins, Taylor (MEM)","Spoelstra, Erik (MIA)","Williams, Monty (PHX)",2022,COY
+Jason Anderson,Sacramento Bee,"Williams, Monty (PHX)","Spoelstra, Erik (MIA)","Jenkins, Taylor (MEM)",2022,COY
+Jason Quick,The Athletic,"Williams, Monty (PHX)","Udoka, Ime (BOS)","Bickerstaff, J.B. (CLE)",2022,COY
+Jeff McDonald,San Antonio Express-News,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Spoelstra, Erik (MIA)",2022,COY
+Jeff Zillgitt,USA Today,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Spoelstra, Erik (MIA)",2022,COY
+Joe Mussatto,The Oklahoman,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Bickerstaff, J.B. (CLE)",2022,COY
+Joe Vardon,The Athletic,"Williams, Monty (PHX)","Spoelstra, Erik (MIA)","Jenkins, Taylor (MEM)",2022,COY
+John Schuhmann,NBA.com,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Spoelstra, Erik (MIA)",2022,COY
+Josh Robbins,The Athletic,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Udoka, Ime (BOS)",2022,COY
+Justin Termine,Sirius Radio,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Bickerstaff, J.B. (CLE)",2022,COY
+K.C. Johnson,NBC Sports Chicago,"Williams, Monty (PHX)","Spoelstra, Erik (MIA)","Jenkins, Taylor (MEM)",2022,COY
+Keith Pompey,Philadelphia Inquirer,"Udoka, Ime (BOS)","Williams, Monty (PHX)","Jenkins, Taylor (MEM)",2022,COY
+Kelly Iko,The Athletic,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Spoelstra, Erik (MIA)",2022,COY
+Kendrick Perkins,ESPN,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Kidd, Jason (DAL)",2022,COY
+Kevin Arnovitz,ESPN,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Spoelstra, Erik (MIA)",2022,COY
+Kevin Harlan,Turner,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Finch, Chris (MIN)",2022,COY
+Kevin O'Connor,The Ringer,"Jenkins, Taylor (MEM)","Williams, Monty (PHX)","Lue, Tyronn (LAC)",2022,COY
+Kevin Pelton,ESPN,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Bickerstaff, J.B. (CLE)",2022,COY
+Khobi Price,Orlando Sentinel,"Williams, Monty (PHX)","Spoelstra, Erik (MIA)","Jenkins, Taylor (MEM)",2022,COY
+Kristian Winfield,New York Daily News,"Jenkins, Taylor (MEM)","Williams, Monty (PHX)","Udoka, Ime (BOS)",2022,COY
+Kurt Helin,NBCSports.com,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Bickerstaff, J.B. (CLE)",2022,COY
+Lisa Hsu,Tencent,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Finch, Chris (MIN)",2022,COY
+Marc Kestecher,ESPN,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Spoelstra, Erik (MIA)",2022,COY
+Mark Jackson,ESPN,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Udoka, Ime (BOS)",2022,COY
+Mark Medina,NBA.com,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Udoka, Ime (BOS)",2022,COY
+Matt Winer,Turner,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Udoka, Ime (BOS)",2022,COY
+Melissa Rohlin,Fox Sports,"Williams, Monty (PHX)","Spoelstra, Erik (MIA)","Jenkins, Taylor (MEM)",2022,COY
+Michael C. Wright,NBA.com,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Bickerstaff, J.B. (CLE)",2022,COY
+Michael Grange,Rogers Sportsnet,"Williams, Monty (PHX)","Nurse, Nick (TOR)","Jenkins, Taylor (MEM)",2022,COY
+Michael Pina,Sports Illustrated,"Jenkins, Taylor (MEM)","Williams, Monty (PHX)","Spoelstra, Erik (MIA)",2022,COY
+Michael Wilbon,ESPN,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Kidd, Jason (DAL)",2022,COY
+Mike Greenberg,ESPN,"Jenkins, Taylor (MEM)","Udoka, Ime (BOS)","Williams, Monty (PHX)",2022,COY
+Mike Singer,Denver Post,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Udoka, Ime (BOS)",2022,COY
+Ohm Youngmisuk,ESPN,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Lue, Tyronn (LAC)",2022,COY
+Ramona Shelburne,ESPN,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Spoelstra, Erik (MIA)",2022,COY
+Remi Reverchon,BeIN Sport (France),"Williams, Monty (PHX)","Bickerstaff, J.B. (CLE)","Jenkins, Taylor (MEM)",2022,COY
+Renjun Bao,Tencent,"Williams, Monty (PHX)","Udoka, Ime (BOS)","Jenkins, Taylor (MEM)",2022,COY
+Ric Bucher,FS1,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Bickerstaff, J.B. (CLE)",2022,COY
+Rob Mahoney,The Ringer,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Spoelstra, Erik (MIA)",2022,COY
+Rod Boone,Charlotte Observer,"Spoelstra, Erik (MIA)","Williams, Monty (PHX)","Nurse, Nick (TOR)",2022,COY
+Ryen Russillo,The Ringer,"Williams, Monty (PHX)","Spoelstra, Erik (MIA)","Udoka, Ime (BOS)",2022,COY
+Sam Amick,The Athletic,"Williams, Monty (PHX)","Spoelstra, Erik (MIA)","Jenkins, Taylor (MEM)",2022,COY
+Scott Kushner,New Orleans Times-Picayune,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Finch, Chris (MIN)",2022,COY
+Seerat Sohi,The Ringer,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Spoelstra, Erik (MIA)",2022,COY
+Shams Charania,The Athletic/Stadium,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Udoka, Ime (BOS)",2022,COY
+Shaun Powell,NBA.com,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Udoka, Ime (BOS)",2022,COY
+Stephanie Ready,Turner,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Udoka, Ime (BOS)",2022,COY
+Stephen A. Smith,ESPN,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Udoka, Ime (BOS)",2022,COY
+Steve Aschburner,NBA.com,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Bickerstaff, J.B. (CLE)",2022,COY
+Steve Popper,Newsday,"Jenkins, Taylor (MEM)","Williams, Monty (PHX)","Spoelstra, Erik (MIA)",2022,COY
+Steve Smith,Turner,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Spoelstra, Erik (MIA)",2022,COY
+Taylor Rooks,Bleacher Report,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Udoka, Ime (BOS)",2022,COY
+Tim Bontemps,ESPN,"Williams, Monty (PHX)","Spoelstra, Erik (MIA)","Bickerstaff, J.B. (CLE)",2022,COY
+Tim Reynolds,Associated Press,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Spoelstra, Erik (MIA)",2022,COY
+Vince Goodwill,Yahoo! Sports,"Williams, Monty (PHX)","Spoelstra, Erik (MIA)","Udoka, Ime (BOS)",2022,COY
+Yoko Miyaji,Sports Graphic Number,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Spoelstra, Erik (MIA)",2022,COY
+Zach Harper,The Athletic,"Williams, Monty (PHX)","Spoelstra, Erik (MIA)","Jenkins, Taylor (MEM)",2022,COY
+Zach Lowe,ESPN,"Williams, Monty (PHX)","Jenkins, Taylor (MEM)","Spoelstra, Erik (MIA)",2022,COY
 Adam Himmelsbach,Boston Globe,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
-Lisa Hsu,Tencent,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
-Cassidy Hubbarth,ESPN,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Rivers, Doc (PHI)",2021,COY
-Kelly Iko,The Athletic,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Frank Isola,Sirius Radio,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Rivers, Doc (PHI)",2021,COY
-Mark Jackson,ESPN,"Williams, Monty (PHX)","Snyder, Quin (UTA)","Thibodeau, Tom (NYK)",2021,COY
-Ernie Johnson,Turner,"Snyder, Quin (UTA)","Thibodeau, Tom (NYK)","Williams, Monty (PHX)",2021,COY
-Jason Jones,The Athletic,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
-Tony Jones,The Athletic,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
-Fred Katz,The Athletic,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
-Marc Kestecher,ESPN,"Snyder, Quin (UTA)","Williams, Monty (PHX)","Thibodeau, Tom (NYK)",2021,COY
-Chris Kirschner,The Athletic,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Scott Kushner,New Orleans Times Picayune,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Malone, Michael (DEN)",2021,COY
-Brian Lewis,New York Post,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Zach Lowe,ESPN,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Jackie MacMullan,ESPN,"Williams, Monty (PHX)","Snyder, Quin (UTA)","Thibodeau, Tom (NYK)",2021,COY
-Brian Mahoney,Associated Press,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
-Rob Mahoney,The Ringer,"Williams, Monty (PHX)","Nash, Steve (BKN)","Thibodeau, Tom (NYK)",2021,COY
-Chris Mannix,Sports Illustrated,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
-Diego Martinez,Reforma,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Jeff McDonald,San Antonio Express-News,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Dave McMenamin,ESPN,"Snyder, Quin (UTA)","Thibodeau, Tom (NYK)","Williams, Monty (PHX)",2021,COY
-Mark Medina,USA Today,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Nash, Steve (BKN)",2021,COY
-Yoko Miyaji,Sports Graphic Number,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
-Joe Mussatto,The Oklahoman,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Rivers, Doc (PHI)",2021,COY
-Rachel Nichols,ESPN,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
-Kevin O'Connor,The Ringer,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-James Owczarski,Milwaukee Journal Sentinel,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
-Candace Parker,Turner,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
-Roy Parry,Orlando Sentinel,"Thibodeau, Tom (NYK)","Rivers, Doc (PHI)","McMillan, Nate (ATL)",2021,COY
-Dave Pasch,ESPN,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Kevin Pelton,ESPN,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Rivers, Doc (PHI)",2021,COY
-Keith Pompey,Philadelphia Inquirer and Daily News,"Rivers, Doc (PHI)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Shaun Powell,NBA.com,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","McMillan, Nate (ATL)",2021,COY
-Duane Rankin,Arizona Republic,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Rivers, Doc (PHI)",2021,COY
-Bill Reiter,CBSSports.com,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","McMillan, Nate (ATL)",2021,COY
-Tim Reynolds,Associated Press,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
-Melissa Rohlin,Fox Sports,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Taylor Rooks,Bleacher Report,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Jalen Rose,ESPN,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Simone Sandri,Gazzetta.it,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","McMillan, Nate (ATL)",2021,COY
-Omari Sankofa II,Detroit Free Press,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
-John Schuhmann,NBA.com,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
-Guillermo Schutz,Televisa (TUDN),"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
-Dennis Scott,Turner,"Snyder, Quin (UTA)","Williams, Monty (PHX)","Thibodeau, Tom (NYK)",2021,COY
-Ramona Shelburne,ESPN,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
-Bill Simmons,The Ringer,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Nash, Steve (BKN)",2021,COY
-Mike Singer,Denver Post,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Malone, Michael (DEN)",2021,COY
+Anthony Chiang,Miami Herald,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
 Anthony Slater,The Athletic,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Doug Smith,The Toronto Star,"Snyder, Quin (UTA)","Thibodeau, Tom (NYK)","Williams, Monty (PHX)",2021,COY
-Stephen A. Smith,ESPN,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Steve Smith,Turner,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
-Seerat Sohi,The Ringer,"Snyder, Quin (UTA)","Williams, Monty (PHX)","Thibodeau, Tom (NYK)",2021,COY
-Daisuke Sugiura,Nihon Keizai Shimbun,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
-Mirjam Swanson,Southern California News Group,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","McMillan, Nate (ATL)",2021,COY
-Maria Taylor,ESPN,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","McMillan, Nate (ATL)",2021,COY
-Justin Termine,Sirius Radio,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
+Antoni Daimiel,Movistar+,"Rivers, Doc (PHI)","Williams, Monty (PHX)","Thibodeau, Tom (NYK)",2021,COY
+Bill Reiter,CBSSports.com,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","McMillan, Nate (ATL)",2021,COY
+Bill Simmons,The Ringer,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Nash, Steve (BKN)",2021,COY
 Brad Townsend,Dallas Morning News,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Christos Tsaltas,SDNA.gr,"Williams, Monty (PHX)","Snyder, Quin (UTA)","Rivers, Doc (PHI)",2021,COY
-Olgun Uluc,ESPN Australia,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Joe Vardon,The Athletic,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Nash, Steve (BKN)",2021,COY
-Gary Washburn,Boston Globe,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","McMillan, Nate (ATL)",2021,COY
-Michael Wilbon,ESPN,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","McMillan, Nate (ATL)",2021,COY
+Brian Lewis,New York Post,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
+Brian Mahoney,Associated Press,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
 Brian Windhorst,ESPN,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
-Matt Winer,Turner,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
-Ryan Wolstat,The Toronto Sun,"Snyder, Quin (UTA)","Williams, Monty (PHX)","Malone, Michael (DEN)",2021,COY
-Michael C. Wright,NBA.com,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Malone, Michael (DEN)",2021,COY
-Royce Young,ESPN,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
+Candace Parker,Turner,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
+Cassidy Hubbarth,ESPN,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Rivers, Doc (PHI)",2021,COY
+Chris Broussard,Fox Sports,"Williams, Monty (PHX)","Snyder, Quin (UTA)","Thibodeau, Tom (NYK)",2021,COY
+Chris Fedor,Cleveland.com,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
+Chris Haynes,Yahoo! Sports,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
+Chris Kirschner,The Athletic,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
+Chris Mannix,Sports Illustrated,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
+Christos Tsaltas,SDNA.gr,"Williams, Monty (PHX)","Snyder, Quin (UTA)","Rivers, Doc (PHI)",2021,COY
+Daisuke Sugiura,Nihon Keizai Shimbun,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
+Dan Devine,The Ringer,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","McMillan, Nate (ATL)",2021,COY
+Dave McMenamin,ESPN,"Snyder, Quin (UTA)","Thibodeau, Tom (NYK)","Williams, Monty (PHX)",2021,COY
+Dave Pasch,ESPN,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
+Davide Chinellato,La Gazzetta Dello Sport,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Rivers, Doc (PHI)",2021,COY
+Dennis Scott,Turner,"Snyder, Quin (UTA)","Williams, Monty (PHX)","Thibodeau, Tom (NYK)",2021,COY
+Diego Martinez,Reforma,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
+Doris Burke,ESPN,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
+Doug Smith,The Toronto Star,"Snyder, Quin (UTA)","Thibodeau, Tom (NYK)","Williams, Monty (PHX)",2021,COY
+Duane Rankin,Arizona Republic,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Rivers, Doc (PHI)",2021,COY
+Ernie Johnson,Turner,"Snyder, Quin (UTA)","Thibodeau, Tom (NYK)","Williams, Monty (PHX)",2021,COY
+Evan Barnes,Memphis Commercial Appeal,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","McMillan, Nate (ATL)",2021,COY
+Frank Isola,Sirius Radio,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Rivers, Doc (PHI)",2021,COY
+Fred Katz,The Athletic,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
+Gary Washburn,Boston Globe,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","McMillan, Nate (ATL)",2021,COY
+Greg Anthony,Turner,"Williams, Monty (PHX)","Snyder, Quin (UTA)","Rivers, Doc (PHI)",2021,COY
+Guillermo Schutz,Televisa (TUDN),"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
+Howard Beck,Sports Illustrated,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
+Jackie MacMullan,ESPN,"Williams, Monty (PHX)","Snyder, Quin (UTA)","Thibodeau, Tom (NYK)",2021,COY
+Jalen Rose,ESPN,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
+Jamal Collier,Chicago Tribune,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
+James Owczarski,Milwaukee Journal Sentinel,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
+Jared Greenberg,Turner,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
+Jason Jones,The Athletic,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
+Jeff McDonald,San Antonio Express-News,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
 Jeff Zillgitt,USA Today,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
+Joe Freeman,The Oregonian,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
+Joe Mussatto,The Oklahoman,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Rivers, Doc (PHI)",2021,COY
+Joe Vardon,The Athletic,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Nash, Steve (BKN)",2021,COY
+John Schuhmann,NBA.com,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
+Jon Barry,ESPN,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
+Justin Termine,Sirius Radio,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
+Keith Pompey,Philadelphia Inquirer and Daily News,"Rivers, Doc (PHI)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
+Kelly Iko,The Athletic,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
+Kevin Arnovitz,ESPN,"Williams, Monty (PHX)","Snyder, Quin (UTA)","McMillan, Nate (ATL)",2021,COY
+Kevin Harlan,Turner,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Malone, Michael (DEN)",2021,COY
+Kevin O'Connor,The Ringer,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
+Kevin Pelton,ESPN,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Rivers, Doc (PHI)",2021,COY
+Kurt Helin,NBCSports.com,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
+Kyle Goon,Southern California News Group,"Williams, Monty (PHX)","Snyder, Quin (UTA)","Thibodeau, Tom (NYK)",2021,COY
+Lisa Hsu,Tencent,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
+Marc Kestecher,ESPN,"Snyder, Quin (UTA)","Williams, Monty (PHX)","Thibodeau, Tom (NYK)",2021,COY
+Maria Taylor,ESPN,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","McMillan, Nate (ATL)",2021,COY
+Mark Jackson,ESPN,"Williams, Monty (PHX)","Snyder, Quin (UTA)","Thibodeau, Tom (NYK)",2021,COY
+Mark Medina,USA Today,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Nash, Steve (BKN)",2021,COY
+Marv Albert,Turner,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
+Matt Winer,Turner,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
+Mauricio Codocea,Clarin (Argentina),"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
+Max Haupt,DPA,"Snyder, Quin (UTA)","Rivers, Doc (PHI)","Williams, Monty (PHX)",2021,COY
+Melissa Rohlin,Fox Sports,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
+Michael C. Wright,NBA.com,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Malone, Michael (DEN)",2021,COY
+Michael Grange,Rogers Sportsnet,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Nash, Steve (BKN)",2021,COY
+Michael Wilbon,ESPN,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","McMillan, Nate (ATL)",2021,COY
+Mike Singer,Denver Post,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Malone, Michael (DEN)",2021,COY
+Mirjam Swanson,Southern California News Group,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","McMillan, Nate (ATL)",2021,COY
+Olgun Uluc,ESPN Australia,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
+Omari Sankofa II,Detroit Free Press,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
+Rachel Nichols,ESPN,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
+Ramona Shelburne,ESPN,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
+Ric Bucher,Sirius Radio,"Snyder, Quin (UTA)","Thibodeau, Tom (NYK)","Williams, Monty (PHX)",2021,COY
+Rob Mahoney,The Ringer,"Williams, Monty (PHX)","Nash, Steve (BKN)","Thibodeau, Tom (NYK)",2021,COY
+Roy Parry,Orlando Sentinel,"Thibodeau, Tom (NYK)","Rivers, Doc (PHI)","McMillan, Nate (ATL)",2021,COY
+Royce Young,ESPN,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
+Ryan Wolstat,The Toronto Sun,"Snyder, Quin (UTA)","Williams, Monty (PHX)","Malone, Michael (DEN)",2021,COY
+Sam Amick,The Athletic,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
+Scott Kushner,New Orleans Times Picayune,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Malone, Michael (DEN)",2021,COY
+Seerat Sohi,The Ringer,"Snyder, Quin (UTA)","Williams, Monty (PHX)","Thibodeau, Tom (NYK)",2021,COY
+Shams Charania,The Athletic/Stadium,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
+Shaun Powell,NBA.com,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","McMillan, Nate (ATL)",2021,COY
+Simone Sandri,Gazzetta.it,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","McMillan, Nate (ATL)",2021,COY
+Stefan Bondy,New York Daily News,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
+Stephen A. Smith,ESPN,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
+Steve Aschburner,NBA.com,"Snyder, Quin (UTA)","Williams, Monty (PHX)","Thibodeau, Tom (NYK)",2021,COY
+Steve Smith,Turner,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
+Taylor Rooks,Bleacher Report,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
+Tim Bontemps,ESPN,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
+Tim Reynolds,Associated Press,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
+Tony Jones,The Athletic,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
+Vince Goodwill,Yahoo! Sports,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","McMillan, Nate (ATL)",2021,COY
+Yoko Miyaji,Sports Graphic Number,"Thibodeau, Tom (NYK)","Williams, Monty (PHX)","Snyder, Quin (UTA)",2021,COY
+Zach Harper,The Athletic,"Thibodeau, Tom (NYK)","Snyder, Quin (UTA)","Williams, Monty (PHX)",2021,COY
+Zach Lowe,ESPN,"Williams, Monty (PHX)","Thibodeau, Tom (NYK)","Snyder, Quin (UTA)",2021,COY
 Adam Himmelsbach,Boston Globe,"Nurse, Nick (Toronto Raptors)","Budenholzer, Mike (Milwaukee Bucks)","Spoelstra, Erik (Miami Heat)",2020,COY
 Amin Elhassan,ESPN,"Nurse, Nick (Toronto Raptors)","Rivers, Doc (LA Clippers)","Spoelstra, Erik (Miami Heat)",2020,COY
 Andy Larsen,Salt Lake Tribune,"Nurse, Nick (Toronto Raptors)","Budenholzer, Mike (Milwaukee Bucks)","McMillan, Nate (Indiana Pacers)",2020,COY

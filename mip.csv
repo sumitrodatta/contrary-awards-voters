@@ -1,104 +1,204 @@
 voter_name,affiliation,first_place_five_pts,second_place_three_pts,third_place_one_pt,year,award
-Marv Albert,Turner,"Randle, Julius (NYK)","LaVine, Zach (CHI)","Grant, Jerami (DET)",2021,MIP
-Sam Amick,The Athletic,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Wood, Christian (HOU)",2021,MIP
-Greg Anthony,Turner,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
-Kevin Arnovitz,ESPN,"Randle, Julius (NYK)","Boucher, Chris (TOR)","Grant, Jerami (DET)",2021,MIP
-Steve Aschburner,NBA.com,"Randle, Julius (NYK)","Wood, Christian (HOU)","Brown, Jaylen (BOS)",2021,MIP
-Evan Barnes,Memphis Commercial Appeal,"Grant, Jerami (DET)","Randle, Julius (NYK)","Anderson, Kyle (MEM)",2021,MIP
-Jon Barry,ESPN,"Randle, Julius (NYK)","Capela, Clint (ATL)","Wood, Christian (HOU)",2021,MIP
-Howard Beck,Sports Illustrated,"Randle, Julius (NYK)","Grant, Jerami (DET)","Wood, Christian (HOU)",2021,MIP
-Stefan Bondy,New York Daily News,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
-Tim Bontemps,ESPN,"Randle, Julius (NYK)","LaVine, Zach (CHI)","Gilgeous-Alexander, Shai (OKC)",2021,MIP
-Chris Broussard,Fox Sports,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Barrett, RJ (NYK)",2021,MIP
-Ric Bucher,Sirius Radio,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
-Doris Burke,ESPN,"Randle, Julius (NYK)","Wood, Christian (HOU)","Grant, Jerami (DET)",2021,MIP
-Shams Charania,The Athletic/Stadium,"Randle, Julius (NYK)","Grant, Jerami (DET)","Bridges, Miles (CHA)",2021,MIP
-Anthony Chiang,Miami Herald,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
-Davide Chinellato,La Gazzetta Dello Sport,"Randle, Julius (NYK)","Brown, Jaylen (BOS)","Porter Jr., Michael (DEN)",2021,MIP
-Mauricio Codocea,Clarin (Argentina),"Randle, Julius (NYK)","Wood, Christian (HOU)","Grant, Jerami (DET)",2021,MIP
-Jamal Collier,Chicago Tribune,"Randle, Julius (NYK)","Grant, Jerami (DET)","LaVine, Zach (CHI)",2021,MIP
-Antoni Daimiel,Movistar+,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Bridges, Mikal (PHX)",2021,MIP
-Dan Devine,The Ringer,"Randle, Julius (NYK)","Grant, Jerami (DET)","Anderson, Kyle (MEM)",2021,MIP
-Chris Fedor,Cleveland.com,"Randle, Julius (NYK)","Grant, Jerami (DET)","Garland, Darius (CLE)",2021,MIP
-Joe Freeman,The Oregonian,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
-Vince Goodwill,Yahoo! Sports,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
-Kyle Goon,Southern California News Group,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
-Michael Grange,Rogers Sportsnet,"Randle, Julius (NYK)","Grant, Jerami (DET)","Wood, Christian (HOU)",2021,MIP
-Jared Greenberg,Turner,"Randle, Julius (NYK)","Grant, Jerami (DET)","Brown, Jaylen (BOS)",2021,MIP
-Kevin Harlan,Turner,"Randle, Julius (NYK)","Wood, Christian (HOU)","Grant, Jerami (DET)",2021,MIP
-Zach Harper,The Athletic,"Randle, Julius (NYK)","Wood, Christian (HOU)","Grant, Jerami (DET)",2021,MIP
-Max Haupt,DPA,"Randle, Julius (NYK)","Vucevic, Nikola (CHI)","Grant, Jerami (DET)",2021,MIP
-Chris Haynes,Yahoo! Sports,"Grant, Jerami (DET)","Porter Jr., Michael (DEN)","Boucher, Chris (TOR)",2021,MIP
-Kurt Helin,NBCSports.com,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
+Adam Himmelsbach,Boston Globe,"Morant, Ja (MEM)","Garland, Darius (CLE)","Maxey, Tyrese (PHI)",2022,MIP
+Anthony Chiang,Miami Herald,"Morant, Ja (MEM)","Garland, Darius (CLE)","Murray, Dejounte (SAS)",2022,MIP
+Anthony Slater,The Athletic,"Poole, Jordan (GSW)","Maxey, Tyrese (PHI)","Bridges, Miles (CHA)",2022,MIP
+Antoine Bancharel,L'Equipe / Canal+,"Poole, Jordan (GSW)","Maxey, Tyrese (PHI)","Bane, Desmond (MEM)",2022,MIP
+Antoni Daimiel,Movistar+,"Maxey, Tyrese (PHI)","Morant, Ja (MEM)","Bane, Desmond (MEM)",2022,MIP
+Bill Oram,The Athletic,"Poole, Jordan (GSW)","Murray, Dejounte (SAS)","Williams III, Robert (BOS)",2022,MIP
+Bill Reiter,CBSSports.com,"Morant, Ja (MEM)","Garland, Darius (CLE)","Bridges, Miles (CHA)",2022,MIP
+Bill Simmons,The Ringer,"Poole, Jordan (GSW)","Garland, Darius (CLE)","Bane, Desmond (MEM)",2022,MIP
+Brian Mahoney,Associated Press,"Poole, Jordan (GSW)","Bridges, Miles (CHA)","Simons, Anfernee (POR)",2022,MIP
+Brian Windhorst,ESPN,"Morant, Ja (MEM)","Garland, Darius (CLE)","Murray, Dejounte (SAS)",2022,MIP
+Callie Caplan,Dallas Morning News,"Morant, Ja (MEM)","Maxey, Tyrese (PHI)","Brunson, Jalen (DAL)",2022,MIP
+Cassidy Hubbarth,ESPN,"Morant, Ja (MEM)","Garland, Darius (CLE)","Maxey, Tyrese (PHI)",2022,MIP
+Chris Broussard,Fox Sports,"Maxey, Tyrese (PHI)","Bane, Desmond (MEM)","Poole, Jordan (GSW)",2022,MIP
+Chris Fedor,Clevleand.com,"Morant, Ja (MEM)","Garland, Darius (CLE)","Murray, Dejounte (SAS)",2022,MIP
+Chris Herring,Sports Illustrated,"Murray, Dejounte (SAS)","Poole, Jordan (GSW)","Bridges, Miles (CHA)",2022,MIP
+Chris Kirschner,The Athletic,"Garland, Darius (CLE)","Murray, Dejounte (SAS)","Poole, Jordan (GSW)",2022,MIP
+Chris Mannix,Sports Illustrated,"Poole, Jordan (GSW)","Murray, Dejounte (SAS)","Bane, Desmond (MEM)",2022,MIP
+Christos Tsaltas,SDNA.gr,"Bridges, Miles (CHA)","Poole, Jordan (GSW)","Garland, Darius (CLE)",2022,MIP
+Daisuke Sugiura,Nihon Keizai Shimbun,"Morant, Ja (MEM)","Garland, Darius (CLE)","Murray, Dejounte (SAS)",2022,MIP
+Dan Devine,The Ringer,"Morant, Ja (MEM)","Garland, Darius (CLE)","Murray, Dejounte (SAS)",2022,MIP
+Dave McMenamin,ESPN,"Poole, Jordan (GSW)","Bane, Desmond (MEM)","Maxey, Tyrese (PHI)",2022,MIP
+Dave Pasch,ESPN,"Bane, Desmond (MEM)","Garland, Darius (CLE)","Poole, Jordan (GSW)",2022,MIP
+David Aldridge,The Athletic,"Morant, Ja (MEM)","Murray, Dejounte (SAS)","Garland, Darius (CLE)",2022,MIP
+Davide Chinellato,La Gazzetta dello Sport,"Morant, Ja (MEM)","Murray, Dejounte (SAS)","Poole, Jordan (GSW)",2022,MIP
+Dennis Scott,Turner,"Garland, Darius (CLE)","Poole, Jordan (GSW)","Murray, Dejounte (SAS)",2022,MIP
+Diego Martinez,Reforma,"Morant, Ja (MEM)","Murray, Dejounte (SAS)","Bridges, Miles (CHA)",2022,MIP
+Doris Burke,ESPN,"Bane, Desmond (MEM)","Murray, Dejounte (SAS)","Poole, Jordan (GSW)",2022,MIP
+Doug Smith,The Toronto Star,"Poole, Jordan (GSW)","Murray, Dejounte (SAS)","Morant, Ja (MEM)",2022,MIP
+Drew Hill,Daily Memphian,"Murray, Dejounte (SAS)","Garland, Darius (CLE)","Poole, Jordan (GSW)",2022,MIP
+Duane Rankin,Arizona Republic,"Maxey, Tyrese (PHI)","Garland, Darius (CLE)","Poole, Jordan (GSW)",2022,MIP
+Eric Koreen,The Athletic,"Morant, Ja (MEM)","Garland, Darius (CLE)","Murray, Dejounte (SAS)",2022,MIP
+Eric Nehm,The Athletic,"Morant, Ja (MEM)","Garland, Darius (CLE)","Williams III, Robert (BOS)",2022,MIP
+Eric Walden,Salt Lake Tribune,"Murray, Dejounte (SAS)","Morant, Ja (MEM)","Bane, Desmond (MEM)",2022,MIP
+Ernie Johnson,Turner,"Morant, Ja (MEM)","Murray, Dejounte (SAS)","Bridges, Miles (CHA)",2022,MIP
+Frank Isola,Sirius Radio,"Garland, Darius (CLE)","Bane, Desmond (MEM)","Brunson, Jalen (DAL)",2022,MIP
+Gary Washburn,Boston Globe,"Poole, Jordan (GSW)","Simons, Anfernee (POR)","Strus, Max (MIA)",2022,MIP
+Greg Anthony,Turner,"Garland, Darius (CLE)","Poole, Jordan (GSW)","Murray, Dejounte (SAS)",2022,MIP
+Guillermo Schutz,Televisa (TUDN),"Morant, Ja (MEM)","Garland, Darius (CLE)","Poole, Jordan (GSW)",2022,MIP
+Harris Stavrou,Sport24,"Morant, Ja (MEM)","Garland, Darius (CLE)","Bane, Desmond (MEM)",2022,MIP
+Howard Beck,Sports Illustrated,"Poole, Jordan (GSW)","Murray, Dejounte (SAS)","Bane, Desmond (MEM)",2022,MIP
+Jalen Rose,ESPN,"Garland, Darius (CLE)","Murray, Dejounte (SAS)","Maxey, Tyrese (PHI)",2022,MIP
+James Edwards III,The Athletic,"Murray, Dejounte (SAS)","Jackson Jr., Jaren (MEM)","Garland, Darius (CLE)",2022,MIP
+Jared Greenberg,Turner,"Garland, Darius (CLE)","Murray, Dejounte (SAS)","Poole, Jordan (GSW)",2022,MIP
+Jason Anderson,Sacramento Bee,"Morant, Ja (MEM)","Murray, Dejounte (SAS)","Bane, Desmond (MEM)",2022,MIP
+Jason Quick,The Athletic,"Garland, Darius (CLE)","Poole, Jordan (GSW)","Simons, Anfernee (POR)",2022,MIP
+Jeff McDonald,San Antonio Express-News,"Murray, Dejounte (SAS)","Simons, Anfernee (POR)","Poole, Jordan (GSW)",2022,MIP
+Jeff Zillgitt,USA Today,"Murray, Dejounte (SAS)","Morant, Ja (MEM)","Bridges, Miles (CHA)",2022,MIP
+Joe Mussatto,The Oklahoman,"Morant, Ja (MEM)","Murray, Dejounte (SAS)","Garland, Darius (CLE)",2022,MIP
+Joe Vardon,The Athletic,"Morant, Ja (MEM)","Garland, Darius (CLE)","Bridges, Miles (CHA)",2022,MIP
+John Schuhmann,NBA.com,"Morant, Ja (MEM)","Garland, Darius (CLE)","Murray, Dejounte (SAS)",2022,MIP
+Josh Robbins,The Athletic,"Morant, Ja (MEM)","Murray, Dejounte (SAS)","Bridges, Miles (CHA)",2022,MIP
+Justin Termine,Sirius Radio,"Murray, Dejounte (SAS)","Garland, Darius (CLE)","Morant, Ja (MEM)",2022,MIP
+K.C. Johnson,NBC Sports Chicago,"Murray, Dejounte (SAS)","Bane, Desmond (MEM)","Poole, Jordan (GSW)",2022,MIP
+Keith Pompey,Philadelphia Inquirer,"Morant, Ja (MEM)","Garland, Darius (CLE)","Murray, Dejounte (SAS)",2022,MIP
+Kelly Iko,The Athletic,"Murray, Dejounte (SAS)","Bridges, Miles (CHA)","Poole, Jordan (GSW)",2022,MIP
+Kendrick Perkins,ESPN,"Bane, Desmond (MEM)","Poole, Jordan (GSW)","Garland, Darius (CLE)",2022,MIP
+Kevin Arnovitz,ESPN,"Maxey, Tyrese (PHI)","Murray, Dejounte (SAS)","Williams III, Robert (BOS)",2022,MIP
+Kevin Harlan,Turner,"Murray, Dejounte (SAS)","Poole, Jordan (GSW)","Williams III, Robert (BOS)",2022,MIP
+Kevin O'Connor,The Ringer,"Maxey, Tyrese (PHI)","Poole, Jordan (GSW)","Murray, Dejounte (SAS)",2022,MIP
+Kevin Pelton,ESPN,"Murray, Dejounte (SAS)","Morant, Ja (MEM)","Garland, Darius (CLE)",2022,MIP
+Khobi Price,Orlando Sentinel,"Morant, Ja (MEM)","Garland, Darius (CLE)","Poole, Jordan (GSW)",2022,MIP
+Kristian Winfield,New York Daily News,"Morant, Ja (MEM)","Garland, Darius (CLE)","Poole, Jordan (GSW)",2022,MIP
+Kurt Helin,NBCSports.com,"Morant, Ja (MEM)","Bane, Desmond (MEM)","Garland, Darius (CLE)",2022,MIP
+Lisa Hsu,Tencent,"Morant, Ja (MEM)","Garland, Darius (CLE)","Poole, Jordan (GSW)",2022,MIP
+Marc Kestecher,ESPN,"Morant, Ja (MEM)","Garland, Darius (CLE)","Murray, Dejounte (SAS)",2022,MIP
+Mark Jackson,ESPN,"Murray, Dejounte (SAS)","Bane, Desmond (MEM)","Poole, Jordan (GSW)",2022,MIP
+Mark Medina,NBA.com,"Poole, Jordan (GSW)","Garland, Darius (CLE)","Bridges, Miles (CHA)",2022,MIP
+Matt Winer,Turner,"Murray, Dejounte (SAS)","Poole, Jordan (GSW)","Garland, Darius (CLE)",2022,MIP
+Melissa Rohlin,Fox Sports,"Murray, Dejounte (SAS)","Morant, Ja (MEM)","Garland, Darius (CLE)",2022,MIP
+Michael C. Wright,NBA.com,"Morant, Ja (MEM)","Garland, Darius (CLE)","Murray, Dejounte (SAS)",2022,MIP
+Michael Grange,Rogers Sportsnet,"Murray, Dejounte (SAS)","Garland, Darius (CLE)","Morant, Ja (MEM)",2022,MIP
+Michael Pina,Sports Illustrated,"Murray, Dejounte (SAS)","Bane, Desmond (MEM)","Simons, Anfernee (POR)",2022,MIP
+Michael Wilbon,ESPN,"Bane, Desmond (MEM)","Maxey, Tyrese (PHI)","Murray, Dejounte (SAS)",2022,MIP
+Mike Greenberg,ESPN,"Garland, Darius (CLE)","Bane, Desmond (MEM)","Murray, Dejounte (SAS)",2022,MIP
+Mike Singer,Denver Post,"Murray, Dejounte (SAS)","Morant, Ja (MEM)","Poole, Jordan (GSW)",2022,MIP
+Ohm Youngmisuk,ESPN,"Murray, Dejounte (SAS)","Morant, Ja (MEM)","Garland, Darius (CLE)",2022,MIP
+Ramona Shelburne,ESPN,"Garland, Darius (CLE)","Maxey, Tyrese (PHI)","Bane, Desmond (MEM)",2022,MIP
+Remi Reverchon,BeIN Sport (France),"Morant, Ja (MEM)","Garland, Darius (CLE)","Poole, Jordan (GSW)",2022,MIP
+Renjun Bao,Tencent,"Morant, Ja (MEM)","Garland, Darius (CLE)","Murray, Dejounte (SAS)",2022,MIP
+Ric Bucher,FS1,"Poole, Jordan (GSW)","Bane, Desmond (MEM)","Murray, Dejounte (SAS)",2022,MIP
+Rob Mahoney,The Ringer,"Bridges, Miles (CHA)","Bane, Desmond (MEM)","Murray, Dejounte (SAS)",2022,MIP
+Rod Boone,Charlotte Observer,"Morant, Ja (MEM)","Garland, Darius (CLE)","Bridges, Miles (CHA)",2022,MIP
+Ryen Russillo,The Ringer,"Poole, Jordan (GSW)","Murray, Dejounte (SAS)","Garland, Darius (CLE)",2022,MIP
+Sam Amick,The Athletic,"Morant, Ja (MEM)","Poole, Jordan (GSW)","Garland, Darius (CLE)",2022,MIP
+Scott Kushner,New Orleans Times-Picayune,"Morant, Ja (MEM)","Garland, Darius (CLE)","Maxey, Tyrese (PHI)",2022,MIP
+Seerat Sohi,The Ringer,"Poole, Jordan (GSW)","Murray, Dejounte (SAS)","Garland, Darius (CLE)",2022,MIP
+Shams Charania,The Athletic/Stadium,"Bridges, Miles (CHA)","Simons, Anfernee (POR)","Murray, Dejounte (SAS)",2022,MIP
+Shaun Powell,NBA.com,"Garland, Darius (CLE)","Poole, Jordan (GSW)","Bridges, Miles (CHA)",2022,MIP
+Stephanie Ready,Turner,"Bane, Desmond (MEM)","Bridges, Miles (CHA)","Maxey, Tyrese (PHI)",2022,MIP
+Stephen A. Smith,ESPN,"Garland, Darius (CLE)","Bridges, Miles (CHA)","Murray, Dejounte (SAS)",2022,MIP
+Steve Aschburner,NBA.com,"Murray, Dejounte (SAS)","Garland, Darius (CLE)","Morant, Ja (MEM)",2022,MIP
+Steve Popper,Newsday,"Bane, Desmond (MEM)","Garland, Darius (CLE)","Maxey, Tyrese (PHI)",2022,MIP
+Steve Smith,Turner,"Morant, Ja (MEM)","Garland, Darius (CLE)","Murray, Dejounte (SAS)",2022,MIP
+Taylor Rooks,Bleacher Report,"Morant, Ja (MEM)","Garland, Darius (CLE)","Poole, Jordan (GSW)",2022,MIP
+Tim Bontemps,ESPN,"Morant, Ja (MEM)","Murray, Dejounte (SAS)","Garland, Darius (CLE)",2022,MIP
+Tim Reynolds,Associated Press,"Poole, Jordan (GSW)","Morant, Ja (MEM)","Murray, Dejounte (SAS)",2022,MIP
+Vince Goodwill,Yahoo! Sports,"Maxey, Tyrese (PHI)","Poole, Jordan (GSW)","Garland, Darius (CLE)",2022,MIP
+Yoko Miyaji,Sports Graphic Number,"Murray, Dejounte (SAS)","Morant, Ja (MEM)","Simons, Anfernee (POR)",2022,MIP
+Zach Harper,The Athletic,"Morant, Ja (MEM)","Garland, Darius (CLE)","Murray, Dejounte (SAS)",2022,MIP
+Zach Lowe,ESPN,"Bane, Desmond (MEM)","Murray, Dejounte (SAS)","Poole, Jordan (GSW)",2022,MIP
 Adam Himmelsbach,Boston Globe,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Brown, Jaylen (BOS)",2021,MIP
-Lisa Hsu,Tencent,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
-Cassidy Hubbarth,ESPN,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
-Kelly Iko,The Athletic,"Randle, Julius (NYK)","Wood, Christian (HOU)","Grant, Jerami (DET)",2021,MIP
-Frank Isola,Sirius Radio,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Bogdanovic, Bojan (UTA)",2021,MIP
-Mark Jackson,ESPN,"Randle, Julius (NYK)","Grant, Jerami (DET)","Bridges, Mikal (PHX)",2021,MIP
-Ernie Johnson,Turner,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
-Jason Jones,The Athletic,"Randle, Julius (NYK)","Grant, Jerami (DET)","Brown, Jaylen (BOS)",2021,MIP
-Tony Jones,The Athletic,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
-Fred Katz,The Athletic,"Randle, Julius (NYK)","Grant, Jerami (DET)","Rozier, Terry (CHA)",2021,MIP
-Marc Kestecher,ESPN,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
-Chris Kirschner,The Athletic,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
-Scott Kushner,New Orleans Times Picayune,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
-Brian Lewis,New York Post,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
-Zach Lowe,ESPN,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
-Jackie MacMullan,ESPN,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Wood, Christian (HOU)",2021,MIP
-Brian Mahoney,Associated Press,"Randle, Julius (NYK)","Dort, Luguentz (OKC)","Barrett, RJ (NYK)",2021,MIP
-Rob Mahoney,The Ringer,"Randle, Julius (NYK)","Grant, Jerami (DET)","LaVine, Zach (CHI)",2021,MIP
-Chris Mannix,Sports Illustrated,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Wood, Christian (HOU)",2021,MIP
-Diego Martinez,Reforma,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
-Jeff McDonald,San Antonio Express-News,"Randle, Julius (NYK)","Wood, Christian (HOU)","Grant, Jerami (DET)",2021,MIP
-Dave McMenamin,ESPN,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
-Mark Medina,USA Today,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Garland, Darius (CLE)",2021,MIP
-Yoko Miyaji,Sports Graphic Number,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
-Joe Mussatto,The Oklahoman,"Randle, Julius (NYK)","Grant, Jerami (DET)","LaVine, Zach (CHI)",2021,MIP
-Rachel Nichols,ESPN,"Randle, Julius (NYK)","Williamson, Zion (NOP)","Porter Jr., Michael (DEN)",2021,MIP
-Kevin O'Connor,The Ringer,"Randle, Julius (NYK)","Wood, Christian (HOU)","Porter Jr., Michael (DEN)",2021,MIP
-James Owczarski,Milwaukee Journal Sentinel,"Randle, Julius (NYK)","Grant, Jerami (DET)","Wood, Christian (HOU)",2021,MIP
-Candace Parker,Turner,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
-Roy Parry,Orlando Sentinel,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
-Dave Pasch,ESPN,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Bridges, Mikal (PHX)",2021,MIP
-Kevin Pelton,ESPN,"Randle, Julius (NYK)","Poole, Jordan (GSW)","LaVine, Zach (CHI)",2021,MIP
-Keith Pompey,Philadelphia Inquirer and Daily News,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
-Shaun Powell,NBA.com,"Randle, Julius (NYK)","Wood, Christian (HOU)","McConnell, T.J. (IND)",2021,MIP
-Duane Rankin,Arizona Republic,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Bridges, Mikal (PHX)",2021,MIP
-Bill Reiter,CBSSports.com,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Bridges, Mikal (PHX)",2021,MIP
-Tim Reynolds,Associated Press,"Randle, Julius (NYK)","Boucher, Chris (TOR)","Grant, Jerami (DET)",2021,MIP
-Melissa Rohlin,Fox Sports,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
-Taylor Rooks,Bleacher Report,"Randle, Julius (NYK)","Wood, Christian (HOU)","Grant, Jerami (DET)",2021,MIP
-Jalen Rose,ESPN,"Randle, Julius (NYK)","Clarkson, Jordan (UTA)","Bridges, Mikal (PHX)",2021,MIP
-Simone Sandri,Gazzetta.it,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Wood, Christian (HOU)",2021,MIP
-Omari Sankofa II,Detroit Free Press,"Randle, Julius (NYK)","Grant, Jerami (DET)","Wood, Christian (HOU)",2021,MIP
-John Schuhmann,NBA.com,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Bridges, Mikal (PHX)",2021,MIP
-Guillermo Schutz,Televisa (TUDN),"Randle, Julius (NYK)","Williamson, Zion (NOP)","Wood, Christian (HOU)",2021,MIP
-Dennis Scott,Turner,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Bridges, Miles (CHA)",2021,MIP
-Ramona Shelburne,ESPN,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
-Bill Simmons,The Ringer,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Holmes, Richaun (SAC)",2021,MIP
-Mike Singer,Denver Post,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
+Anthony Chiang,Miami Herald,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
 Anthony Slater,The Athletic,"Randle, Julius (NYK)","LaVine, Zach (CHI)","Brown, Jaylen (BOS)",2021,MIP
-Doug Smith,The Toronto Star,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
-Stephen A. Smith,ESPN,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
-Steve Smith,Turner,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
-Seerat Sohi,The Ringer,"Randle, Julius (NYK)","Grant, Jerami (DET)","Wood, Christian (HOU)",2021,MIP
-Daisuke Sugiura,Nihon Keizai Shimbun,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
-Mirjam Swanson,Southern California News Group,"Randle, Julius (NYK)","Grant, Jerami (DET)","Wood, Christian (HOU)",2021,MIP
-Maria Taylor,ESPN,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Wiggins, Andrew (GSW)",2021,MIP
-Justin Termine,Sirius Radio,"Randle, Julius (NYK)","LaVine, Zach (CHI)","Bridges, Mikal (PHX)",2021,MIP
+Antoni Daimiel,Movistar+,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Bridges, Mikal (PHX)",2021,MIP
+Bill Reiter,CBSSports.com,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Bridges, Mikal (PHX)",2021,MIP
+Bill Simmons,The Ringer,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Holmes, Richaun (SAC)",2021,MIP
 Brad Townsend,Dallas Morning News,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
-Christos Tsaltas,SDNA.gr,"Randle, Julius (NYK)","Grant, Jerami (DET)","LaVine, Zach (CHI)",2021,MIP
-Olgun Uluc,ESPN Australia,"Randle, Julius (NYK)","Grant, Jerami (DET)","Wood, Christian (HOU)",2021,MIP
-Joe Vardon,The Athletic,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Garland, Darius (CLE)",2021,MIP
-Gary Washburn,Boston Globe,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Brown, Jaylen (BOS)",2021,MIP
-Michael Wilbon,ESPN,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
+Brian Lewis,New York Post,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
+Brian Mahoney,Associated Press,"Randle, Julius (NYK)","Dort, Luguentz (OKC)","Barrett, RJ (NYK)",2021,MIP
 Brian Windhorst,ESPN,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Brown, Jaylen (BOS)",2021,MIP
-Matt Winer,Turner,"Randle, Julius (NYK)","Boucher, Chris (TOR)","Wood, Christian (HOU)",2021,MIP
-Ryan Wolstat,The Toronto Sun,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
-Michael C. Wright,NBA.com,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
-Royce Young,ESPN,"Randle, Julius (NYK)","Grant, Jerami (DET)","Ball, Lonzo (NOP)",2021,MIP
+Candace Parker,Turner,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
+Cassidy Hubbarth,ESPN,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
+Chris Broussard,Fox Sports,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Barrett, RJ (NYK)",2021,MIP
+Chris Fedor,Cleveland.com,"Randle, Julius (NYK)","Grant, Jerami (DET)","Garland, Darius (CLE)",2021,MIP
+Chris Haynes,Yahoo! Sports,"Grant, Jerami (DET)","Porter Jr., Michael (DEN)","Boucher, Chris (TOR)",2021,MIP
+Chris Kirschner,The Athletic,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
+Chris Mannix,Sports Illustrated,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Wood, Christian (HOU)",2021,MIP
+Christos Tsaltas,SDNA.gr,"Randle, Julius (NYK)","Grant, Jerami (DET)","LaVine, Zach (CHI)",2021,MIP
+Daisuke Sugiura,Nihon Keizai Shimbun,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
+Dan Devine,The Ringer,"Randle, Julius (NYK)","Grant, Jerami (DET)","Anderson, Kyle (MEM)",2021,MIP
+Dave McMenamin,ESPN,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
+Dave Pasch,ESPN,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Bridges, Mikal (PHX)",2021,MIP
+Davide Chinellato,La Gazzetta Dello Sport,"Randle, Julius (NYK)","Brown, Jaylen (BOS)","Porter Jr., Michael (DEN)",2021,MIP
+Dennis Scott,Turner,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Bridges, Miles (CHA)",2021,MIP
+Diego Martinez,Reforma,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
+Doris Burke,ESPN,"Randle, Julius (NYK)","Wood, Christian (HOU)","Grant, Jerami (DET)",2021,MIP
+Doug Smith,The Toronto Star,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
+Duane Rankin,Arizona Republic,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Bridges, Mikal (PHX)",2021,MIP
+Ernie Johnson,Turner,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
+Evan Barnes,Memphis Commercial Appeal,"Grant, Jerami (DET)","Randle, Julius (NYK)","Anderson, Kyle (MEM)",2021,MIP
+Frank Isola,Sirius Radio,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Bogdanovic, Bojan (UTA)",2021,MIP
+Fred Katz,The Athletic,"Randle, Julius (NYK)","Grant, Jerami (DET)","Rozier, Terry (CHA)",2021,MIP
+Gary Washburn,Boston Globe,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Brown, Jaylen (BOS)",2021,MIP
+Greg Anthony,Turner,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
+Guillermo Schutz,Televisa (TUDN),"Randle, Julius (NYK)","Williamson, Zion (NOP)","Wood, Christian (HOU)",2021,MIP
+Howard Beck,Sports Illustrated,"Randle, Julius (NYK)","Grant, Jerami (DET)","Wood, Christian (HOU)",2021,MIP
+Jackie MacMullan,ESPN,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Wood, Christian (HOU)",2021,MIP
+Jalen Rose,ESPN,"Randle, Julius (NYK)","Clarkson, Jordan (UTA)","Bridges, Mikal (PHX)",2021,MIP
+Jamal Collier,Chicago Tribune,"Randle, Julius (NYK)","Grant, Jerami (DET)","LaVine, Zach (CHI)",2021,MIP
+James Owczarski,Milwaukee Journal Sentinel,"Randle, Julius (NYK)","Grant, Jerami (DET)","Wood, Christian (HOU)",2021,MIP
+Jared Greenberg,Turner,"Randle, Julius (NYK)","Grant, Jerami (DET)","Brown, Jaylen (BOS)",2021,MIP
+Jason Jones,The Athletic,"Randle, Julius (NYK)","Grant, Jerami (DET)","Brown, Jaylen (BOS)",2021,MIP
+Jeff McDonald,San Antonio Express-News,"Randle, Julius (NYK)","Wood, Christian (HOU)","Grant, Jerami (DET)",2021,MIP
 Jeff Zillgitt,USA Today,"Randle, Julius (NYK)","LaVine, Zach (CHI)","Porter Jr., Michael (DEN)",2021,MIP
+Joe Freeman,The Oregonian,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
+Joe Mussatto,The Oklahoman,"Randle, Julius (NYK)","Grant, Jerami (DET)","LaVine, Zach (CHI)",2021,MIP
+Joe Vardon,The Athletic,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Garland, Darius (CLE)",2021,MIP
+John Schuhmann,NBA.com,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Bridges, Mikal (PHX)",2021,MIP
+Jon Barry,ESPN,"Randle, Julius (NYK)","Capela, Clint (ATL)","Wood, Christian (HOU)",2021,MIP
+Justin Termine,Sirius Radio,"Randle, Julius (NYK)","LaVine, Zach (CHI)","Bridges, Mikal (PHX)",2021,MIP
+Keith Pompey,Philadelphia Inquirer and Daily News,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
+Kelly Iko,The Athletic,"Randle, Julius (NYK)","Wood, Christian (HOU)","Grant, Jerami (DET)",2021,MIP
+Kevin Arnovitz,ESPN,"Randle, Julius (NYK)","Boucher, Chris (TOR)","Grant, Jerami (DET)",2021,MIP
+Kevin Harlan,Turner,"Randle, Julius (NYK)","Wood, Christian (HOU)","Grant, Jerami (DET)",2021,MIP
+Kevin O'Connor,The Ringer,"Randle, Julius (NYK)","Wood, Christian (HOU)","Porter Jr., Michael (DEN)",2021,MIP
+Kevin Pelton,ESPN,"Randle, Julius (NYK)","Poole, Jordan (GSW)","LaVine, Zach (CHI)",2021,MIP
+Kurt Helin,NBCSports.com,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
+Kyle Goon,Southern California News Group,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
+Lisa Hsu,Tencent,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
+Marc Kestecher,ESPN,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
+Maria Taylor,ESPN,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Wiggins, Andrew (GSW)",2021,MIP
+Mark Jackson,ESPN,"Randle, Julius (NYK)","Grant, Jerami (DET)","Bridges, Mikal (PHX)",2021,MIP
+Mark Medina,USA Today,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Garland, Darius (CLE)",2021,MIP
+Marv Albert,Turner,"Randle, Julius (NYK)","LaVine, Zach (CHI)","Grant, Jerami (DET)",2021,MIP
+Matt Winer,Turner,"Randle, Julius (NYK)","Boucher, Chris (TOR)","Wood, Christian (HOU)",2021,MIP
+Mauricio Codocea,Clarin (Argentina),"Randle, Julius (NYK)","Wood, Christian (HOU)","Grant, Jerami (DET)",2021,MIP
+Max Haupt,DPA,"Randle, Julius (NYK)","Vucevic, Nikola (CHI)","Grant, Jerami (DET)",2021,MIP
+Melissa Rohlin,Fox Sports,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
+Michael C. Wright,NBA.com,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
+Michael Grange,Rogers Sportsnet,"Randle, Julius (NYK)","Grant, Jerami (DET)","Wood, Christian (HOU)",2021,MIP
+Michael Wilbon,ESPN,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
+Mike Singer,Denver Post,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
+Mirjam Swanson,Southern California News Group,"Randle, Julius (NYK)","Grant, Jerami (DET)","Wood, Christian (HOU)",2021,MIP
+Olgun Uluc,ESPN Australia,"Randle, Julius (NYK)","Grant, Jerami (DET)","Wood, Christian (HOU)",2021,MIP
+Omari Sankofa II,Detroit Free Press,"Randle, Julius (NYK)","Grant, Jerami (DET)","Wood, Christian (HOU)",2021,MIP
+Rachel Nichols,ESPN,"Randle, Julius (NYK)","Williamson, Zion (NOP)","Porter Jr., Michael (DEN)",2021,MIP
+Ramona Shelburne,ESPN,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
+Ric Bucher,Sirius Radio,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
+Rob Mahoney,The Ringer,"Randle, Julius (NYK)","Grant, Jerami (DET)","LaVine, Zach (CHI)",2021,MIP
+Roy Parry,Orlando Sentinel,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
+Royce Young,ESPN,"Randle, Julius (NYK)","Grant, Jerami (DET)","Ball, Lonzo (NOP)",2021,MIP
+Ryan Wolstat,The Toronto Sun,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
+Sam Amick,The Athletic,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Wood, Christian (HOU)",2021,MIP
+Scott Kushner,New Orleans Times Picayune,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
+Seerat Sohi,The Ringer,"Randle, Julius (NYK)","Grant, Jerami (DET)","Wood, Christian (HOU)",2021,MIP
+Shams Charania,The Athletic/Stadium,"Randle, Julius (NYK)","Grant, Jerami (DET)","Bridges, Miles (CHA)",2021,MIP
+Shaun Powell,NBA.com,"Randle, Julius (NYK)","Wood, Christian (HOU)","McConnell, T.J. (IND)",2021,MIP
+Simone Sandri,Gazzetta.it,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Wood, Christian (HOU)",2021,MIP
+Stefan Bondy,New York Daily News,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
+Stephen A. Smith,ESPN,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
+Steve Aschburner,NBA.com,"Randle, Julius (NYK)","Wood, Christian (HOU)","Brown, Jaylen (BOS)",2021,MIP
+Steve Smith,Turner,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
+Taylor Rooks,Bleacher Report,"Randle, Julius (NYK)","Wood, Christian (HOU)","Grant, Jerami (DET)",2021,MIP
+Tim Bontemps,ESPN,"Randle, Julius (NYK)","LaVine, Zach (CHI)","Gilgeous-Alexander, Shai (OKC)",2021,MIP
+Tim Reynolds,Associated Press,"Randle, Julius (NYK)","Boucher, Chris (TOR)","Grant, Jerami (DET)",2021,MIP
+Tony Jones,The Athletic,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
+Vince Goodwill,Yahoo! Sports,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
+Yoko Miyaji,Sports Graphic Number,"Randle, Julius (NYK)","Grant, Jerami (DET)","Porter Jr., Michael (DEN)",2021,MIP
+Zach Harper,The Athletic,"Randle, Julius (NYK)","Wood, Christian (HOU)","Grant, Jerami (DET)",2021,MIP
+Zach Lowe,ESPN,"Randle, Julius (NYK)","Porter Jr., Michael (DEN)","Grant, Jerami (DET)",2021,MIP
 Adam Himmelsbach,Boston Globe,"Ingram, Brandon (NOP)","Doncic, Luka (DAL)","Brown, Jaylen (BOS)",2020,MIP
 Amin Elhassan,ESPN,"Adebayo, Bam (MIA)","Ingram, Brandon (NOP)","Siakam, Pascal (TOR)",2020,MIP
 Andy Larsen,Salt Lake Tribune,"Doncic, Luka (DAL)","Tatum, Jayson (BOS)","Ingram, Brandon (NOP)",2020,MIP

@@ -3,7 +3,7 @@ library(tidyverse)
 library(pdftools)
 
 source("scraping funcs.R")
-curr_year=2021
+curr_year=2022
 mvp=voting_tibble(year=curr_year,award="MVP")
 roy=voting_tibble(year=curr_year,award="ROY")
 dpoy=voting_tibble(year=curr_year,award="DPOY")
@@ -15,26 +15,37 @@ all_def=voting_tibble(year=curr_year,award="All-Defense")
 all_rook=voting_tibble(year=curr_year,award="All-Rook")
 
 #2021 edits
-all_def=all_def %>% filter(!is.na(first_fwd))
-all_nba=all_nba %>% slice(-1) %>% 
-  rename(forward=q30,forward_2=q31,center=q32,guard=q33,guard_2=q34,
-         forward_3=q35,forward_4=q36,center_2=q37,guard_3=q38,guard_4=q39,
-         forward_5=q40,forward_6=q41,center_3=q42,guard_5=na,guard_6=na_2)
+# all_def=all_def %>% filter(!is.na(first_fwd))
+# all_nba=all_nba %>% slice(-1) %>% 
+#   rename(forward=q30,forward_2=q31,center=q32,guard=q33,guard_2=q34,
+#          forward_3=q35,forward_4=q36,center_2=q37,guard_3=q38,guard_4=q39,
+#          forward_5=q40,forward_6=q41,center_3=q42,guard_5=na,guard_6=na_2)
+
+#2022 edits
+mvp=mvp %>% rename(x1st_place_10_points=na_2,
+               x2nd_place_7_points=na_3,
+               x3rd_place_5_points=na_4,
+               x4th_place_3_points=na_5,
+               x5th_place_1_point=na_6)
+roy=roy %>% select(-na_5)
+all_nba=all_nba %>% filter(!is.na(forward_2))
+all_def=all_def %>% filter(!is.na(first_fwd)) %>% select(-na)
+
 
 append_new<-function(award,season){
   csv_name=paste0(str_replace(deparse(substitute(award)),"_","-"),".csv")
   old_csv=read_csv(csv_name) %>% filter(year != season)
-  write_csv(old_csv %>% bind_rows(award),csv_name)
+  write_csv(old_csv %>% bind_rows(award) %>% arrange(desc(year)),csv_name)
 }
-# append_new(mvp,curr_year)
-# append_new(roy,curr_year)
-# append_new(dpoy,curr_year)
-# append_new(mip,curr_year)
-# append_new(smoy,curr_year)
-# append_new(coy,curr_year)
-# 
-# append_new(all_nba,curr_year)
-# append_new(all_def,curr_year)
+append_new(mvp,curr_year)
+append_new(roy,curr_year)
+append_new(dpoy,curr_year)
+append_new(mip,curr_year)
+append_new(smoy,curr_year)
+append_new(coy,curr_year)
+
+append_new(all_nba,curr_year)
+append_new(all_def,curr_year)
 append_new(all_rook,curr_year)
 
 file_list=c("mvp.csv","roy.csv","dpoy.csv","mip.csv","smoy.csv","coy.csv",
@@ -44,10 +55,12 @@ sapply(file_list, function(x){
   corrected=read_csv(x) %>% separate(voter_name,c("last_name","first_name"),sep=", ") %>%
     mutate(voter_name=ifelse(!is.na(first_name),
                              paste(first_name, last_name),
-                             last_name),.before="last") %>%
-    select(-c(last,first))
+                             last_name),.before="last_name") %>%
+    select(-c(last_name,first_name))
   write_csv(corrected,x)
 })
+
+#go into csv's to edit merged ballots
 
 #read back in edited csv's
 mvp<-read_csv("mvp.csv") %>% 

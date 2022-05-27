@@ -1,104 +1,204 @@
 voter_name,affiliation,first_place_five_pts,second_place_three_pts,third_place_one_pt,year,award
-Marv Albert,Turner,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
-Sam Amick,The Athletic,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Greg Anthony,Turner,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Adebayo, Bam (MIA)",2021,DPOY
-Kevin Arnovitz,ESPN,"Gobert, Rudy (UTA)","Green, Draymond (GSW)","Capela, Clint (ATL)",2021,DPOY
-Steve Aschburner,NBA.com,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
-Evan Barnes,Memphis Commercial Appeal,"Gobert, Rudy (UTA)","Embiid, Joel (PHI)","Green, Draymond (GSW)",2021,DPOY
-Jon Barry,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Turner, Myles (IND)",2021,DPOY
-Howard Beck,Sports Illustrated,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Stefan Bondy,New York Daily News,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Holiday, Jrue (MIL)",2021,DPOY
-Tim Bontemps,ESPN,"Gobert, Rudy (UTA)","Embiid, Joel (PHI)","Green, Draymond (GSW)",2021,DPOY
-Chris Broussard,Fox Sports,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
-Ric Bucher,Sirius Radio,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
-Doris Burke,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Shams Charania,The Athletic/Stadium,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Anthony Chiang,Miami Herald,"Gobert, Rudy (UTA)","Adebayo, Bam (MIA)","Simmons, Ben (PHI)",2021,DPOY
-Davide Chinellato,La Gazzetta Dello Sport,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Adebayo, Bam (MIA)",2021,DPOY
-Mauricio Codocea,Clarin (Argentina),"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Antetokounmpo, Giannis (MIL)",2021,DPOY
-Jamal Collier,Chicago Tribune,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Antoni Daimiel,Movistar+,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Caldwell-Pope, Kentavious (LAL)",2021,DPOY
-Dan Devine,The Ringer,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Capela, Clint (ATL)",2021,DPOY
-Chris Fedor,Cleveland.com,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Joe Freeman,The Oregonian,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Vince Goodwill,Yahoo! Sports,"Gobert, Rudy (UTA)","Green, Draymond (GSW)","Simmons, Ben (PHI)",2021,DPOY
-Kyle Goon,Southern California News Group,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Michael Grange,Rogers Sportsnet,"Gobert, Rudy (UTA)","Green, Draymond (GSW)","Simmons, Ben (PHI)",2021,DPOY
-Jared Greenberg,Turner,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
-Kevin Harlan,Turner,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
-Zach Harper,The Athletic,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Max Haupt,DPA,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Adebayo, Bam (MIA)",2021,DPOY
-Chris Haynes,Yahoo! Sports,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Holiday, Jrue (MIL)",2021,DPOY
-Kurt Helin,NBCSports.com,"Gobert, Rudy (UTA)","Green, Draymond (GSW)","Simmons, Ben (PHI)",2021,DPOY
+Adam Himmelsbach,Boston Globe,"Smart, Marcus (BOS)","Adebayo, Bam (MIA)","Gobert, Rudy (UTA)",2022,DPOY
+Anthony Chiang,Miami Herald,"Adebayo, Bam (MIA)","Gobert, Rudy (UTA)","Jackson Jr., Jaren (MEM)",2022,DPOY
+Anthony Slater,The Athletic,"Bridges, Mikal (PHX)","Smart, Marcus (BOS)","Gobert, Rudy (UTA)",2022,DPOY
+Antoine Bancharel,L'Equipe / Canal+,"Gobert, Rudy (UTA)","Smart, Marcus (BOS)","Bridges, Mikal (PHX)",2022,DPOY
+Antoni Daimiel,Movistar+,"Williams III, Robert (BOS)","Bridges, Mikal (PHX)","Green, Draymond (GSW)",2022,DPOY
+Bill Oram,The Athletic,"Bridges, Mikal (PHX)","Gobert, Rudy (UTA)","Smart, Marcus (BOS)",2022,DPOY
+Bill Reiter,CBSSports.com,"Smart, Marcus (BOS)","Adebayo, Bam (MIA)","Bridges, Mikal (PHX)",2022,DPOY
+Bill Simmons,The Ringer,"Smart, Marcus (BOS)","Bridges, Mikal (PHX)","Jackson Jr., Jaren (MEM)",2022,DPOY
+Brian Mahoney,Associated Press,"Bridges, Mikal (PHX)","Jackson Jr., Jaren (MEM)","Adebayo, Bam (MIA)",2022,DPOY
+Brian Windhorst,ESPN,"Adebayo, Bam (MIA)","Smart, Marcus (BOS)","Gobert, Rudy (UTA)",2022,DPOY
+Callie Caplan,Dallas Morning News,"Smart, Marcus (BOS)","Adebayo, Bam (MIA)","Gobert, Rudy (UTA)",2022,DPOY
+Cassidy Hubbarth,ESPN,"Smart, Marcus (BOS)","Antetokounmpo, Giannis (MIL)","Gobert, Rudy (UTA)",2022,DPOY
+Chris Broussard,Fox Sports,"Smart, Marcus (BOS)","Gobert, Rudy (UTA)","Antetokounmpo, Giannis (MIL)",2022,DPOY
+Chris Fedor,Clevleand.com,"Smart, Marcus (BOS)","Adebayo, Bam (MIA)","Bridges, Mikal (PHX)",2022,DPOY
+Chris Herring,Sports Illustrated,"Smart, Marcus (BOS)","Antetokounmpo, Giannis (MIL)","Gobert, Rudy (UTA)",2022,DPOY
+Chris Kirschner,The Athletic,"Adebayo, Bam (MIA)","Jackson Jr., Jaren (MEM)","Bridges, Mikal (PHX)",2022,DPOY
+Chris Mannix,Sports Illustrated,"Smart, Marcus (BOS)","Gobert, Rudy (UTA)","Bridges, Mikal (PHX)",2022,DPOY
+Christos Tsaltas,SDNA.gr,"Antetokounmpo, Giannis (MIL)","Adebayo, Bam (MIA)","Jackson Jr., Jaren (MEM)",2022,DPOY
+Daisuke Sugiura,Nihon Keizai Shimbun,"Smart, Marcus (BOS)","Gobert, Rudy (UTA)","Adebayo, Bam (MIA)",2022,DPOY
+Dan Devine,The Ringer,"Adebayo, Bam (MIA)","Smart, Marcus (BOS)","Bridges, Mikal (PHX)",2022,DPOY
+Dave McMenamin,ESPN,"Antetokounmpo, Giannis (MIL)","Smart, Marcus (BOS)","Gobert, Rudy (UTA)",2022,DPOY
+Dave Pasch,ESPN,"Smart, Marcus (BOS)","Bridges, Mikal (PHX)","Antetokounmpo, Giannis (MIL)",2022,DPOY
+David Aldridge,The Athletic,"Smart, Marcus (BOS)","Bridges, Mikal (PHX)","Jackson Jr., Jaren (MEM)",2022,DPOY
+Davide Chinellato,La Gazzetta dello Sport,"Bridges, Mikal (PHX)","Smart, Marcus (BOS)","Jackson Jr., Jaren (MEM)",2022,DPOY
+Dennis Scott,Turner,"Jackson Jr., Jaren (MEM)","Holiday, Jrue (MIL)","Adebayo, Bam (MIA)",2022,DPOY
+Diego Martinez,Reforma,"Smart, Marcus (BOS)","Adebayo, Bam (MIA)","Bridges, Mikal (PHX)",2022,DPOY
+Doris Burke,ESPN,"Smart, Marcus (BOS)","Adebayo, Bam (MIA)","Gobert, Rudy (UTA)",2022,DPOY
+Doug Smith,The Toronto Star,"Bridges, Mikal (PHX)","Smart, Marcus (BOS)","Antetokounmpo, Giannis (MIL)",2022,DPOY
+Drew Hill,Daily Memphian,"Jackson Jr., Jaren (MEM)","Gobert, Rudy (UTA)","Smart, Marcus (BOS)",2022,DPOY
+Duane Rankin,Arizona Republic,"Bridges, Mikal (PHX)","Antetokounmpo, Giannis (MIL)","Green, Draymond (GSW)",2022,DPOY
+Eric Koreen,The Athletic,"Gobert, Rudy (UTA)","Adebayo, Bam (MIA)","Smart, Marcus (BOS)",2022,DPOY
+Eric Nehm,The Athletic,"Adebayo, Bam (MIA)","Gobert, Rudy (UTA)","Smart, Marcus (BOS)",2022,DPOY
+Eric Walden,Salt Lake Tribune,"Gobert, Rudy (UTA)","Bridges, Mikal (PHX)","Antetokounmpo, Giannis (MIL)",2022,DPOY
+Ernie Johnson,Turner,"Bridges, Mikal (PHX)","Smart, Marcus (BOS)","Gobert, Rudy (UTA)",2022,DPOY
+Frank Isola,Sirius Radio,"Bridges, Mikal (PHX)","Smart, Marcus (BOS)","Antetokounmpo, Giannis (MIL)",2022,DPOY
+Gary Washburn,Boston Globe,"Smart, Marcus (BOS)","Bridges, Mikal (PHX)","Jackson Jr., Jaren (MEM)",2022,DPOY
+Greg Anthony,Turner,"Bridges, Mikal (PHX)","Williams III, Robert (BOS)","Adebayo, Bam (MIA)",2022,DPOY
+Guillermo Schutz,Televisa (TUDN),"Adebayo, Bam (MIA)","Bridges, Mikal (PHX)","Gobert, Rudy (UTA)",2022,DPOY
+Harris Stavrou,Sport24,"Antetokounmpo, Giannis (MIL)","Smart, Marcus (BOS)","Bridges, Mikal (PHX)",2022,DPOY
+Howard Beck,Sports Illustrated,"Smart, Marcus (BOS)","Jackson Jr., Jaren (MEM)","Adebayo, Bam (MIA)",2022,DPOY
+Jalen Rose,ESPN,"Smart, Marcus (BOS)","Antetokounmpo, Giannis (MIL)","Bridges, Mikal (PHX)",2022,DPOY
+James Edwards III,The Athletic,"Jackson Jr., Jaren (MEM)","Gobert, Rudy (UTA)","Smart, Marcus (BOS)",2022,DPOY
+Jared Greenberg,Turner,"Bridges, Mikal (PHX)","Smart, Marcus (BOS)","Gobert, Rudy (UTA)",2022,DPOY
+Jason Anderson,Sacramento Bee,"Adebayo, Bam (MIA)","Smart, Marcus (BOS)","Jackson Jr., Jaren (MEM)",2022,DPOY
+Jason Quick,The Athletic,"Smart, Marcus (BOS)","Bridges, Mikal (PHX)","Thybulle, Matisse (PHI)",2022,DPOY
+Jeff McDonald,San Antonio Express-News,"Adebayo, Bam (MIA)","Bridges, Mikal (PHX)","Gobert, Rudy (UTA)",2022,DPOY
+Jeff Zillgitt,USA Today,"Jackson Jr., Jaren (MEM)","Bridges, Mikal (PHX)","Gobert, Rudy (UTA)",2022,DPOY
+Joe Mussatto,The Oklahoman,"Gobert, Rudy (UTA)","Adebayo, Bam (MIA)","Bridges, Mikal (PHX)",2022,DPOY
+Joe Vardon,The Athletic,"Smart, Marcus (BOS)","Jackson Jr., Jaren (MEM)","Gobert, Rudy (UTA)",2022,DPOY
+John Schuhmann,NBA.com,"Gobert, Rudy (UTA)","Adebayo, Bam (MIA)","Jackson Jr., Jaren (MEM)",2022,DPOY
+Josh Robbins,The Athletic,"Smart, Marcus (BOS)","Bridges, Mikal (PHX)","Jackson Jr., Jaren (MEM)",2022,DPOY
+Justin Termine,Sirius Radio,"Smart, Marcus (BOS)","Bridges, Mikal (PHX)","Gobert, Rudy (UTA)",2022,DPOY
+K.C. Johnson,NBC Sports Chicago,"Gobert, Rudy (UTA)","Jackson Jr., Jaren (MEM)","Bridges, Mikal (PHX)",2022,DPOY
+Keith Pompey,Philadelphia Inquirer,"Antetokounmpo, Giannis (MIL)","Gobert, Rudy (UTA)","Bridges, Mikal (PHX)",2022,DPOY
+Kelly Iko,The Athletic,"Adebayo, Bam (MIA)","Bridges, Mikal (PHX)","Smart, Marcus (BOS)",2022,DPOY
+Kendrick Perkins,ESPN,"Smart, Marcus (BOS)","Bridges, Mikal (PHX)","Jackson Jr., Jaren (MEM)",2022,DPOY
+Kevin Arnovitz,ESPN,"Gobert, Rudy (UTA)","Antetokounmpo, Giannis (MIL)","Bridges, Mikal (PHX)",2022,DPOY
+Kevin Harlan,Turner,"Bridges, Mikal (PHX)","Adebayo, Bam (MIA)","Smart, Marcus (BOS)",2022,DPOY
+Kevin O'Connor,The Ringer,"Gobert, Rudy (UTA)","Smart, Marcus (BOS)","Bridges, Mikal (PHX)",2022,DPOY
+Kevin Pelton,ESPN,"Gobert, Rudy (UTA)","Horford, Al (BOS)","Adebayo, Bam (MIA)",2022,DPOY
+Khobi Price,Orlando Sentinel,"Smart, Marcus (BOS)","Adebayo, Bam (MIA)","Antetokounmpo, Giannis (MIL)",2022,DPOY
+Kristian Winfield,New York Daily News,"Smart, Marcus (BOS)","Adebayo, Bam (MIA)","Bridges, Mikal (PHX)",2022,DPOY
+Kurt Helin,NBCSports.com,"Smart, Marcus (BOS)","Gobert, Rudy (UTA)","Adebayo, Bam (MIA)",2022,DPOY
+Lisa Hsu,Tencent,"Antetokounmpo, Giannis (MIL)","Bridges, Mikal (PHX)","Gobert, Rudy (UTA)",2022,DPOY
+Marc Kestecher,ESPN,"Smart, Marcus (BOS)","Bridges, Mikal (PHX)","Antetokounmpo, Giannis (MIL)",2022,DPOY
+Mark Jackson,ESPN,"Bridges, Mikal (PHX)","Smart, Marcus (BOS)","Adebayo, Bam (MIA)",2022,DPOY
+Mark Medina,NBA.com,"Adebayo, Bam (MIA)","Holiday, Jrue (MIL)","Bridges, Mikal (PHX)",2022,DPOY
+Matt Winer,Turner,"Smart, Marcus (BOS)","Bridges, Mikal (PHX)","Jackson Jr., Jaren (MEM)",2022,DPOY
+Melissa Rohlin,Fox Sports,"Adebayo, Bam (MIA)","Bridges, Mikal (PHX)","Jackson Jr., Jaren (MEM)",2022,DPOY
+Michael C. Wright,NBA.com,"Smart, Marcus (BOS)","Bridges, Mikal (PHX)","Gobert, Rudy (UTA)",2022,DPOY
+Michael Grange,Rogers Sportsnet,"Bridges, Mikal (PHX)","Smart, Marcus (BOS)","Jackson Jr., Jaren (MEM)",2022,DPOY
+Michael Pina,Sports Illustrated,"Smart, Marcus (BOS)","Jackson Jr., Jaren (MEM)","Adebayo, Bam (MIA)",2022,DPOY
+Michael Wilbon,ESPN,"Bridges, Mikal (PHX)","Jackson Jr., Jaren (MEM)","Smart, Marcus (BOS)",2022,DPOY
+Mike Greenberg,ESPN,"Bridges, Mikal (PHX)","Smart, Marcus (BOS)","Adebayo, Bam (MIA)",2022,DPOY
+Mike Singer,Denver Post,"Jackson Jr., Jaren (MEM)","Bridges, Mikal (PHX)","Gobert, Rudy (UTA)",2022,DPOY
+Ohm Youngmisuk,ESPN,"Gobert, Rudy (UTA)","Jackson Jr., Jaren (MEM)","Smart, Marcus (BOS)",2022,DPOY
+Ramona Shelburne,ESPN,"Bridges, Mikal (PHX)","Adebayo, Bam (MIA)","Smart, Marcus (BOS)",2022,DPOY
+Remi Reverchon,BeIN Sport (France),"Bridges, Mikal (PHX)","Gobert, Rudy (UTA)","Smart, Marcus (BOS)",2022,DPOY
+Renjun Bao,Tencent,"Gobert, Rudy (UTA)","Jackson Jr., Jaren (MEM)","Smart, Marcus (BOS)",2022,DPOY
+Ric Bucher,FS1,"Smart, Marcus (BOS)","Adebayo, Bam (MIA)","Gobert, Rudy (UTA)",2022,DPOY
+Rob Mahoney,The Ringer,"Jackson Jr., Jaren (MEM)","Gobert, Rudy (UTA)","Smart, Marcus (BOS)",2022,DPOY
+Rod Boone,Charlotte Observer,"Jackson Jr., Jaren (MEM)","Gobert, Rudy (UTA)","Antetokounmpo, Giannis (MIL)",2022,DPOY
+Ryen Russillo,The Ringer,"Jackson Jr., Jaren (MEM)","Smart, Marcus (BOS)","Adebayo, Bam (MIA)",2022,DPOY
+Sam Amick,The Athletic,"Jackson Jr., Jaren (MEM)","Bridges, Mikal (PHX)","Gobert, Rudy (UTA)",2022,DPOY
+Scott Kushner,New Orleans Times-Picayune,"Smart, Marcus (BOS)","Adebayo, Bam (MIA)","Jackson Jr., Jaren (MEM)",2022,DPOY
+Seerat Sohi,The Ringer,"Bridges, Mikal (PHX)","Jackson Jr., Jaren (MEM)","Gobert, Rudy (UTA)",2022,DPOY
+Shams Charania,The Athletic/Stadium,"Smart, Marcus (BOS)","Gobert, Rudy (UTA)","Jackson Jr., Jaren (MEM)",2022,DPOY
+Shaun Powell,NBA.com,"Gobert, Rudy (UTA)","Jackson Jr., Jaren (MEM)","Bridges, Mikal (PHX)",2022,DPOY
+Stephanie Ready,Turner,"Jackson Jr., Jaren (MEM)","Gobert, Rudy (UTA)","Smart, Marcus (BOS)",2022,DPOY
+Stephen A. Smith,ESPN,"Bridges, Mikal (PHX)","Smart, Marcus (BOS)","Antetokounmpo, Giannis (MIL)",2022,DPOY
+Steve Aschburner,NBA.com,"Bridges, Mikal (PHX)","Gobert, Rudy (UTA)","Smart, Marcus (BOS)",2022,DPOY
+Steve Popper,Newsday,"Smart, Marcus (BOS)","Bridges, Mikal (PHX)","Antetokounmpo, Giannis (MIL)",2022,DPOY
+Steve Smith,Turner,"Bridges, Mikal (PHX)","Antetokounmpo, Giannis (MIL)","Smart, Marcus (BOS)",2022,DPOY
+Taylor Rooks,Bleacher Report,"Smart, Marcus (BOS)","Gobert, Rudy (UTA)","Adebayo, Bam (MIA)",2022,DPOY
+Tim Bontemps,ESPN,"Smart, Marcus (BOS)","Antetokounmpo, Giannis (MIL)","Gobert, Rudy (UTA)",2022,DPOY
+Tim Reynolds,Associated Press,"Adebayo, Bam (MIA)","Bridges, Mikal (PHX)","Smart, Marcus (BOS)",2022,DPOY
+Vince Goodwill,Yahoo! Sports,"Smart, Marcus (BOS)","Bridges, Mikal (PHX)","Antetokounmpo, Giannis (MIL)",2022,DPOY
+Yoko Miyaji,Sports Graphic Number,"Smart, Marcus (BOS)","Bridges, Mikal (PHX)","Antetokounmpo, Giannis (MIL)",2022,DPOY
+Zach Harper,The Athletic,"Bridges, Mikal (PHX)","Adebayo, Bam (MIA)","Smart, Marcus (BOS)",2022,DPOY
+Zach Lowe,ESPN,"Adebayo, Bam (MIA)","Gobert, Rudy (UTA)","Jackson Jr., Jaren (MEM)",2022,DPOY
 Adam Himmelsbach,Boston Globe,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Lisa Hsu,Tencent,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Capela, Clint (ATL)",2021,DPOY
-Cassidy Hubbarth,ESPN,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Green, Draymond (GSW)",2021,DPOY
-Kelly Iko,The Athletic,"Gobert, Rudy (UTA)","Green, Draymond (GSW)","Simmons, Ben (PHI)",2021,DPOY
-Frank Isola,Sirius Radio,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Antetokounmpo, Giannis (MIL)",2021,DPOY
-Mark Jackson,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Holiday, Jrue (MIL)",2021,DPOY
-Ernie Johnson,Turner,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Holiday, Jrue (MIL)",2021,DPOY
-Jason Jones,The Athletic,"Simmons, Ben (PHI)","Green, Draymond (GSW)","Gobert, Rudy (UTA)",2021,DPOY
-Tony Jones,The Athletic,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Fred Katz,The Athletic,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Marc Kestecher,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Chris Kirschner,The Athletic,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Capela, Clint (ATL)",2021,DPOY
-Scott Kushner,New Orleans Times Picayune,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Brian Lewis,New York Post,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Zach Lowe,ESPN,"Gobert, Rudy (UTA)","Green, Draymond (GSW)","Simmons, Ben (PHI)",2021,DPOY
-Jackie MacMullan,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Embiid, Joel (PHI)",2021,DPOY
-Brian Mahoney,Associated Press,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Rob Mahoney,The Ringer,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Turner, Myles (IND)",2021,DPOY
-Chris Mannix,Sports Illustrated,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
-Diego Martinez,Reforma,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
-Jeff McDonald,San Antonio Express-News,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Capela, Clint (ATL)",2021,DPOY
-Dave McMenamin,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Mark Medina,USA Today,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Yoko Miyaji,Sports Graphic Number,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Antetokounmpo, Giannis (MIL)",2021,DPOY
-Joe Mussatto,The Oklahoman,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Rachel Nichols,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Kevin O'Connor,The Ringer,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
-James Owczarski,Milwaukee Journal Sentinel,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Candace Parker,Turner,"Gobert, Rudy (UTA)","Green, Draymond (GSW)","Simmons, Ben (PHI)",2021,DPOY
-Roy Parry,Orlando Sentinel,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Antetokounmpo, Giannis (MIL)",2021,DPOY
-Dave Pasch,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
-Kevin Pelton,ESPN,"Gobert, Rudy (UTA)","Capela, Clint (ATL)","Turner, Myles (IND)",2021,DPOY
-Keith Pompey,Philadelphia Inquirer and Daily News,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Thybulle, Matisse (PHI)",2021,DPOY
-Shaun Powell,NBA.com,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Antetokounmpo, Giannis (MIL)",2021,DPOY
-Duane Rankin,Arizona Republic,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Green, Draymond (GSW)",2021,DPOY
-Bill Reiter,CBSSports.com,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Tim Reynolds,Associated Press,"Gobert, Rudy (UTA)","Adebayo, Bam (MIA)","Simmons, Ben (PHI)",2021,DPOY
-Melissa Rohlin,Fox Sports,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Taylor Rooks,Bleacher Report,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
-Jalen Rose,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Antetokounmpo, Giannis (MIL)",2021,DPOY
-Simone Sandri,Gazzetta.it,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Antetokounmpo, Giannis (MIL)",2021,DPOY
-Omari Sankofa II,Detroit Free Press,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-John Schuhmann,NBA.com,"Gobert, Rudy (UTA)","Green, Draymond (GSW)","Simmons, Ben (PHI)",2021,DPOY
-Guillermo Schutz,Televisa (TUDN),"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Dennis Scott,Turner,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Capela, Clint (ATL)",2021,DPOY
-Ramona Shelburne,ESPN,"Gobert, Rudy (UTA)","Green, Draymond (GSW)","Simmons, Ben (PHI)",2021,DPOY
-Bill Simmons,The Ringer,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Mike Singer,Denver Post,"Gobert, Rudy (UTA)","Green, Draymond (GSW)","Butler, Jimmy (MIA)",2021,DPOY
+Anthony Chiang,Miami Herald,"Gobert, Rudy (UTA)","Adebayo, Bam (MIA)","Simmons, Ben (PHI)",2021,DPOY
 Anthony Slater,The Athletic,"Gobert, Rudy (UTA)","Green, Draymond (GSW)","Antetokounmpo, Giannis (MIL)",2021,DPOY
-Doug Smith,The Toronto Star,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
-Stephen A. Smith,ESPN,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Antetokounmpo, Giannis (MIL)",2021,DPOY
-Steve Smith,Turner,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Green, Draymond (GSW)",2021,DPOY
-Seerat Sohi,The Ringer,"Adebayo, Bam (MIA)","Gobert, Rudy (UTA)","Green, Draymond (GSW)",2021,DPOY
-Daisuke Sugiura,Nihon Keizai Shimbun,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Mirjam Swanson,Southern California News Group,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Antetokounmpo, Giannis (MIL)",2021,DPOY
-Maria Taylor,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Holiday, Jrue (MIL)",2021,DPOY
-Justin Termine,Sirius Radio,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Antoni Daimiel,Movistar+,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Caldwell-Pope, Kentavious (LAL)",2021,DPOY
+Bill Reiter,CBSSports.com,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Bill Simmons,The Ringer,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
 Brad Townsend,Dallas Morning News,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
-Christos Tsaltas,SDNA.gr,"Simmons, Ben (PHI)","Adebayo, Bam (MIA)","Gobert, Rudy (UTA)",2021,DPOY
-Olgun Uluc,ESPN Australia,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
-Joe Vardon,The Athletic,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Butler, Jimmy (MIA)",2021,DPOY
-Gary Washburn,Boston Globe,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Antetokounmpo, Giannis (MIL)",2021,DPOY
-Michael Wilbon,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Capela, Clint (ATL)",2021,DPOY
+Brian Lewis,New York Post,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Brian Mahoney,Associated Press,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
 Brian Windhorst,ESPN,"Gobert, Rudy (UTA)","Green, Draymond (GSW)","Simmons, Ben (PHI)",2021,DPOY
-Matt Winer,Turner,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Antetokounmpo, Giannis (MIL)",2021,DPOY
-Ryan Wolstat,The Toronto Sun,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Holiday, Jrue (MIL)",2021,DPOY
-Michael C. Wright,NBA.com,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
-Royce Young,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Candace Parker,Turner,"Gobert, Rudy (UTA)","Green, Draymond (GSW)","Simmons, Ben (PHI)",2021,DPOY
+Cassidy Hubbarth,ESPN,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Green, Draymond (GSW)",2021,DPOY
+Chris Broussard,Fox Sports,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
+Chris Fedor,Cleveland.com,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Chris Haynes,Yahoo! Sports,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Holiday, Jrue (MIL)",2021,DPOY
+Chris Kirschner,The Athletic,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Capela, Clint (ATL)",2021,DPOY
+Chris Mannix,Sports Illustrated,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
+Christos Tsaltas,SDNA.gr,"Simmons, Ben (PHI)","Adebayo, Bam (MIA)","Gobert, Rudy (UTA)",2021,DPOY
+Daisuke Sugiura,Nihon Keizai Shimbun,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Dan Devine,The Ringer,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Capela, Clint (ATL)",2021,DPOY
+Dave McMenamin,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Dave Pasch,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
+Davide Chinellato,La Gazzetta Dello Sport,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Adebayo, Bam (MIA)",2021,DPOY
+Dennis Scott,Turner,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Capela, Clint (ATL)",2021,DPOY
+Diego Martinez,Reforma,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
+Doris Burke,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Doug Smith,The Toronto Star,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
+Duane Rankin,Arizona Republic,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Green, Draymond (GSW)",2021,DPOY
+Ernie Johnson,Turner,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Holiday, Jrue (MIL)",2021,DPOY
+Evan Barnes,Memphis Commercial Appeal,"Gobert, Rudy (UTA)","Embiid, Joel (PHI)","Green, Draymond (GSW)",2021,DPOY
+Frank Isola,Sirius Radio,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Antetokounmpo, Giannis (MIL)",2021,DPOY
+Fred Katz,The Athletic,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Gary Washburn,Boston Globe,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Antetokounmpo, Giannis (MIL)",2021,DPOY
+Greg Anthony,Turner,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Adebayo, Bam (MIA)",2021,DPOY
+Guillermo Schutz,Televisa (TUDN),"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Howard Beck,Sports Illustrated,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Jackie MacMullan,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Embiid, Joel (PHI)",2021,DPOY
+Jalen Rose,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Antetokounmpo, Giannis (MIL)",2021,DPOY
+Jamal Collier,Chicago Tribune,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+James Owczarski,Milwaukee Journal Sentinel,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Jared Greenberg,Turner,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
+Jason Jones,The Athletic,"Simmons, Ben (PHI)","Green, Draymond (GSW)","Gobert, Rudy (UTA)",2021,DPOY
+Jeff McDonald,San Antonio Express-News,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Capela, Clint (ATL)",2021,DPOY
 Jeff Zillgitt,USA Today,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Joe Freeman,The Oregonian,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Joe Mussatto,The Oklahoman,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Joe Vardon,The Athletic,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Butler, Jimmy (MIA)",2021,DPOY
+John Schuhmann,NBA.com,"Gobert, Rudy (UTA)","Green, Draymond (GSW)","Simmons, Ben (PHI)",2021,DPOY
+Jon Barry,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Turner, Myles (IND)",2021,DPOY
+Justin Termine,Sirius Radio,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Keith Pompey,Philadelphia Inquirer and Daily News,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Thybulle, Matisse (PHI)",2021,DPOY
+Kelly Iko,The Athletic,"Gobert, Rudy (UTA)","Green, Draymond (GSW)","Simmons, Ben (PHI)",2021,DPOY
+Kevin Arnovitz,ESPN,"Gobert, Rudy (UTA)","Green, Draymond (GSW)","Capela, Clint (ATL)",2021,DPOY
+Kevin Harlan,Turner,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
+Kevin O'Connor,The Ringer,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
+Kevin Pelton,ESPN,"Gobert, Rudy (UTA)","Capela, Clint (ATL)","Turner, Myles (IND)",2021,DPOY
+Kurt Helin,NBCSports.com,"Gobert, Rudy (UTA)","Green, Draymond (GSW)","Simmons, Ben (PHI)",2021,DPOY
+Kyle Goon,Southern California News Group,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Lisa Hsu,Tencent,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Capela, Clint (ATL)",2021,DPOY
+Marc Kestecher,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Maria Taylor,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Holiday, Jrue (MIL)",2021,DPOY
+Mark Jackson,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Holiday, Jrue (MIL)",2021,DPOY
+Mark Medina,USA Today,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Marv Albert,Turner,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
+Matt Winer,Turner,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Antetokounmpo, Giannis (MIL)",2021,DPOY
+Mauricio Codocea,Clarin (Argentina),"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Antetokounmpo, Giannis (MIL)",2021,DPOY
+Max Haupt,DPA,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Adebayo, Bam (MIA)",2021,DPOY
+Melissa Rohlin,Fox Sports,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Michael C. Wright,NBA.com,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
+Michael Grange,Rogers Sportsnet,"Gobert, Rudy (UTA)","Green, Draymond (GSW)","Simmons, Ben (PHI)",2021,DPOY
+Michael Wilbon,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Capela, Clint (ATL)",2021,DPOY
+Mike Singer,Denver Post,"Gobert, Rudy (UTA)","Green, Draymond (GSW)","Butler, Jimmy (MIA)",2021,DPOY
+Mirjam Swanson,Southern California News Group,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Antetokounmpo, Giannis (MIL)",2021,DPOY
+Olgun Uluc,ESPN Australia,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
+Omari Sankofa II,Detroit Free Press,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Rachel Nichols,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Ramona Shelburne,ESPN,"Gobert, Rudy (UTA)","Green, Draymond (GSW)","Simmons, Ben (PHI)",2021,DPOY
+Ric Bucher,Sirius Radio,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
+Rob Mahoney,The Ringer,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Turner, Myles (IND)",2021,DPOY
+Roy Parry,Orlando Sentinel,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Antetokounmpo, Giannis (MIL)",2021,DPOY
+Royce Young,ESPN,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Ryan Wolstat,The Toronto Sun,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Holiday, Jrue (MIL)",2021,DPOY
+Sam Amick,The Athletic,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Scott Kushner,New Orleans Times Picayune,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Seerat Sohi,The Ringer,"Adebayo, Bam (MIA)","Gobert, Rudy (UTA)","Green, Draymond (GSW)",2021,DPOY
+Shams Charania,The Athletic/Stadium,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Shaun Powell,NBA.com,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Antetokounmpo, Giannis (MIL)",2021,DPOY
+Simone Sandri,Gazzetta.it,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Antetokounmpo, Giannis (MIL)",2021,DPOY
+Stefan Bondy,New York Daily News,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Holiday, Jrue (MIL)",2021,DPOY
+Stephen A. Smith,ESPN,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Antetokounmpo, Giannis (MIL)",2021,DPOY
+Steve Aschburner,NBA.com,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
+Steve Smith,Turner,"Simmons, Ben (PHI)","Gobert, Rudy (UTA)","Green, Draymond (GSW)",2021,DPOY
+Taylor Rooks,Bleacher Report,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Adebayo, Bam (MIA)",2021,DPOY
+Tim Bontemps,ESPN,"Gobert, Rudy (UTA)","Embiid, Joel (PHI)","Green, Draymond (GSW)",2021,DPOY
+Tim Reynolds,Associated Press,"Gobert, Rudy (UTA)","Adebayo, Bam (MIA)","Simmons, Ben (PHI)",2021,DPOY
+Tony Jones,The Athletic,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Vince Goodwill,Yahoo! Sports,"Gobert, Rudy (UTA)","Green, Draymond (GSW)","Simmons, Ben (PHI)",2021,DPOY
+Yoko Miyaji,Sports Graphic Number,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Antetokounmpo, Giannis (MIL)",2021,DPOY
+Zach Harper,The Athletic,"Gobert, Rudy (UTA)","Simmons, Ben (PHI)","Green, Draymond (GSW)",2021,DPOY
+Zach Lowe,ESPN,"Gobert, Rudy (UTA)","Green, Draymond (GSW)","Simmons, Ben (PHI)",2021,DPOY
 Adam Himmelsbach,Boston Globe,"Antetokounmpo, Giannis (MIL)","Gobert, Rudy (UTA)","Leonard, Kawhi (LAC)",2020,DPOY
 Amin Elhassan,ESPN,"Antetokounmpo, Giannis (MIL)","Davis, Anthony (LAL)","Adebayo, Bam (MIA)",2020,DPOY
 Andy Larsen,Salt Lake Tribune,"Antetokounmpo, Giannis (MIL)","Gobert, Rudy (UTA)","Davis, Anthony (LAL)",2020,DPOY

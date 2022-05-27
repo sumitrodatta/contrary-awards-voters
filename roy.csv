@@ -1,104 +1,204 @@
 voter_name,affiliation,first_place_five_pts,second_place_three_pts,third_place_one_pt,year,award
-Marv Albert,Turner,"Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)","Edwards, Anthony (MIN)",2021,ROY
-Sam Amick,The Athletic,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Greg Anthony,Turner,Abstained,Abstained,Abstained,2021,ROY
-Kevin Arnovitz,ESPN,"Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)","Edwards, Anthony (MIN)",2021,ROY
-Steve Aschburner,NBA.com,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Evan Barnes,Memphis Commercial Appeal,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Jon Barry,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Howard Beck,Sports Illustrated,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Stefan Bondy,New York Daily News,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Tim Bontemps,ESPN,"Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)","Edwards, Anthony (MIN)",2021,ROY
-Chris Broussard,Fox Sports,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
-Ric Bucher,Sirius Radio,"Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)","Edwards, Anthony (MIN)",2021,ROY
-Doris Burke,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Shams Charania,The Athletic/Stadium,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Anthony Chiang,Miami Herald,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Davide Chinellato,La Gazzetta Dello Sport,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Mauricio Codocea,Clarin (Argentina),"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Jamal Collier,Chicago Tribune,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Antoni Daimiel,Movistar+,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Dan Devine,The Ringer,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Chris Fedor,Cleveland.com,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Joe Freeman,The Oregonian,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Vince Goodwill,Yahoo! Sports,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Kyle Goon,Southern California News Group,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Michael Grange,Rogers Sportsnet,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Jared Greenberg,Turner,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Kevin Harlan,Turner,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Zach Harper,The Athletic,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Max Haupt,DPA,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
-Chris Haynes,Yahoo! Sports,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
-Kurt Helin,NBCSports.com,"Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)","Edwards, Anthony (MIN)",2021,ROY
+Adam Himmelsbach,Boston Globe,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Anthony Chiang,Miami Herald,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Anthony Slater,The Athletic,"Mobley, Evan (CLE)","Cunningham, Cade (DET)","Barnes, Scottie (TOR)",2022,ROY
+Antoine Bancharel,L'Equipe / Canal+,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Antoni Daimiel,Movistar+,"Cunningham, Cade (DET)","Mobley, Evan (CLE)","Barnes, Scottie (TOR)",2022,ROY
+Bill Oram,The Athletic,"Mobley, Evan (CLE)","Cunningham, Cade (DET)","Barnes, Scottie (TOR)",2022,ROY
+Bill Reiter,CBSSports.com,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Bill Simmons,The Ringer,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Brian Mahoney,Associated Press,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Brian Windhorst,ESPN,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Callie Caplan,Dallas Morning News,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Cassidy Hubbarth,ESPN,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Chris Broussard,Fox Sports,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Chris Fedor,Clevleand.com,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Chris Herring,Sports Illustrated,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Chris Kirschner,The Athletic,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Chris Mannix,Sports Illustrated,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Christos Tsaltas,SDNA.gr,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Daisuke Sugiura,Nihon Keizai Shimbun,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Dan Devine,The Ringer,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Dave McMenamin,ESPN,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Dave Pasch,ESPN,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+David Aldridge,The Athletic,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Davide Chinellato,La Gazzetta dello Sport,"Mobley, Evan (CLE)","Cunningham, Cade (DET)","Barnes, Scottie (TOR)",2022,ROY
+Dennis Scott,Turner,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Wagner, Franz (ORL)",2022,ROY
+Diego Martinez,Reforma,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Doris Burke,ESPN,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Doug Smith,The Toronto Star,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Drew Hill,Daily Memphian,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Duane Rankin,Arizona Republic,"Barnes, Scottie (TOR)","Cunningham, Cade (DET)","Mobley, Evan (CLE)",2022,ROY
+Eric Koreen,The Athletic,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Eric Nehm,The Athletic,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Eric Walden,Salt Lake Tribune,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Ernie Johnson,Turner,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Frank Isola,Sirius Radio,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Gary Washburn,Boston Globe,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Greg Anthony,Turner,"Cunningham, Cade (DET)","Barnes, Scottie (TOR)","Mobley, Evan (CLE)",2022,ROY
+Guillermo Schutz,Televisa (TUDN),"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Harris Stavrou,Sport24,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Howard Beck,Sports Illustrated,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Jalen Rose,ESPN,"Mobley, Evan (CLE)","Cunningham, Cade (DET)","Barnes, Scottie (TOR)",2022,ROY
+James Edwards III,The Athletic,"Cunningham, Cade (DET)","Mobley, Evan (CLE)","Barnes, Scottie (TOR)",2022,ROY
+Jared Greenberg,Turner,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Jason Anderson,Sacramento Bee,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Jason Quick,The Athletic,"Mobley, Evan (CLE)","Cunningham, Cade (DET)","Barnes, Scottie (TOR)",2022,ROY
+Jeff McDonald,San Antonio Express-News,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Jeff Zillgitt,USA Today,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Joe Mussatto,The Oklahoman,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Joe Vardon,The Athletic,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+John Schuhmann,NBA.com,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Josh Robbins,The Athletic,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Justin Termine,Sirius Radio,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+K.C. Johnson,NBC Sports Chicago,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Keith Pompey,Philadelphia Inquirer,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Kelly Iko,The Athletic,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Kendrick Perkins,ESPN,"Barnes, Scottie (TOR)","Cunningham, Cade (DET)","Mobley, Evan (CLE)",2022,ROY
+Kevin Arnovitz,ESPN,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Kevin Harlan,Turner,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Kevin O'Connor,The Ringer,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Kevin Pelton,ESPN,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Jones, Herbert (NOP)",2022,ROY
+Khobi Price,Orlando Sentinel,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Wagner, Franz (ORL)",2022,ROY
+Kristian Winfield,New York Daily News,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Kurt Helin,NBCSports.com,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Lisa Hsu,Tencent,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Marc Kestecher,ESPN,"Cunningham, Cade (DET)","Barnes, Scottie (TOR)","Mobley, Evan (CLE)",2022,ROY
+Mark Jackson,ESPN,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Mark Medina,NBA.com,"Barnes, Scottie (TOR)","Cunningham, Cade (DET)","Mobley, Evan (CLE)",2022,ROY
+Matt Winer,Turner,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Melissa Rohlin,Fox Sports,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Michael C. Wright,NBA.com,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Michael Grange,Rogers Sportsnet,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Michael Pina,Sports Illustrated,"Cunningham, Cade (DET)","Barnes, Scottie (TOR)","Mobley, Evan (CLE)",2022,ROY
+Michael Wilbon,ESPN,"Barnes, Scottie (TOR)","Cunningham, Cade (DET)","Mobley, Evan (CLE)",2022,ROY
+Mike Greenberg,ESPN,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Mike Singer,Denver Post,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Ohm Youngmisuk,ESPN,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Ramona Shelburne,ESPN,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Remi Reverchon,BeIN Sport (France),"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Renjun Bao,Tencent,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Ric Bucher,FS1,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Rob Mahoney,The Ringer,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Rod Boone,Charlotte Observer,"Cunningham, Cade (DET)","Green, Jalen (HOU)","Barnes, Scottie (TOR)",2022,ROY
+Ryen Russillo,The Ringer,"Cunningham, Cade (DET)","Barnes, Scottie (TOR)","Mobley, Evan (CLE)",2022,ROY
+Sam Amick,The Athletic,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Scott Kushner,New Orleans Times-Picayune,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Seerat Sohi,The Ringer,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Shams Charania,The Athletic/Stadium,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Shaun Powell,NBA.com,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Stephanie Ready,Turner,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Stephen A. Smith,ESPN,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Steve Aschburner,NBA.com,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Steve Popper,Newsday,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Steve Smith,Turner,"Barnes, Scottie (TOR)","Cunningham, Cade (DET)","Mobley, Evan (CLE)",2022,ROY
+Taylor Rooks,Bleacher Report,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Tim Bontemps,ESPN,"Mobley, Evan (CLE)","Barnes, Scottie (TOR)","Cunningham, Cade (DET)",2022,ROY
+Tim Reynolds,Associated Press,"Cunningham, Cade (DET)","Barnes, Scottie (TOR)","Mobley, Evan (CLE)",2022,ROY
+Vince Goodwill,Yahoo! Sports,"Cunningham, Cade (DET)","Mobley, Evan (CLE)","Barnes, Scottie (TOR)",2022,ROY
+Yoko Miyaji,Sports Graphic Number,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Zach Harper,The Athletic,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
+Zach Lowe,ESPN,"Barnes, Scottie (TOR)","Mobley, Evan (CLE)","Cunningham, Cade (DET)",2022,ROY
 Adam Himmelsbach,Boston Globe,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Lisa Hsu,Tencent,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Cassidy Hubbarth,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Kelly Iko,The Athletic,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Frank Isola,Sirius Radio,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Bey, Saddiq (DET)",2021,ROY
-Mark Jackson,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Ernie Johnson,Turner,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Jason Jones,The Athletic,"Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)","Edwards, Anthony (MIN)",2021,ROY
-Tony Jones,The Athletic,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Fred Katz,The Athletic,"Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)","Edwards, Anthony (MIN)",2021,ROY
-Marc Kestecher,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Chris Kirschner,The Athletic,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Scott Kushner,New Orleans Times Picayune,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Brian Lewis,New York Post,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Zach Lowe,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Jackie MacMullan,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Brian Mahoney,Associated Press,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Rob Mahoney,The Ringer,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Chris Mannix,Sports Illustrated,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Bey, Saddiq (DET)",2021,ROY
-Diego Martinez,Reforma,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Jeff McDonald,San Antonio Express-News,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Dave McMenamin,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Mark Medina,USA Today,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Yoko Miyaji,Sports Graphic Number,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Joe Mussatto,The Oklahoman,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Rachel Nichols,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Kevin O'Connor,The Ringer,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-James Owczarski,Milwaukee Journal Sentinel,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
-Candace Parker,Turner,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Roy Parry,Orlando Sentinel,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Bey, Saddiq (DET)",2021,ROY
-Dave Pasch,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Kevin Pelton,ESPN,"Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)","Edwards, Anthony (MIN)",2021,ROY
-Keith Pompey,Philadelphia Inquirer and Daily News,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
-Shaun Powell,NBA.com,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Duane Rankin,Arizona Republic,"Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)","Edwards, Anthony (MIN)",2021,ROY
-Bill Reiter,CBSSports.com,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Tim Reynolds,Associated Press,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
-Melissa Rohlin,Fox Sports,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Taylor Rooks,Bleacher Report,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
-Jalen Rose,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Simone Sandri,Gazzetta.it,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Omari Sankofa II,Detroit Free Press,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-John Schuhmann,NBA.com,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Guillermo Schutz,Televisa (TUDN),"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Dennis Scott,Turner,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Ramona Shelburne,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Bill Simmons,The Ringer,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Mike Singer,Denver Post,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Anthony Chiang,Miami Herald,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
 Anthony Slater,The Athletic,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Doug Smith,The Toronto Star,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Stephen A. Smith,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Steve Smith,Turner,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
-Seerat Sohi,The Ringer,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Daisuke Sugiura,Nihon Keizai Shimbun,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Mirjam Swanson,Southern California News Group,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Maria Taylor,ESPN,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
-Justin Termine,Sirius Radio,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
+Antoni Daimiel,Movistar+,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Bill Reiter,CBSSports.com,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Bill Simmons,The Ringer,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
 Brad Townsend,Dallas Morning News,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Christos Tsaltas,SDNA.gr,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
-Olgun Uluc,ESPN Australia,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Joe Vardon,The Athletic,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Gary Washburn,Boston Globe,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
-Michael Wilbon,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Brian Lewis,New York Post,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Brian Mahoney,Associated Press,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
 Brian Windhorst,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Matt Winer,Turner,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Ryan Wolstat,The Toronto Sun,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Michael C. Wright,NBA.com,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
-Royce Young,ESPN,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
+Candace Parker,Turner,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Cassidy Hubbarth,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Chris Broussard,Fox Sports,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
+Chris Fedor,Cleveland.com,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Chris Haynes,Yahoo! Sports,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
+Chris Kirschner,The Athletic,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Chris Mannix,Sports Illustrated,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Bey, Saddiq (DET)",2021,ROY
+Christos Tsaltas,SDNA.gr,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
+Daisuke Sugiura,Nihon Keizai Shimbun,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Dan Devine,The Ringer,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Dave McMenamin,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Dave Pasch,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Davide Chinellato,La Gazzetta Dello Sport,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Dennis Scott,Turner,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Diego Martinez,Reforma,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Doris Burke,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Doug Smith,The Toronto Star,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Duane Rankin,Arizona Republic,"Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)","Edwards, Anthony (MIN)",2021,ROY
+Ernie Johnson,Turner,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Evan Barnes,Memphis Commercial Appeal,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Frank Isola,Sirius Radio,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Bey, Saddiq (DET)",2021,ROY
+Fred Katz,The Athletic,"Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)","Edwards, Anthony (MIN)",2021,ROY
+Gary Washburn,Boston Globe,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
+Greg Anthony,Turner,Abstained,Abstained,Abstained,2021,ROY
+Guillermo Schutz,Televisa (TUDN),"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Howard Beck,Sports Illustrated,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Jackie MacMullan,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Jalen Rose,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Jamal Collier,Chicago Tribune,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+James Owczarski,Milwaukee Journal Sentinel,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
+Jared Greenberg,Turner,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Jason Jones,The Athletic,"Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)","Edwards, Anthony (MIN)",2021,ROY
+Jeff McDonald,San Antonio Express-News,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
 Jeff Zillgitt,USA Today,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Joe Freeman,The Oregonian,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Joe Mussatto,The Oklahoman,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Joe Vardon,The Athletic,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+John Schuhmann,NBA.com,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Jon Barry,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Justin Termine,Sirius Radio,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
+Keith Pompey,Philadelphia Inquirer and Daily News,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
+Kelly Iko,The Athletic,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Kevin Arnovitz,ESPN,"Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)","Edwards, Anthony (MIN)",2021,ROY
+Kevin Harlan,Turner,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Kevin O'Connor,The Ringer,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Kevin Pelton,ESPN,"Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)","Edwards, Anthony (MIN)",2021,ROY
+Kurt Helin,NBCSports.com,"Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)","Edwards, Anthony (MIN)",2021,ROY
+Kyle Goon,Southern California News Group,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Lisa Hsu,Tencent,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Marc Kestecher,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Maria Taylor,ESPN,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
+Mark Jackson,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Mark Medina,USA Today,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Marv Albert,Turner,"Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)","Edwards, Anthony (MIN)",2021,ROY
+Matt Winer,Turner,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Mauricio Codocea,Clarin (Argentina),"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Max Haupt,DPA,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
+Melissa Rohlin,Fox Sports,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Michael C. Wright,NBA.com,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Michael Grange,Rogers Sportsnet,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Michael Wilbon,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Mike Singer,Denver Post,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Mirjam Swanson,Southern California News Group,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Olgun Uluc,ESPN Australia,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Omari Sankofa II,Detroit Free Press,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Rachel Nichols,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Ramona Shelburne,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Ric Bucher,Sirius Radio,"Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)","Edwards, Anthony (MIN)",2021,ROY
+Rob Mahoney,The Ringer,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Roy Parry,Orlando Sentinel,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Bey, Saddiq (DET)",2021,ROY
+Royce Young,ESPN,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
+Ryan Wolstat,The Toronto Sun,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Sam Amick,The Athletic,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Scott Kushner,New Orleans Times Picayune,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Seerat Sohi,The Ringer,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Shams Charania,The Athletic/Stadium,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Shaun Powell,NBA.com,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Simone Sandri,Gazzetta.it,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Stefan Bondy,New York Daily News,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Stephen A. Smith,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Steve Aschburner,NBA.com,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Steve Smith,Turner,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
+Taylor Rooks,Bleacher Report,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
+Tim Bontemps,ESPN,"Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)","Edwards, Anthony (MIN)",2021,ROY
+Tim Reynolds,Associated Press,"Edwards, Anthony (MIN)","Ball, LaMelo (CHA)","Haliburton, Tyrese (SAC)",2021,ROY
+Tony Jones,The Athletic,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Vince Goodwill,Yahoo! Sports,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Yoko Miyaji,Sports Graphic Number,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Zach Harper,The Athletic,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
+Zach Lowe,ESPN,"Ball, LaMelo (CHA)","Edwards, Anthony (MIN)","Haliburton, Tyrese (SAC)",2021,ROY
 Adam Himmelsbach,Boston Globe,"Morant, Ja (MEM)","Williamson, Zion (NOP)","Nunn, Kendrick (MIA)",2020,ROY
 Amin Elhassan,ESPN,"Morant, Ja (MEM)","Nunn, Kendrick (MIA)","Clarke, Brandon (MEM)",2020,ROY
 Andy Larsen,Salt Lake Tribune,"Morant, Ja (MEM)","Nunn, Kendrick (MIA)","Clarke, Brandon (MEM)",2020,ROY
