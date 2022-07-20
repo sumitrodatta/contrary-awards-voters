@@ -1,8 +1,10 @@
-voter_name,affiliation,year,yr_contrary,num_awards_voted
-Al McCoy,KTAR Radio,2014,18.457932359566776,9
-Hubie Brown,ESPN,2015,16.48640377706415,9
-Mike Fratello,TNT,2016,16.29485346105998,9
-Tim Reynolds,Associated Press,2017,17.75515902718891,9
-Dennis Scott,Turner,2018,14.34060388327228,9
-Gary Washburn,Boston Globe,2019,14.26783599058354,9
-Joe Cowley,Chicago Sun-Times,2020,16.54607636644327,9
+year,voter_name,affiliation,yr_contrary,num_awards_voted
+2014,Al McCoy,KTAR Radio,10.616140552270299,9
+2015,Hubie Brown,ESPN,8.969656703739997,9
+2016,Eric Hasseltine,92.9 FM ESPN/680 AM ESPN,9.557225342836208,9
+2017,Richard Walker,Gaston Gazette,10.61557867060812,9
+2018,Dennis Scott,Turner,8.496439955028167,9
+2019,Kennegh Lau,BesTV,9.632790896791901,9
+2020,Greg Logan,Newsday,10.384037913194392,9
+2021,Max Haupt,DPA,11.710705837371439,9
+2022,Rod Boone,Charlotte Observer,11.460845426784747,9

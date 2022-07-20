@@ -78,4 +78,20 @@ all_voting=all_voting %>% mutate(voter_name=case_when(
   voter_name=="Vince Goodwill"~"Vincent Goodwill",
   !(is.na(voter_name))~voter_name))
 
-write_csv(all_voting,"All NBA Voting Ballots.csv")
+finalized_all_voting = all_voting %>%
+  mutate(player=case_when(
+    #3 players in all-def 2015 have one dash rather than two
+    str_detect(player," - IND")~"George Hill",
+    str_detect(player," - SA")~"Danny Green",
+    str_detect(player," - Mil")~"Giannis Antetokounmpo",
+    str_detect(player,"Barea")~"J.J. Barea",
+    str_detect(player,"Michael Jr. Porter")~"Michael Porter Jr.",
+    str_detect(player,"PJ Tucker")~"P.J. Tucker",
+    str_detect(player,"R.J. Barrett")~"RJ Barrett",
+    str_detect(player,"TJ McConnell")~"T.J. McConnell",
+    str_detect(player,"TJ Warren")~"T.J. Warren",
+    TRUE~player)) %>%
+  #replace non-ascii dashes
+  mutate(player=str_replace(player,"\u2010","-"))
+
+write_csv(finalized_all_voting,"All NBA Voting Ballots.csv")
