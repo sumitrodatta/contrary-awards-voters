@@ -74,6 +74,7 @@ all_voting=all_voting %>% mutate(voter_name=case_when(
   voter_name=="MIchael Wilbon"~"Michael Wilbon",
   voter_name=="Mike Wilbon"~"Michael Wilbon",
   str_detect(voter_name,"NBA")~"NBA Fan Vote",
+  voter_name=="Vote Fan"~"NBA Fan Vote",
   str_detect(voter_name,"Rosalyn")~"Rosalyn Gold-Onwude",
   voter_name=="Vince Goodwill"~"Vincent Goodwill",
   !(is.na(voter_name))~voter_name))
@@ -94,4 +95,5 @@ finalized_all_voting = all_voting %>%
   #replace non-ascii dashes
   mutate(player=str_replace(player,"\u2010","-"))
 
-write_csv(finalized_all_voting,"All NBA Voting Ballots.csv")
+write_csv(finalized_all_voting %>% arrange(desc(year),voter_name,award,desc(points_given)),
+          "All NBA Voting Ballots.csv")

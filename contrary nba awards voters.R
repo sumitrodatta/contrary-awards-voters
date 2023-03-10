@@ -29,27 +29,27 @@ contrary_scores=left_join(all_candidates,ballot_num) %>%
          sq_pt_diff=abs_pt_diff^2) %>% ungroup() %>%
   group_by(year,award,voter_name) %>% mutate(avg_consensus_dev=sqrt(mean(sq_pt_diff))) %>% ungroup()
 
-write_csv(contrary_scores,"Contrary Scores for All Picks.csv")
+write_csv(contrary_scores,"Contrary Outputs/Contrary Scores for All Picks.csv")
 
 contrary_scores_by_award=contrary_scores %>% group_by(award) %>% slice_max(sq_pt_diff) %>% 
   select(year:points_given,tot_pts,sq_pt_diff) %>% 
   arrange(desc(sq_pt_diff),desc(year))
 
-write_csv(contrary_scores_by_award,"Most Contrary Single Picks for Each Award.csv")
+write_csv(contrary_scores_by_award,"Contrary Outputs/Most Contrary Single Picks for Each Award.csv")
 
 most_contrary_vote=contrary_scores %>% group_by(year,award,voter_name) %>% 
   slice_max(sq_pt_diff,with_ties=FALSE) %>% select(year:sq_pt_diff)
 
-write_csv(most_contrary_vote,"Most Contrary Vote on Each Voter's Ballot.csv")
+write_csv(most_contrary_vote,"Contrary Outputs/Most Contrary Vote on Each Voter's Ballot.csv")
 
 yearly_contrary=contrary_scores %>% group_by(year,award,voter_name) %>% slice_max(avg_consensus_dev,with_ties=FALSE) %>%
   group_by(year,voter_name) %>% arrange(desc(avg_consensus_dev)) %>%
   mutate(yr_contrary=sum(avg_consensus_dev),num_awards_voted=n()) %>% slice(1) %>%
   select(year,voter_name,affiliation,yr_contrary:num_awards_voted)
 
-write_csv(yearly_contrary,"Yearly Contrary Scores.csv")
+write_csv(yearly_contrary,"Contrary Outputs/Yearly Contrary Scores.csv")
 
-write_csv(yearly_contrary %>% group_by(year) %>% slice_max(yr_contrary),"Most Contrary Voter by Year.csv")
+write_csv(yearly_contrary %>% group_by(year) %>% slice_max(yr_contrary),"Contrary Outputs/Most Contrary Voter by Year.csv")
 
 career_contrary=contrary_scores %>% group_by(voter_name) %>% 
   mutate(num_picks_made=n(),first_vote=min(year),last_vote=max(year)) %>%
@@ -60,4 +60,4 @@ career_contrary=contrary_scores %>% group_by(voter_name) %>%
   slice(1) %>% 
   select(voter_name,first_vote:last_vote,career_contrary_sc:contrary_per_pick,num_picks_made)
 
-write_csv(career_contrary,"Career Contrary Scores.csv")
+write_csv(career_contrary,"Contrary Outputs/Career Contrary Scores.csv")
