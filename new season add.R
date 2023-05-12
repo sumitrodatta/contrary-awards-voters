@@ -3,13 +3,14 @@ library(tidyverse)
 library(pdftools)
 
 source("scraping funcs.R")
-curr_year=2022
+curr_year=2023
 mvp=voting_tibble(year=curr_year,award="MVP")
 roy=voting_tibble(year=curr_year,award="ROY")
 dpoy=voting_tibble(year=curr_year,award="DPOY")
 mip=voting_tibble(year=curr_year,award="MIP")
 smoy=voting_tibble(year=curr_year,award="SMOY")
 coy=voting_tibble(year=curr_year,award="COY")
+cpoy=voting_tibble(year=curr_year,award="CPOY")
 all_nba=voting_tibble(year=curr_year,award="All-NBA")
 all_def=voting_tibble(year=curr_year,award="All-Defense")
 all_rook=voting_tibble(year=curr_year,award="All-Rook")
@@ -22,14 +23,17 @@ all_rook=voting_tibble(year=curr_year,award="All-Rook")
 #          forward_5=q40,forward_6=q41,center_3=q42,guard_5=na,guard_6=na_2)
 
 #2022 edits
-mvp=mvp %>% rename(x1st_place_10_points=na_2,
-               x2nd_place_7_points=na_3,
-               x3rd_place_5_points=na_4,
-               x4th_place_3_points=na_5,
-               x5th_place_1_point=na_6)
-roy=roy %>% select(-na_5)
-all_nba=all_nba %>% filter(!is.na(forward_2))
-all_def=all_def %>% filter(!is.na(first_fwd)) %>% select(-na)
+# mvp=mvp %>% rename(x1st_place_10_points=na_2,
+#                x2nd_place_7_points=na_3,
+#                x3rd_place_5_points=na_4,
+#                x4th_place_3_points=na_5,
+#                x5th_place_1_point=na_6)
+# roy=roy %>% select(-na_5)
+# all_nba=all_nba %>% filter(!is.na(forward_2))
+# all_def=all_def %>% filter(!is.na(first_fwd)) %>% select(-na)
+
+#2023 edits
+all_def=all_def %>% filter(!is.na(first_fwd))
 
 
 append_new<-function(award,season){
@@ -43,12 +47,13 @@ append_new(dpoy,curr_year)
 append_new(mip,curr_year)
 append_new(smoy,curr_year)
 append_new(coy,curr_year)
+write_csv(cpoy,"cpoy.csv")
 
 append_new(all_nba,curr_year)
 append_new(all_def,curr_year)
 append_new(all_rook,curr_year)
 
-file_list=c("mvp.csv","roy.csv","dpoy.csv","mip.csv","smoy.csv","coy.csv",
+file_list=c("mvp.csv","roy.csv","dpoy.csv","mip.csv","smoy.csv","coy.csv","cpoy.csv",
            "all-nba.csv","all-def.csv","all-rook.csv")
 
 sapply(file_list, function(x){
@@ -75,6 +80,8 @@ smoy<-read_csv("smoy.csv") %>%
   pivot_longer(cols=first_place_five_pts:third_place_one_pt,names_to="points",values_to="player")
 coy<-read_csv("coy.csv") %>%
   pivot_longer(cols=first_place_five_pts:third_place_one_pt,names_to="points",values_to="player")
+cpoy<-read_csv("cpoy.csv") %>%
+  pivot_longer(cols=first_place_five_pts:third_place_one_pt,names_to="points",values_to="player")
 all_nba<-read_csv("all-nba.csv") %>%
   pivot_longer(cols=forward:guard_6,names_to="points",values_to="player")
 all_def<-read_csv("all-def.csv") %>%
@@ -87,7 +94,10 @@ all_voting=mvp %>% add_row(roy) %>% add_row(dpoy) %>% add_row(mip) %>%
 
 rm(mvp,roy,dpoy,mip,smoy,coy,all_nba,all_def,all_rook)
 
-all_voting=all_voting %>% mutate(player=gsub("\\(.*","",player)) %>% 
+all_voting_player_fix=all_voting %>% 
+  #these 4 2023 awards have no comma between last name & first name
+  mutate(player=if_else(year==2023 & award %in% c("All-NBA","All-Defense","MVP","DPOY"),str_replace(player," ",", "),player)) %>%
+  mutate(player=gsub("\\(.*","",player)) %>% 
   mutate(player=gsub("--.*","",player)) %>% mutate(player=str_trim(player)) %>% 
   separate(player,into=c("last","first"),sep=", ",convert = TRUE) %>%
   unite("player",c(first,last),sep=" ",na.rm=TRUE) %>% 
@@ -105,7 +115,7 @@ all_voting=all_voting %>% mutate(player=gsub("\\(.*","",player)) %>%
   select(-points)
 
 #voter names standardization
-all_voting=all_voting %>% mutate(voter_name=case_when(
+all_voting_voter_fix=all_voting_player_fix %>% mutate(voter_name=case_when(
   voter_name=="Sherrod Blakely"~"A. Sherrod Blakely",
   voter_name=="Diego Martinez"~"Diego Martínez Cabrera",
   voter_name=="Israel Gutierez"~"Israel Gutierrez",
@@ -119,9 +129,10 @@ all_voting=all_voting %>% mutate(voter_name=case_when(
   voter_name=="Vote Fan"~"NBA Fan Vote",
   str_detect(voter_name,"Rosalyn")~"Rosalyn Gold-Onwude",
   voter_name=="Vince Goodwill"~"Vincent Goodwill",
+  voter_name=="Omari Sankofa"~"Omari Sankofa II",
   !(is.na(voter_name))~voter_name))
 
-finalized_all_voting = all_voting %>%
+finalized_all_voting = all_voting_voter_fix %>%
   mutate(player=case_when(
     #3 players in all-def 2015 have one dash rather than two
     str_detect(player," - IND")~"George Hill",
@@ -129,6 +140,8 @@ finalized_all_voting = all_voting %>%
     str_detect(player," - Mil")~"Giannis Antetokounmpo",
     str_detect(player,"Barea")~"J.J. Barea",
     str_detect(player,"Michael Jr. Porter")~"Michael Porter Jr.",
+    str_detect(player,"Jr. Jaren Jackson")~"Jaren Jackson Jr.",
+    str_detect(player,"O.G. Anunoby")~"OG Anunoby",
     str_detect(player,"PJ Tucker")~"P.J. Tucker",
     str_detect(player,"R.J. Barrett")~"RJ Barrett",
     str_detect(player,"TJ McConnell")~"T.J. McConnell",
