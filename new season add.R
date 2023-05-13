@@ -89,10 +89,10 @@ all_def<-read_csv("all-def.csv") %>%
 all_rook<-read_csv("all-rook.csv") %>%
   pivot_longer(cols=first:second_5,names_to="points",values_to="player")
 
-all_voting=mvp %>% add_row(roy) %>% add_row(dpoy) %>% add_row(mip) %>% 
+all_voting=mvp %>% add_row(roy) %>% add_row(dpoy) %>% add_row(mip) %>% add_row(cpoy) %>%
   add_row(smoy) %>% add_row(coy) %>% add_row(all_nba) %>% add_row(all_def) %>% add_row(all_rook)
 
-rm(mvp,roy,dpoy,mip,smoy,coy,all_nba,all_def,all_rook)
+rm(mvp,roy,dpoy,mip,smoy,coy,cpoy,all_nba,all_def,all_rook)
 
 all_voting_player_fix=all_voting %>% 
   #these 4 2023 awards have no comma between last name & first name
