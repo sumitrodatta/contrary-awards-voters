@@ -3,7 +3,7 @@ library(tidyverse)
 library(pdftools)
 
 source("scraping funcs.R")
-curr_year=2023
+curr_year=2024
 mvp=voting_tibble(year=curr_year,award="MVP")
 roy=voting_tibble(year=curr_year,award="ROY")
 dpoy=voting_tibble(year=curr_year,award="DPOY")
@@ -33,8 +33,9 @@ all_rook=voting_tibble(year=curr_year,award="All-Rook")
 # all_def=all_def %>% filter(!is.na(first_fwd)) %>% select(-na)
 
 #2023 edits
-all_def=all_def %>% filter(!is.na(first_fwd))
+#all_def=all_def %>% filter(!is.na(first_fwd))
 
+#2024 edits - all-nba and all-defense now positionless
 
 append_new<-function(award,season){
   csv_name=paste0(str_replace(deparse(substitute(award)),"_","-"),".csv")
@@ -47,7 +48,7 @@ append_new(dpoy,curr_year)
 append_new(mip,curr_year)
 append_new(smoy,curr_year)
 append_new(coy,curr_year)
-write_csv(cpoy,"cpoy.csv")
+append_new(cpoy,curr_year)
 
 append_new(all_nba,curr_year)
 append_new(all_def,curr_year)
@@ -83,9 +84,9 @@ coy<-read_csv("coy.csv") %>%
 cpoy<-read_csv("cpoy.csv") %>%
   pivot_longer(cols=first_place_five_pts:third_place_one_pt,names_to="points",values_to="player")
 all_nba<-read_csv("all-nba.csv") %>%
-  pivot_longer(cols=forward:guard_6,names_to="points",values_to="player")
+  pivot_longer(cols=c(forward:guard_6,starts_with("all_nba")),names_to="points",values_to="player",values_drop_na = TRUE)
 all_def<-read_csv("all-def.csv") %>%
-  pivot_longer(cols=first_fwd:second_g_2,names_to="points",values_to="player")
+  pivot_longer(cols=c(first_fwd:second_g_2,starts_with("all_defensive")),names_to="points",values_to="player",values_drop_na = TRUE)
 all_rook<-read_csv("all-rook.csv") %>%
   pivot_longer(cols=first:second_5,names_to="points",values_to="player")
 
@@ -96,7 +97,9 @@ rm(mvp,roy,dpoy,mip,smoy,coy,cpoy,all_nba,all_def,all_rook)
 
 all_voting_player_fix=all_voting %>% 
   #these 4 2023 awards have no comma between last name & first name
-  mutate(player=if_else(year==2023 & award %in% c("All-NBA","All-Defense","MVP","DPOY"),str_replace(player," ",", "),player)) %>%
+  mutate(player=case_when(year==2023 & award %in% c("All-NBA","All-Defense","MVP","DPOY")~str_replace(player," ",", "),
+                           year==2024 ~ word(player,sep=", "),
+                           TRUE~player)) %>%
   mutate(player=gsub("\\(.*","",player)) %>% 
   mutate(player=gsub("--.*","",player)) %>% mutate(player=str_trim(player)) %>% 
   separate(player,into=c("last","first"),sep=", ",convert = TRUE) %>%
@@ -109,9 +112,12 @@ all_voting_player_fix=all_voting %>%
     str_detect(points,"x5th|third_place")~1,
     (award %in% c("All-Defense","All-Rook") & str_detect(points,"first"))~2,
     (award %in% c("All-Defense","All-Rook") & str_detect(points,"second"))~1,
-    (award == "All-NBA" & points %in% c("forward","forward_2","center","guard","guard_2"))~5,
-    (award == "All-NBA" & points %in% c("forward_3","forward_4","center_2","guard_3","guard_4"))~3,
-    (award == "All-NBA" & points %in% c("forward_5","forward_6","center_3","guard_5","guard_6"))~1)) %>%
+    (award == "All-NBA" & 
+       (str_detect(points,"first")|points %in% c("forward","forward_2","center","guard","guard_2")))~5,
+    (award == "All-NBA" & 
+       (str_detect(points,"second")|points %in% c("forward_3","forward_4","center_2","guard_3","guard_4")))~3,
+    (award == "All-NBA" & 
+       (str_detect(points,"third")|points %in% c("forward_5","forward_6","center_3","guard_5","guard_6")))~1)) %>%
   select(-points)
 
 #voter names standardization
@@ -125,6 +131,7 @@ all_voting_voter_fix=all_voting_player_fix %>% mutate(voter_name=case_when(
   voter_name=="Manny Navaro"~"Manny Navarro",
   voter_name=="MIchael Wilbon"~"Michael Wilbon",
   voter_name=="Mike Wilbon"~"Michael Wilbon",
+  voter_name=="Michael C Wright"~"Michael C. Wright",
   str_detect(voter_name,"NBA")~"NBA Fan Vote",
   voter_name=="Vote Fan"~"NBA Fan Vote",
   str_detect(voter_name,"Rosalyn")~"Rosalyn Gold-Onwude",
@@ -141,6 +148,7 @@ finalized_all_voting = all_voting_voter_fix %>%
     str_detect(player,"Barea")~"J.J. Barea",
     str_detect(player,"Michael Jr. Porter")~"Michael Porter Jr.",
     str_detect(player,"Jr. Jaren Jackson")~"Jaren Jackson Jr.",
+    str_detect(player,"DeMar Derozan")~"DeMar DeRozan",
     str_detect(player,"O.G. Anunoby")~"OG Anunoby",
     str_detect(player,"PJ Tucker")~"P.J. Tucker",
     str_detect(player,"R.J. Barrett")~"RJ Barrett",

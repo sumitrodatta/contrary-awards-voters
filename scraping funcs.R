@@ -6,14 +6,17 @@ voting_tibble<-function(year=2020,award){
   pdf_name<-paste0("voting pdfs/",year," ",award,".pdf")
   a<-pdf_text(pdf_name) %>% read_lines() %>% str_trim(.) %>% 
     str_split(.,'\\s{2,100}')
-  a=tibble(a) %>% unnest_wider(col=a)
+  a=tibble(a) %>% unnest_wider(col=a,names_sep="_")
   if (!(award %in% c("All-NBA","All-Defense")) & year > 2017){
     colnames(a)=a[2,]
   }
   else if (award  %in% c("All-NBA","All-Defense") & year %in% 2016:2017){
     colnames(a)=a[4,]
   }
-  else if ((award == "All-Defense" & year==2020)|(award=="All-Rook" & year %in% 2018:2020)){
+  else if ((award == "All-Defense" & year==2020)|
+           (award=="All-Rook" & year %in% 2018:2020)|
+           (award %in% c("All-NBA","All-Defense") & year == 2024) #positionless now
+           ){
     colnames(a)=a[2,]
   }
   else{
@@ -24,7 +27,7 @@ voting_tibble<-function(year=2020,award){
   if (!(award %in% c("MVP","All-Defense","All-NBA","All-Rook"))){
     colnames(a)[3:5]=c("first_place_five_pts","second_place_three_pts","third_place_one_pt")
   }
-  else if (award == "All-Defense"){
+  else if (award == "All-Defense" & year < 2024){
     colnames(a)[3:12]=c("first_fwd","first_fwd_2","first_cen","first_g","first_g_2",
                         "second_fwd","second_fwd_2","second_cen","second_g","second_g_2")
   }

@@ -468,8 +468,8 @@ year,voter_name,affiliation,yr_contrary,num_awards_voted
 2016,Mike Monroe,The Rivard Report,5.792815375680267,9
 2016,Mike Rice,Comcast SportsNet NW,5.04627716543724,7
 2016,Mike Tirico,ESPN,5.951793495520231,9
-2016,Nate Taylor,Indianapolis Star,4.112782718844742,4
 2016,NBA Fan Vote,NBA.com/Twitter/Google,1.7449911411924808,1
+2016,Nate Taylor,Indianapolis Star,4.112782718844742,4
 2016,Neil Funk,Comcast SportsNet Chicago,2.2699142177256277,3
 2016,Nick Friedell,ESPNChicago.com,3.0237578261467504,3
 2016,Paul Coro,The Arizona Republic,7.63315298331598,9
@@ -587,8 +587,8 @@ year,voter_name,affiliation,yr_contrary,num_awards_voted
 2017,Michael Wilbon,ABC/ESPN,5.317128659171393,9
 2017,Michelle Beadle,ABC/ESPN,7.279108919647857,9
 2017,Mike Breen,ABC/ESPN,6.416280966055998,9
-2017,Nate Taylor,Indianapolis Star,7.742763099235489,9
 2017,NBA Fan Vote,NA,1.629891240097159,1
+2017,Nate Taylor,Indianapolis Star,7.742763099235489,9
 2017,Nira Khurana,Excelsior,6.276740348162614,9
 2017,Paul Flannery,SB Nation,4.529241812050957,9
 2017,Rachel Nichols,ABC/ESPN,5.630929590360033,9
@@ -607,8 +607,8 @@ year,voter_name,affiliation,yr_contrary,num_awards_voted
 2017,Steve Aschburner,NBA.com,5.445000489434427,9
 2017,Steve Kyler,Basketball Insiders,8.978078432112255,9
 2017,Steve Smith,Turner,6.26973772709003,9
-2017,Tim Reynolds,Associated Press,10.310795417171752,9
 2017,TJ Manotoc,ABC-CBN,7.677521305058519,9
+2017,Tim Reynolds,Associated Press,10.310795417171752,9
 2017,Tony Jones,Salt Lake Tribune,8.436424737587199,9
 2017,Vincent Goodwill,CSN Chicago,5.78698546005298,9
 2017,Weiping Zhang,CCTV,8.00511817155358,9
@@ -705,9 +705,9 @@ year,voter_name,affiliation,yr_contrary,num_awards_voted
 2018,Stefan Bondy,New York Daily News,4.8728562209981865,9
 2018,Steve Aschburner,NBA.com,4.034737490277822,9
 2018,Steve Smith,Turner,4.10029738902839,9
+2018,TJ Manotoc,ABS‐CBN,4.813961344108184,9
 2018,Thales Soares,Globoesporte.com,7.0231877111590535,9
 2018,Tim Reynolds,Associated Press,7.91082721855954,9
-2018,TJ Manotoc,ABS‐CBN,4.813961344108184,9
 2018,Tony Jones,Salt Lake Tribune,7.621946490827349,9
 2018,Vincent Goodwill,NBC Sports Chicago,5.66628990074419,9
 2018,Weiping Zhang,CCTV,5.576157903950298,9
@@ -1154,6 +1154,7 @@ year,voter_name,affiliation,yr_contrary,num_awards_voted
 2023,Gary Washburn,Boston Globe,8.380862220227014,10
 2023,Greg Anthony,WarnerMedia,6.487114081545204,10
 2023,Howard Beck,PBWA/GQ,5.481071557008571,10
+2023,JJ Redick,ESPN,6.4305997598025,10
 2023,Jalen Rose,ESPN,8.564866428209749,10
 2023,Jamal Collier,ESPN,5.832574019676882,10
 2023,James Owczarski,Milwaukee Journal Sentinel,8.0006981052444,10
@@ -1161,7 +1162,6 @@ year,voter_name,affiliation,yr_contrary,num_awards_voted
 2023,Jason Jones,The Athletic,7.119366909579027,10
 2023,Jeff McDonald,San Antonio Express-News,5.43974599308059,10
 2023,Jeff Zillgitt,USA Today,7.122760016122109,10
-2023,JJ Redick,ESPN,6.4305997598025,10
 2023,Joe Mussatto,The Oklahoman,4.476653382556771,10
 2023,Joe Vardon,The Athletic,6.26705125280799,10
 2023,John Schuhmann,NBA.com,5.26753507824593,10
@@ -1218,3 +1218,102 @@ year,voter_name,affiliation,yr_contrary,num_awards_voted
 2023,Yoko Miyaji,Sports Graphic Number,6.33425675558033,10
 2023,Zach Harper,The Athletic,6.20078238641556,10
 2023,Zach Lowe,ESPN,5.539984873672224,10
+2024,Adam Himmelsbach,Boston Globe,6.386427063824137,10
+2024,Adam Lefkoe,WarnerMedia,6.20422658915399,10
+2024,Anthony Chiang,Miami Herald,6.082018652411509,10
+2024,Anthony Slater,The Athletic,6.14117741707543,10
+2024,Antoni Daimiel,Movistar+,6.597624471090493,10
+2024,Bennett Durando,Denver Post,6.638882849882303,10
+2024,Bill Reiter,CBSSports.com,5.255140756517206,10
+2024,Bill Simmons,The Ringer,6.850067504397931,10
+2024,Brad Townsend,Dallas Morning News,5.73566939642737,10
+2024,Brian Geltzeiler,Sirius Radio,7.2323238341095495,10
+2024,Brian Windhorst,ESPN,5.291892038233452,10
+2024,Candace Parker,WarnerMedia,4.8435423498616315,10
+2024,Cassidy Hubbarth,ESPN,5.985423069069476,10
+2024,Chao Meng,ESPN (China),5.059750239769423,10
+2024,Chiney Ogwumike,ESPN,5.565357259201944,10
+2024,Chris Broussard,Fox Sports,7.975000656954133,10
+2024,Chris Fedor,Cleveland.com,6.329419843002665,10
+2024,Chris Mannix,Sports Illustrated,6.779003161517679,10
+2024,Damichael Cole,Memphis Commercial Appeal,5.967548265762938,10
+2024,Dan Devine,Yahoo! Sports,5.588213013241866,10
+2024,Dave McMenamin,ESPN,9.623743848513076,10
+2024,Dave Pasch,ESPN,6.159883569571762,10
+2024,David Aldridge,The Athletic,7.108661157523843,10
+2024,Dennis Scott,WarnerMedia,7.316307967821373,10
+2024,Doug Smith,The Toronto Star,6.410980769704568,10
+2024,Duane Rankin,Arizona Republic,6.51774702404755,10
+2024,Eric Nehm,The Athletic,8.803319350146719,10
+2024,Ernie Johnson,WarnerMedia,6.542051781054715,10
+2024,Evan Barnes,Newsday,7.356762662699378,10
+2024,Frank Isola,Sirius Radio,8.362329531681311,10
+2024,Gary Washburn,Boston Globe,10.05115732699811,10
+2024,Greg Anthony,WarnerMedia,9.042338301157454,10
+2024,Howard Beck,The Ringer,5.824703804983206,10
+2024,Ignacio Garcia,MARCA,11.214208119826697,10
+2024,JJ Redick,ESPN,5.814688804121451,10
+2024,James Edwards III,The Athletic,6.340055009697878,10
+2024,James Herbert,CBSSports.com,6.633206254727957,10
+2024,Jared Greenberg,WarnerMedia,6.473281713523327,10
+2024,Jason Anderson,Sacramento Bee,4.544235514059673,10
+2024,Jason Beede,Orlando Sentinel,5.546635528985549,10
+2024,Jason Quick,The Athletic,6.201457021141735,10
+2024,Jeff McDonald,San Antonio Express-News,5.543817008449241,10
+2024,Jeff Zillgitt,USA Today,7.413937001890056,10
+2024,Joe Vardon,The Athletic,8.783494676112557,10
+2024,John Schuhmann,NBA.com,8.98399235089149,10
+2024,Jonathan Mitchell Fuentes,Cignal,6.529574340212263,10
+2024,Josh Robbins,The Athletic,8.181664227738294,10
+2024,Julia Poe,Chicago Tribune,6.108561116755674,10
+2024,Justin Termine,Sirius Radio,6.33166848791063,10
+2024,Keith Pompey,Philadelphia Inquirer,5.8925038447474085,10
+2024,Kelly Iko,The Athletic,7.682158806352611,10
+2024,Kendrick Perkins,ESPN,9.781869621005237,10
+2024,Kevin O'Connor,The Ringer,6.485788219634132,10
+2024,Kevin Pelton,ESPN,8.13984267062903,10
+2024,Khobi Price,Southern California News Group,6.628114243431265,10
+2024,Kristian Winfield,New York Daily News,6.313987767936404,10
+2024,Kurt Helin,NBCSports.com,5.765952401410528,10
+2024,Marc Kestecher,ESPN,4.858612777563343,10
+2024,Matt Winer,WarnerMedia,4.675881994606118,10
+2024,Maxime Aubin,L'Equipe,6.2248611987428335,10
+2024,Melissa Rohlin,Fox Sports,5.5934721717934694,10
+2024,Michael C. Wright,NBA.com,5.986157818304621,10
+2024,Michael Grange,Rogers Sportsnet,7.589851276589169,10
+2024,Michael Pina,The Ringer,6.269252649021043,10
+2024,Michael Wilbon,ESPN,9.726803794725383,10
+2024,Miguel Candeias,A Bola,5.397527844905943,10
+2024,Mike Greenberg,ESPN,6.446728743927972,10
+2024,Ohm Youngmisuk,ESPN,5.492158084739619,10
+2024,Rachel Nichols,SHO,4.757182464239892,10
+2024,Ramona Shelburne,ESPN,7.17928703694468,10
+2024,Remi Reverchon,BeIN Sports,6.5552969776253764,10
+2024,Ric Bucher,FS1,8.022518356279857,10
+2024,Richard Jefferson,ESPN,8.074622277264183,10
+2024,Rob Mahoney,The Ringer,5.87957493287959,10
+2024,Rod Boone,Charlotte Observer,9.084542078003048,10
+2024,Ryan Wolstat,The Toronto Sun,5.851098167846357,10
+2024,Ryen Russillo,The Ringer,6.985300365447725,10
+2024,Sam Amick,The Athletic,5.403693059280295,10
+2024,Seerat Sohi,The Ringer,7.397655278998674,10
+2024,Shams Charania,The Athletic/Stadium,7.299305779929304,10
+2024,Shaun Powell,NBA.com,7.153394438902681,10
+2024,Simone Sandri,La Gazzetta dello Sport,6.324912338085337,10
+2024,Stan Van Gundy,WarnerMedia,10.938627694646323,10
+2024,Stephanie Ready,WarnerMedia,5.035158126165371,10
+2024,Stephen A. Smith,ESPN,8.113496129474292,10
+2024,Steve Aschburner,NBA.com,5.782563773312843,10
+2024,Steve McGehee,News 9,6.2634484074006975,10
+2024,Steve Smith,WarnerMedia,4.9864081730161525,10
+2024,Taylor Rooks,Bleacher Report,5.147227685085424,10
+2024,Tim Bontemps,ESPN,7.960406425363128,10
+2024,Tim Cato,The Athletic,8.245564595621769,10
+2024,Tim Reynolds,Associated Press,9.166096488829039,10
+2024,Tolis Kotzias,SDNA,16.590344859238265,10
+2024,Tony Jones,The Athletic,6.918417383644142,10
+2024,Vincent Goodwill,Yahoo! Sports,6.527526968430565,10
+2024,Will Guillory,The Athletic,5.889375273851656,10
+2024,Yoav Modai,Sport 5,6.108201094761571,10
+2024,Yoko Miyaji,Sports Graphic Number,6.193091914577591,10
+2024,Zach Harper,The Athletic,6.054858804690928,10
