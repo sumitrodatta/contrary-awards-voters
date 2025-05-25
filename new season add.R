@@ -3,7 +3,7 @@ library(tidyverse)
 library(pdftools)
 
 source("scraping funcs.R")
-curr_year=2024
+curr_year=2025
 mvp=voting_tibble(year=curr_year,award="MVP")
 roy=voting_tibble(year=curr_year,award="ROY")
 dpoy=voting_tibble(year=curr_year,award="DPOY")
@@ -36,6 +36,60 @@ all_rook=voting_tibble(year=curr_year,award="All-Rook")
 #all_def=all_def %>% filter(!is.na(first_fwd))
 
 #2024 edits - all-nba and all-defense now positionless
+
+#2025 edits
+mvp=mvp %>% row_to_names(1) %>% clean_names() %>% 
+  separate_wider_delim(voter_affiliation,delim=", ",names=c("voter_name","affiliation")) %>%
+  rename(year=x2025,award=mvp) %>% filter(voter_name != "Voter")
+roy=roy %>% row_to_names(1) %>% clean_names() %>% 
+  separate_wider_delim(voter_affiliation,delim=", ",names=c("voter_name","affiliation")) %>%
+  rename(year=x2025,award=roy,
+         first_place_five_pts=x1st_place_5_points,
+         second_place_three_pts=x2nd_place_3_points,
+         third_place_one_pt=x3rd_place_1_point) %>% filter(voter_name != "Voter")
+dpoy=dpoy %>% row_to_names(1) %>% clean_names() %>% 
+  separate_wider_delim(voter_affiliation,delim=", ",names=c("voter_name","affiliation")) %>%
+  rename(year=x2025,award=dpoy,
+         first_place_five_pts=x1st_place_5_points,
+         second_place_three_pts=x2nd_place_3_points,
+         third_place_one_pt=x3rd_place_1_point) %>% filter(voter_name != "Voter")
+mip=mip %>% row_to_names(1) %>% clean_names() %>% 
+  separate_wider_delim(voter_affiliation,delim=", ",names=c("voter_name","affiliation")) %>%
+  rename(year=x2025,award=mip,
+         first_place_five_pts=x1st_place_5_points,
+         second_place_three_pts=x2nd_place_3_points,
+         third_place_one_pt=x3rd_place_1_point) %>% filter(voter_name != "Voter")
+smoy=smoy %>% row_to_names(1) %>% clean_names() %>% 
+  separate_wider_delim(voter_affiliation,delim=", ",names=c("voter_name","affiliation")) %>%
+  rename(year=x2025,award=smoy,
+         first_place_five_pts=x1st_place_5_points,
+         second_place_three_pts=x2nd_place_3_points,
+         third_place_one_pt=x3rd_place_1_point) %>% filter(voter_name != "Voter")
+coy=coy %>% row_to_names(1) %>% clean_names() %>% 
+  separate_wider_delim(voter_affiliation,delim=", ",names=c("voter_name","affiliation")) %>%
+  rename(year=x2025,award=coy,
+         first_place_five_pts=x1st_place_5_points,
+         second_place_three_pts=x2nd_place_3_points,
+         third_place_one_pt=x3rd_place_1_point) %>% filter(voter_name != "Voter")
+cpoy=cpoy %>% row_to_names(1) %>% clean_names() %>% 
+  separate_wider_delim(voter_affiliation,delim=", ",names=c("voter_name","affiliation")) %>%
+  rename(year=x2025,award=cpoy,
+         first_place_five_pts=x1st_place_5_points,
+         second_place_three_pts=x2nd_place_3_points,
+         third_place_one_pt=x3rd_place_1_point) %>% filter(voter_name != "Voter")
+all_nba=all_nba %>% row_to_names(1) %>% clean_names() %>% 
+  separate_wider_delim(voter_affiliation,delim=", ",names=c("voter_name","affiliation")) %>%
+  rename(year=x2025,award=all_nba)
+all_def=all_def %>% row_to_names(1) %>% clean_names() %>% 
+  separate_wider_delim(voter_affiliation,delim=", ",names=c("voter_name","affiliation")) %>%
+  rename(year=x2025,award=all_defense)
+all_rook=all_rook %>% row_to_names(1) %>% clean_names() %>% 
+  separate_wider_delim(voter_affiliation,delim=", ",names=c("voter_name","affiliation")) %>%
+  rename(year=x2025,award=all_rook,
+         first=all_rookie_first_team,
+         second=all_rookie_second_team) %>% 
+  rename_with(.fn=~str_c(word(.,sep="_",3),"_",word(.,sep="_",5)),
+              .cols=contains("all_rookie"))
 
 append_new<-function(award,season){
   csv_name=paste0(str_replace(deparse(substitute(award)),"_","-"),".csv")
@@ -90,15 +144,14 @@ all_def<-read_csv("all-def.csv") %>%
 all_rook<-read_csv("all-rook.csv") %>%
   pivot_longer(cols=first:second_5,names_to="points",values_to="player")
 
-all_voting=mvp %>% add_row(roy) %>% add_row(dpoy) %>% add_row(mip) %>% add_row(cpoy) %>%
-  add_row(smoy) %>% add_row(coy) %>% add_row(all_nba) %>% add_row(all_def) %>% add_row(all_rook)
+all_voting=bind_rows(mvp,roy,dpoy,mip,cpoy,smoy,coy,all_nba,all_def,all_rook)
 
 rm(mvp,roy,dpoy,mip,smoy,coy,cpoy,all_nba,all_def,all_rook)
 
 all_voting_player_fix=all_voting %>% 
   #these 4 2023 awards have no comma between last name & first name
   mutate(player=case_when(year==2023 & award %in% c("All-NBA","All-Defense","MVP","DPOY")~str_replace(player," ",", "),
-                           year==2024 ~ word(player,sep=", "),
+                           year>=2024 ~ word(player,sep=", "),
                            TRUE~player)) %>%
   mutate(player=gsub("\\(.*","",player)) %>% 
   mutate(player=gsub("--.*","",player)) %>% mutate(player=str_trim(player)) %>% 

@@ -51,6 +51,14 @@ write_csv(yearly_contrary,"Contrary Outputs/Yearly Contrary Scores.csv")
 
 write_csv(yearly_contrary %>% group_by(year) %>% slice_max(yr_contrary),"Contrary Outputs/Most Contrary Voter by Year.csv")
 
+players_by_contrary_score=left_join(contrary_scores,yearly_contrary %>% select(-affiliation)) %>% 
+  group_by(player,award,year) %>% filter(points_given>0) %>% 
+  summarize(tot_points=sum(points_given),num_voters=n(),avg_yr_contrary_of_voter=mean(yr_contrary)) %>%
+  left_join(.,yearly_contrary %>% select(-affiliation) %>% group_by(year) %>% summarize(avg_yr_contrary=mean(yr_contrary))) %>%
+  mutate(contrary_over_avg=avg_yr_contrary_of_voter-avg_yr_contrary)
+
+write_csv(players_by_contrary_score,"Contrary Outputs/Players by Contrary Score of Voter.csv")
+
 career_contrary=contrary_scores %>% group_by(voter_name) %>% 
   mutate(num_picks_made=n(),first_vote=min(year),last_vote=max(year),num_yrs_voted=n_distinct(year)) %>%
   group_by(year,award,voter_name) %>% slice_max(avg_consensus_dev,with_ties=FALSE) %>%
